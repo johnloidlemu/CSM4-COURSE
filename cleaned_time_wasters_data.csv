@@ -1,0 +1,1001 @@
+Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Platform,Total Time Spent,Number of Sessions,Video Length,Engagement,Importance Score,Time Spent On Video,Number of Videos Watched,Scroll Rate,Frequency,ProductivityLoss,Satisfaction,Self Control,Addiction Level,CurrentActivity,ConnectionType,Average Video Length,Engagement Rate,Time Spent Per Session
+56,Male,Pakistan,82812,True,True,Engineer,Rural,Instagram,80,17,24,7867,5,26,22,87,Night,3,7,5,5,Commuting,Mobile Data,1.1818181818181819,357.59090909090907,4.705882352941177
+46,Female,Mexico,27999,False,True,Artist,Urban,Instagram,228,14,19,5944,6,25,31,46,Afternoon,5,5,7,3,At school,Wi-Fi,0.8064516129032258,191.74193548387098,16.285714285714285
+32,Female,United States,42436,False,True,Engineer,Rural,Facebook,30,6,19,8674,3,9,7,88,Evening,6,4,8,2,At home,Mobile Data,1.2857142857142858,1239.142857142857,5.0
+60,Male,Barzil,62963,True,False,Waiting staff,Rural,YouTube,101,19,4,2477,2,6,41,93,Night,3,7,5,5,Commuting,Mobile Data,0.14634146341463414,60.41463414634146,5.315789473684211
+25,Male,Pakistan,22096,False,True,Manager,Urban,TikTok,136,6,19,3093,7,13,21,4,Morning,8,2,10,0,At home,Mobile Data,0.6190476190476191,147.28571428571428,22.666666666666668
+38,Male,Vietnam,45279,False,False,Driver,Urban,Instagram,89,18,9,8534,5,27,16,38,Night,3,7,5,5,At home,Wi-Fi,1.6875,533.375,4.944444444444445
+56,Male,India,46201,False,False,Students,Rural,TikTok,247,5,16,7207,9,22,20,63,Morning,8,2,10,0,At school,Wi-Fi,1.1,360.35,49.4
+36,Male,Barzil,39715,False,False,Engineer,Rural,Instagram,191,6,27,9654,3,28,43,29,Night,3,7,5,5,At home,Mobile Data,0.6511627906976745,224.51162790697674,31.833333333333332
+40,Male,United States,49309,False,False,Waiting staff,Rural,Instagram,34,2,4,9394,8,20,44,19,Night,3,7,5,5,At home,Mobile Data,0.45454545454545453,213.5,17.0
+28,Other,United States,35078,False,False,Students,Rural,YouTube,165,8,6,9813,6,4,47,91,Evening,6,4,8,2,At home,Mobile Data,0.0851063829787234,208.7872340425532,20.625
+28,Male,Indonesia,76614,True,True,Manager,Rural,Instagram,14,15,8,6227,4,2,19,29,Afternoon,5,5,7,3,At home,Mobile Data,0.10526315789473684,327.7368421052632,0.9333333333333333
+41,Other,Philippines,25105,False,False,Labor/Worker,Urban,TikTok,129,15,27,3535,9,26,48,35,Evening,6,4,8,2,At home,Wi-Fi,0.5416666666666666,73.64583333333333,8.6
+53,Male,Japan,22839,False,False,Waiting staff,Rural,Instagram,286,11,29,7004,5,4,32,70,Afternoon,5,5,7,3,At school,Mobile Data,0.125,218.875,26.0
+57,Male,Indonesia,88920,True,True,Waiting staff,Rural,Facebook,27,1,24,2913,6,8,15,23,Evening,6,4,8,2,Commuting,Wi-Fi,0.5333333333333333,194.2,27.0
+41,Other,Vietnam,63619,True,True,Cashier,Rural,YouTube,207,18,16,9381,9,13,5,46,Evening,6,4,8,2,At school,Wi-Fi,2.6,1876.2,11.5
+20,Female,Philippines,62821,True,True,Students,Rural,YouTube,66,12,5,2340,7,10,11,44,Evening,6,4,8,2,At school,Mobile Data,0.9090909090909091,212.72727272727272,5.5
+39,Female,Mexico,33493,False,False,Waiting staff,Rural,Facebook,102,12,21,9795,5,18,15,48,Afternoon,5,5,7,3,At home,Wi-Fi,1.2,653.0,8.5
+19,Female,Barzil,37069,False,False,Students,Rural,Facebook,28,11,22,5289,2,9,29,52,Evening,6,4,8,2,At home,Mobile Data,0.3103448275862069,182.3793103448276,2.5454545454545454
+41,Other,Japan,27531,False,False,Labor/Worker,Rural,Facebook,202,8,10,597,4,1,45,8,Evening,6,4,8,2,At work,Mobile Data,0.022222222222222223,13.266666666666667,25.25
+61,Male,United States,57051,True,True,Labor/Worker,Urban,Instagram,246,7,23,8836,2,13,4,55,Morning,8,2,10,0,At work,Mobile Data,3.25,2209.0,35.142857142857146
+47,Male,India,27736,False,False,Waiting staff,Rural,YouTube,286,2,13,7145,3,18,49,66,Afternoon,5,5,7,3,Commuting,Mobile Data,0.3673469387755102,145.81632653061226,143.0
+55,Male,Barzil,27710,False,False,Driver,Rural,Facebook,236,11,29,2902,3,15,36,77,Afternoon,5,5,7,3,Commuting,Mobile Data,0.4166666666666667,80.61111111111111,21.454545454545453
+19,Female,Indonesia,87155,True,False,Students,Rural,Instagram,242,10,26,6645,4,2,48,40,Night,3,7,5,5,At work,Mobile Data,0.041666666666666664,138.4375,24.2
+38,Female,India,33975,False,False,Waiting staff,Urban,Facebook,49,3,14,8955,6,11,23,85,Evening,6,4,8,2,At home,Mobile Data,0.4782608695652174,389.3478260869565,16.333333333333332
+50,Male,Germany,82424,True,True,Waiting staff,Rural,TikTok,162,10,7,7694,3,29,15,31,Evening,6,4,8,2,At home,Mobile Data,1.9333333333333333,512.9333333333333,16.2
+29,Male,Japan,65603,True,False,Labor/Worker,Urban,TikTok,136,18,29,4830,1,14,46,48,Afternoon,5,5,7,3,At school,Wi-Fi,0.30434782608695654,105.0,7.555555555555555
+39,Male,Japan,43252,False,True,Students,Rural,YouTube,246,14,20,7546,1,22,44,61,Evening,6,4,8,2,Commuting,Mobile Data,0.5,171.5,17.571428571428573
+61,Other,Vietnam,21431,False,False,Manager,Urban,Instagram,64,18,6,7368,9,15,3,52,Night,3,7,5,5,At home,Wi-Fi,5.0,2456.0,3.5555555555555554
+42,Female,India,94603,True,True,Labor/Worker,Rural,TikTok,181,8,7,9834,9,14,32,38,Evening,6,4,8,2,At work,Mobile Data,0.4375,307.3125,22.625
+44,Male,India,57481,True,False,Driver,Urban,TikTok,118,10,5,2160,5,16,10,91,Evening,6,4,8,2,At home,Wi-Fi,1.6,216.0,11.8
+59,Male,United States,29557,False,True,Driver,Rural,Instagram,193,13,21,5878,9,23,40,36,Morning,8,2,10,0,At school,Wi-Fi,0.575,146.95,14.846153846153847
+45,Male,United States,94971,True,False,Students,Rural,Facebook,207,8,18,7663,7,29,38,87,Afternoon,5,5,7,3,At home,Mobile Data,0.7631578947368421,201.6578947368421,25.875
+33,Male,India,20162,False,True,Labor/Worker,Rural,Instagram,96,4,23,3749,9,15,22,55,Night,3,7,5,5,Commuting,Mobile Data,0.6818181818181818,170.4090909090909,24.0
+32,Other,Mexico,54742,True,False,Waiting staff,Rural,Facebook,210,4,12,2922,7,19,14,85,Evening,6,4,8,2,At work,Mobile Data,1.3571428571428572,208.71428571428572,52.5
+64,Female,Vietnam,39675,False,True,Students,Rural,TikTok,284,5,6,6486,9,27,17,13,Evening,6,4,8,2,At school,Mobile Data,1.588235294117647,381.52941176470586,56.8
+61,Other,Mexico,93997,True,False,Students,Urban,TikTok,220,1,27,8112,2,9,21,37,Night,3,7,5,5,At home,Wi-Fi,0.42857142857142855,386.2857142857143,220.0
+20,Male,United States,37015,False,True,Labor/Worker,Rural,TikTok,127,17,1,8771,8,5,48,47,Night,3,7,5,5,At home,Mobile Data,0.10416666666666667,182.72916666666666,7.470588235294118
+54,Male,Philippines,70057,True,False,Students,Urban,YouTube,200,2,4,3804,7,5,15,90,Afternoon,5,5,7,3,At school,Wi-Fi,0.3333333333333333,253.6,100.0
+24,Male,Barzil,52591,True,True,Cashier,Rural,YouTube,51,8,19,4878,6,11,15,71,Night,3,7,5,5,At home,Mobile Data,0.7333333333333333,325.2,6.375
+38,Male,Germany,29833,False,False,Students,Rural,YouTube,51,7,12,2368,5,28,1,22,Afternoon,5,5,7,3,Commuting,Mobile Data,28.0,2368.0,7.285714285714286
+26,Male,Pakistan,27896,False,True,Waiting staff,Urban,Instagram,285,15,15,8093,4,20,24,39,Evening,6,4,8,2,At work,Mobile Data,0.8333333333333334,337.2083333333333,19.0
+56,Male,India,52972,True,False,Students,Urban,TikTok,26,5,3,3932,7,25,12,87,Evening,6,4,8,2,At school,Mobile Data,2.0833333333333335,327.6666666666667,5.2
+35,Other,Indonesia,69733,True,True,Cashier,Rural,TikTok,292,2,23,5608,3,24,10,58,Morning,8,2,10,0,At home,Mobile Data,2.4,560.8,146.0
+21,Female,Pakistan,61800,True,False,Waiting staff,Rural,Instagram,267,7,27,6635,8,28,46,30,Night,3,7,5,5,At school,Mobile Data,0.6086956521739131,144.2391304347826,38.142857142857146
+42,Other,Philippines,25347,False,True,Labor/Worker,Urban,YouTube,72,8,28,6395,2,4,42,18,Evening,6,4,8,2,Commuting,Mobile Data,0.09523809523809523,152.26190476190476,9.0
+31,Female,Pakistan,79063,True,False,Waiting staff,Rural,Instagram,71,7,26,6101,1,20,42,18,Evening,6,4,8,2,At home,Mobile Data,0.47619047619047616,145.26190476190476,10.142857142857142
+26,Male,Vietnam,22643,False,True,Labor/Worker,Rural,YouTube,109,7,20,9292,2,18,31,74,Afternoon,5,5,7,3,At school,Mobile Data,0.5806451612903226,299.741935483871,15.571428571428571
+43,Male,Japan,60785,True,True,Students,Rural,TikTok,28,14,28,9862,9,25,11,39,Night,3,7,5,5,At work,Mobile Data,2.272727272727273,896.5454545454545,2.0
+19,Female,India,38681,False,True,Students,Rural,Facebook,26,18,8,5531,5,3,16,94,Evening,6,4,8,2,At school,Wi-Fi,0.1875,345.6875,1.4444444444444444
+37,Male,United States,70026,True,True,Students,Urban,YouTube,255,6,11,4970,8,4,9,26,Afternoon,5,5,7,3,At home,Mobile Data,0.4444444444444444,552.2222222222222,42.5
+45,Female,United States,35892,False,False,Waiting staff,Rural,TikTok,260,4,16,6344,3,14,47,71,Afternoon,5,5,7,3,At home,Wi-Fi,0.2978723404255319,134.9787234042553,65.0
+64,Other,Mexico,67299,True,True,Driver,Rural,TikTok,90,10,9,8408,7,7,14,7,Evening,6,4,8,2,At home,Mobile Data,0.5,600.5714285714286,9.0
+24,Male,Germany,37073,False,False,Students,Rural,Facebook,48,18,3,375,2,26,19,69,Evening,6,4,8,2,Commuting,Mobile Data,1.368421052631579,19.736842105263158,2.6666666666666665
+61,Male,Vietnam,50682,True,False,Driver,Rural,TikTok,45,12,5,7887,8,8,31,65,Afternoon,5,5,7,3,At work,Mobile Data,0.25806451612903225,254.41935483870967,3.75
+25,Other,India,34289,False,False,Cashier,Rural,TikTok,206,16,20,1609,7,24,9,46,Evening,6,4,8,2,At home,Mobile Data,2.6666666666666665,178.77777777777777,12.875
+64,Male,Japan,27927,False,False,Manager,Rural,YouTube,167,7,14,2939,5,16,36,18,Night,3,7,5,5,At home,Wi-Fi,0.4444444444444444,81.63888888888889,23.857142857142858
+52,Male,Indonesia,68330,True,False,Labor/Worker,Rural,YouTube,213,6,28,4062,4,20,39,13,Afternoon,5,5,7,3,At school,Mobile Data,0.5128205128205128,104.15384615384616,35.5
+31,Male,United States,86707,True,True,Waiting staff,Rural,Facebook,205,5,26,1613,1,15,26,25,Afternoon,5,5,7,3,At home,Mobile Data,0.5769230769230769,62.03846153846154,41.0
+34,Male,Vietnam,97454,True,False,Waiting staff,Rural,Facebook,225,3,15,6578,5,7,8,8,Night,3,7,5,5,At school,Mobile Data,0.875,822.25,75.0
+53,Male,Japan,85428,True,False,Driver,Urban,TikTok,294,12,6,7851,9,26,24,74,Night,3,7,5,5,At home,Mobile Data,1.0833333333333333,327.125,24.5
+57,Female,Germany,70601,True,True,Driver,Rural,YouTube,205,15,27,3679,4,17,8,32,Afternoon,5,5,7,3,At home,Wi-Fi,2.125,459.875,13.666666666666666
+21,Other,United States,97465,True,True,Waiting staff,Urban,Facebook,161,10,26,7540,9,22,19,17,Afternoon,5,5,7,3,Commuting,Wi-Fi,1.1578947368421053,396.8421052631579,16.1
+19,Male,United States,22539,False,True,Waiting staff,Rural,Facebook,23,19,4,9488,2,22,47,79,Evening,6,4,8,2,At school,Mobile Data,0.46808510638297873,201.87234042553192,1.2105263157894737
+23,Male,Vietnam,42669,False,False,Students,Rural,Instagram,155,16,8,7074,4,22,48,79,Evening,6,4,8,2,Commuting,Wi-Fi,0.4583333333333333,147.375,9.6875
+59,Male,United States,90968,True,False,Teacher,Rural,Facebook,66,11,19,3996,9,12,30,48,Afternoon,5,5,7,3,At school,Mobile Data,0.4,133.2,6.0
+21,Other,India,40644,False,False,Teacher,Rural,TikTok,220,8,27,4786,4,18,22,63,Afternoon,5,5,7,3,At home,Mobile Data,0.8181818181818182,217.54545454545453,27.5
+46,Other,India,38745,False,True,Cashier,Rural,YouTube,277,3,5,5695,5,24,9,40,Evening,6,4,8,2,Commuting,Mobile Data,2.6666666666666665,632.7777777777778,92.33333333333333
+35,Male,Mexico,48228,False,False,Students,Rural,Facebook,219,7,13,9347,8,14,44,84,Evening,6,4,8,2,At home,Mobile Data,0.3181818181818182,212.4318181818182,31.285714285714285
+43,Male,Vietnam,54521,True,False,Artist,Rural,Instagram,26,7,16,6998,1,15,48,15,Night,3,7,5,5,At home,Wi-Fi,0.3125,145.79166666666666,3.7142857142857144
+61,Female,Mexico,46928,False,False,Students,Rural,YouTube,295,14,1,2366,1,15,4,99,Evening,6,4,8,2,At home,Mobile Data,3.75,591.5,21.071428571428573
+51,Female,Vietnam,38322,False,False,Students,Rural,Facebook,212,2,13,6764,9,5,37,6,Afternoon,5,5,7,3,At school,Mobile Data,0.13513513513513514,182.8108108108108,106.0
+27,Male,Indonesia,77714,True,True,Labor/Worker,Urban,Instagram,108,10,22,8976,9,16,8,94,Night,3,7,5,5,At home,Wi-Fi,2.0,1122.0,10.8
+53,Male,Vietnam,82292,True,False,Engineer,Rural,Facebook,288,19,11,9273,4,5,1,63,Evening,6,4,8,2,At school,Mobile Data,5.0,9273.0,15.157894736842104
+31,Female,Germany,49055,False,True,Waiting staff,Urban,YouTube,218,9,21,1614,2,2,28,8,Night,3,7,5,5,At home,Mobile Data,0.07142857142857142,57.642857142857146,24.22222222222222
+48,Other,Philippines,62891,True,False,Driver,Rural,YouTube,138,16,8,4555,9,20,6,95,Night,3,7,5,5,At school,Mobile Data,3.3333333333333335,759.1666666666666,8.625
+32,Male,United States,26588,False,True,Labor/Worker,Rural,YouTube,297,19,25,2416,4,28,47,32,Night,3,7,5,5,At home,Mobile Data,0.5957446808510638,51.40425531914894,15.631578947368421
+25,Female,India,26304,False,False,Driver,Rural,TikTok,261,18,8,7288,6,25,36,45,Night,3,7,5,5,Commuting,Wi-Fi,0.6944444444444444,202.44444444444446,14.5
+31,Male,India,27345,False,True,Labor/Worker,Rural,Facebook,274,9,24,6862,1,9,11,52,Afternoon,5,5,7,3,Commuting,Mobile Data,0.8181818181818182,623.8181818181819,30.444444444444443
+40,Other,Japan,49300,False,False,Labor/Worker,Rural,TikTok,280,16,28,3653,9,22,5,79,Evening,6,4,8,2,At school,Wi-Fi,4.4,730.6,17.5
+57,Male,United States,44259,False,True,Driver,Rural,YouTube,197,13,14,6639,5,27,24,82,Night,3,7,5,5,At school,Mobile Data,1.125,276.625,15.153846153846153
+38,Male,United States,35352,False,False,Driver,Rural,Instagram,223,10,13,496,3,9,47,13,Evening,6,4,8,2,At home,Mobile Data,0.19148936170212766,10.553191489361701,22.3
+33,Male,Pakistan,53365,True,True,Labor/Worker,Urban,Facebook,292,14,3,504,4,4,18,24,Afternoon,5,5,7,3,At school,Mobile Data,0.2222222222222222,28.0,20.857142857142858
+62,Male,Philippines,39446,False,False,Students,Rural,TikTok,220,12,4,7699,1,15,20,40,Evening,6,4,8,2,Commuting,Mobile Data,0.75,384.95,18.333333333333332
+35,Male,India,22336,False,True,Waiting staff,Urban,Facebook,85,19,27,5733,9,11,28,14,Afternoon,5,5,7,3,At work,Mobile Data,0.39285714285714285,204.75,4.473684210526316
+64,Male,Barzil,82032,True,False,Labor/Worker,Urban,Instagram,157,7,20,8055,8,1,13,92,Night,3,7,5,5,At home,Wi-Fi,0.07692307692307693,619.6153846153846,22.428571428571427
+41,Other,India,95415,True,True,Waiting staff,Rural,TikTok,222,15,15,3216,4,18,5,75,Night,3,7,5,5,At home,Wi-Fi,3.6,643.2,14.8
+43,Female,Indonesia,27521,False,False,Engineer,Rural,YouTube,118,16,15,5688,2,29,30,70,Night,3,7,5,5,At home,Wi-Fi,0.9666666666666667,189.6,7.375
+42,Other,United States,91707,True,True,Manager,Rural,TikTok,138,8,27,9600,9,1,1,62,Night,3,7,5,5,At home,Mobile Data,1.0,9600.0,17.25
+62,Female,United States,43481,False,False,Students,Rural,Facebook,19,10,21,4364,4,8,22,89,Night,3,7,5,5,At work,Mobile Data,0.36363636363636365,198.36363636363637,1.9
+58,Female,Germany,38474,False,True,Waiting staff,Rural,Facebook,56,4,13,6042,9,25,18,61,Night,3,7,5,5,At school,Wi-Fi,1.3888888888888888,335.6666666666667,14.0
+46,Male,United States,66760,True,False,Waiting staff,Rural,Facebook,105,19,9,1477,3,16,46,1,Afternoon,5,5,7,3,At school,Mobile Data,0.34782608695652173,32.108695652173914,5.526315789473684
+32,Male,India,75718,True,True,Students,Rural,Facebook,112,19,28,4960,7,26,5,89,Night,3,7,5,5,Commuting,Wi-Fi,5.2,992.0,5.894736842105263
+62,Female,India,64629,True,False,Students,Rural,YouTube,155,15,25,2397,7,28,31,66,Night,3,7,5,5,At school,Mobile Data,0.9032258064516129,77.3225806451613,10.333333333333334
+18,Male,India,65232,True,True,Driver,Rural,TikTok,36,14,10,8301,4,22,6,32,Night,3,7,5,5,At work,Wi-Fi,3.6666666666666665,1383.5,2.5714285714285716
+42,Other,Vietnam,87169,True,True,Manager,Rural,YouTube,229,1,29,8841,2,18,27,13,Evening,6,4,8,2,At work,Wi-Fi,0.6666666666666666,327.44444444444446,229.0
+24,Other,Pakistan,70669,True,True,Students,Rural,YouTube,27,16,12,6194,9,22,25,33,Morning,8,2,10,0,At home,Wi-Fi,0.88,247.76,1.6875
+26,Male,United States,98021,True,True,Students,Urban,YouTube,176,10,14,7570,4,9,29,32,Evening,6,4,8,2,At home,Wi-Fi,0.3103448275862069,261.0344827586207,17.6
+41,Female,United States,89184,True,False,Waiting staff,Urban,Facebook,91,19,1,7730,8,12,28,56,Afternoon,5,5,7,3,At work,Mobile Data,0.42857142857142855,276.07142857142856,4.7894736842105265
+18,Male,India,67945,True,True,Engineer,Rural,Facebook,81,3,14,1499,2,19,16,24,Night,3,7,5,5,At work,Wi-Fi,1.1875,93.6875,27.0
+61,Female,Mexico,33140,False,False,Waiting staff,Urban,Facebook,263,5,14,7235,8,25,12,91,Evening,6,4,8,2,At home,Wi-Fi,2.0833333333333335,602.9166666666666,52.6
+25,Male,Germany,34357,False,False,Engineer,Rural,TikTok,171,9,8,595,5,18,20,4,Afternoon,5,5,7,3,At work,Wi-Fi,0.9,29.75,19.0
+41,Male,Germany,88673,True,False,Waiting staff,Rural,Instagram,47,18,16,978,7,27,18,88,Night,3,7,5,5,Commuting,Mobile Data,1.5,54.333333333333336,2.611111111111111
+28,Male,India,85633,True,False,Engineer,Urban,Facebook,210,11,14,730,7,5,34,23,Night,3,7,5,5,At school,Wi-Fi,0.14705882352941177,21.470588235294116,19.09090909090909
+34,Female,Japan,96943,True,False,Engineer,Rural,TikTok,209,16,1,56,9,27,23,29,Night,3,7,5,5,At work,Mobile Data,1.173913043478261,2.4347826086956523,13.0625
+25,Female,India,98258,True,True,Driver,Urban,Facebook,264,2,16,2243,3,2,45,98,Night,3,7,5,5,At home,Mobile Data,0.044444444444444446,49.84444444444444,132.0
+52,Male,Philippines,32924,False,False,Labor/Worker,Rural,Facebook,188,12,18,5879,4,7,27,21,Evening,6,4,8,2,At home,Mobile Data,0.25925925925925924,217.74074074074073,15.666666666666666
+52,Female,Japan,89286,True,False,Labor/Worker,Urban,YouTube,44,6,7,1701,4,27,49,30,Night,3,7,5,5,At home,Mobile Data,0.5510204081632653,34.714285714285715,7.333333333333333
+50,Male,Barzil,94071,True,True,Waiting staff,Rural,YouTube,91,11,15,7229,5,10,17,90,Night,3,7,5,5,At work,Wi-Fi,0.5882352941176471,425.2352941176471,8.272727272727273
+22,Male,Mexico,77326,True,True,Artist,Rural,YouTube,229,8,24,1286,6,15,48,20,Evening,6,4,8,2,At home,Wi-Fi,0.3125,26.791666666666668,28.625
+59,Male,Germany,50651,True,True,Labor/Worker,Rural,TikTok,167,12,17,8303,3,25,21,16,Night,3,7,5,5,At work,Mobile Data,1.1904761904761905,395.3809523809524,13.916666666666666
+56,Female,India,90202,True,False,Waiting staff,Rural,Instagram,13,2,19,9393,4,7,40,67,Night,3,7,5,5,At home,Wi-Fi,0.175,234.825,6.5
+58,Female,Barzil,68777,True,False,Labor/Worker,Rural,Instagram,176,9,23,947,3,28,31,49,Evening,6,4,8,2,At home,Wi-Fi,0.9032258064516129,30.548387096774192,19.555555555555557
+45,Female,Vietnam,36994,False,False,Labor/Worker,Rural,TikTok,213,15,13,4121,2,5,3,58,Evening,6,4,8,2,At work,Mobile Data,1.6666666666666667,1373.6666666666667,14.2
+24,Male,Indonesia,87263,True,True,Teacher,Rural,Facebook,203,2,9,6553,9,15,17,44,Evening,6,4,8,2,At home,Wi-Fi,0.8823529411764706,385.47058823529414,101.5
+26,Male,United States,79634,True,False,Students,Rural,TikTok,244,1,24,757,1,20,26,25,Night,3,7,5,5,At school,Mobile Data,0.7692307692307693,29.115384615384617,244.0
+25,Male,Barzil,30800,False,False,Students,Urban,Facebook,215,10,24,5651,2,28,23,23,Night,3,7,5,5,At school,Mobile Data,1.2173913043478262,245.69565217391303,21.5
+29,Female,Philippines,57823,True,False,Cashier,Rural,TikTok,159,2,15,7273,8,20,6,59,Evening,6,4,8,2,At work,Wi-Fi,3.3333333333333335,1212.1666666666667,79.5
+51,Male,United States,83878,True,False,Driver,Rural,TikTok,168,12,25,3535,7,15,28,1,Evening,6,4,8,2,At work,Wi-Fi,0.5357142857142857,126.25,14.0
+50,Other,India,38708,False,True,Labor/Worker,Rural,TikTok,288,8,26,2293,1,10,8,97,Evening,6,4,8,2,At work,Mobile Data,1.25,286.625,36.0
+40,Female,Pakistan,32819,False,False,Engineer,Rural,Instagram,175,5,3,1104,5,24,45,15,Night,3,7,5,5,At home,Wi-Fi,0.5333333333333333,24.533333333333335,35.0
+41,Other,Vietnam,94905,True,True,Labor/Worker,Rural,YouTube,77,1,24,8853,6,26,8,81,Night,3,7,5,5,At work,Mobile Data,3.25,1106.625,77.0
+54,Other,Barzil,83870,True,False,Labor/Worker,Rural,TikTok,97,15,1,908,5,29,19,98,Night,3,7,5,5,At home,Mobile Data,1.5263157894736843,47.78947368421053,6.466666666666667
+52,Female,Mexico,29283,False,True,Artist,Urban,Instagram,226,6,16,6539,4,26,38,81,Evening,6,4,8,2,Commuting,Mobile Data,0.6842105263157895,172.07894736842104,37.666666666666664
+61,Other,India,50573,True,False,Waiting staff,Rural,YouTube,10,12,8,4617,1,14,29,52,Evening,6,4,8,2,At home,Wi-Fi,0.4827586206896552,159.20689655172413,0.8333333333333334
+57,Male,United States,98707,True,True,Driver,Rural,YouTube,144,8,29,7069,7,26,23,58,Night,3,7,5,5,At home,Wi-Fi,1.1304347826086956,307.3478260869565,18.0
+39,Female,India,50933,True,False,Driver,Rural,TikTok,194,13,23,2311,9,26,47,41,Evening,6,4,8,2,At school,Mobile Data,0.5531914893617021,49.170212765957444,14.923076923076923
+44,Female,Barzil,25774,False,True,Cashier,Rural,Facebook,149,19,13,789,6,10,32,44,Night,3,7,5,5,At school,Mobile Data,0.3125,24.65625,7.842105263157895
+52,Male,Mexico,92055,True,False,Labor/Worker,Rural,Facebook,115,1,8,171,3,17,10,4,Night,3,7,5,5,At school,Wi-Fi,1.7,17.1,115.0
+18,Other,Philippines,30983,False,True,Waiting staff,Rural,Facebook,142,11,17,7989,4,21,27,77,Afternoon,5,5,7,3,At school,Wi-Fi,0.7777777777777778,295.8888888888889,12.909090909090908
+52,Female,Indonesia,38133,False,False,Students,Urban,TikTok,117,1,22,1885,5,14,49,68,Evening,6,4,8,2,At home,Wi-Fi,0.2857142857142857,38.46938775510204,117.0
+54,Male,United States,34939,False,True,Driver,Urban,Facebook,187,8,23,8667,1,2,1,7,Evening,6,4,8,2,At home,Mobile Data,2.0,8667.0,23.375
+64,Male,Indonesia,20781,False,False,Artist,Rural,Instagram,155,5,14,1049,5,16,39,46,Night,3,7,5,5,At home,Mobile Data,0.41025641025641024,26.897435897435898,31.0
+31,Female,India,76700,True,True,Waiting staff,Rural,Instagram,83,17,27,4129,1,13,29,9,Night,3,7,5,5,Commuting,Mobile Data,0.4482758620689655,142.3793103448276,4.882352941176471
+20,Male,India,47624,False,False,Students,Rural,Instagram,117,8,21,1161,9,27,45,87,Afternoon,5,5,7,3,At school,Mobile Data,0.6,25.8,14.625
+18,Female,Barzil,26823,False,True,Driver,Rural,Instagram,131,10,21,815,7,9,3,33,Afternoon,5,5,7,3,At home,Mobile Data,3.0,271.6666666666667,13.1
+22,Female,Barzil,38489,False,False,Manager,Rural,YouTube,26,2,7,3766,3,7,47,33,Evening,6,4,8,2,At home,Mobile Data,0.14893617021276595,80.12765957446808,13.0
+43,Female,Pakistan,59961,True,True,Cashier,Rural,Instagram,205,9,27,8945,9,16,37,84,Night,3,7,5,5,At home,Mobile Data,0.43243243243243246,241.75675675675674,22.77777777777778
+31,Female,Germany,49118,False,False,Labor/Worker,Rural,Facebook,261,3,15,4661,2,10,31,4,Night,3,7,5,5,At work,Mobile Data,0.3225806451612903,150.3548387096774,87.0
+56,Male,Pakistan,42263,False,True,Students,Rural,TikTok,128,18,16,8653,7,24,11,65,Morning,8,2,10,0,Commuting,Mobile Data,2.1818181818181817,786.6363636363636,7.111111111111111
+44,Male,India,33565,False,False,Students,Rural,Facebook,171,7,19,3239,9,22,22,34,Afternoon,5,5,7,3,At school,Wi-Fi,1.0,147.22727272727272,24.428571428571427
+26,Female,India,40354,False,True,Students,Rural,Instagram,207,15,6,8272,6,9,18,91,Afternoon,5,5,7,3,At work,Mobile Data,0.5,459.55555555555554,13.8
+32,Male,India,62951,True,True,Engineer,Urban,YouTube,54,18,23,2804,5,22,35,85,Evening,6,4,8,2,At home,Mobile Data,0.6285714285714286,80.11428571428571,3.0
+32,Female,Pakistan,43648,False,True,Engineer,Rural,Instagram,188,3,1,8031,7,23,6,88,Evening,6,4,8,2,At school,Mobile Data,3.8333333333333335,1338.5,62.666666666666664
+43,Female,Mexico,70729,True,True,Engineer,Urban,TikTok,53,14,12,869,6,7,3,79,Night,3,7,5,5,Commuting,Mobile Data,2.3333333333333335,289.6666666666667,3.7857142857142856
+59,Male,Mexico,61971,True,False,Waiting staff,Rural,Facebook,280,2,18,5526,5,16,5,99,Morning,8,2,10,0,At work,Mobile Data,3.2,1105.2,140.0
+30,Other,India,38658,False,True,Engineer,Rural,TikTok,87,14,16,7741,2,9,9,64,Evening,6,4,8,2,Commuting,Mobile Data,1.0,860.1111111111111,6.214285714285714
+49,Male,Vietnam,41253,False,False,Waiting staff,Rural,TikTok,187,11,12,4694,8,27,28,25,Night,3,7,5,5,At work,Mobile Data,0.9642857142857143,167.64285714285714,17.0
+56,Male,Germany,84166,True,False,Labor/Worker,Urban,TikTok,12,16,20,8998,7,24,19,55,Morning,8,2,10,0,At home,Wi-Fi,1.263157894736842,473.57894736842104,0.75
+49,Other,Mexico,68563,True,False,Engineer,Rural,Facebook,223,8,13,1934,6,29,28,9,Evening,6,4,8,2,At home,Wi-Fi,1.0357142857142858,69.07142857142857,27.875
+21,Male,Japan,46390,False,False,Cashier,Rural,Instagram,83,7,8,5172,5,17,27,17,Evening,6,4,8,2,At school,Mobile Data,0.6296296296296297,191.55555555555554,11.857142857142858
+47,Other,United States,71578,True,False,Artist,Urban,TikTok,60,11,27,703,5,20,13,21,Afternoon,5,5,7,3,At home,Mobile Data,1.5384615384615385,54.07692307692308,5.454545454545454
+54,Male,India,99025,True,True,Driver,Rural,Facebook,76,3,29,2523,9,7,38,60,Night,3,7,5,5,At home,Mobile Data,0.18421052631578946,66.39473684210526,25.333333333333332
+40,Male,India,52658,True,False,Students,Rural,YouTube,102,17,26,2639,1,11,43,13,Evening,6,4,8,2,At home,Mobile Data,0.2558139534883721,61.372093023255815,6.0
+56,Other,India,26852,False,False,Waiting staff,Urban,Facebook,185,14,22,6159,9,8,21,3,Afternoon,5,5,7,3,At home,Mobile Data,0.38095238095238093,293.2857142857143,13.214285714285714
+62,Male,United States,22551,False,True,Students,Urban,YouTube,154,6,1,3909,6,7,27,68,Night,3,7,5,5,At school,Mobile Data,0.25925925925925924,144.77777777777777,25.666666666666668
+32,Male,United States,91947,True,True,Students,Urban,Facebook,16,8,26,1164,4,28,46,4,Afternoon,5,5,7,3,At home,Mobile Data,0.6086956521739131,25.304347826086957,2.0
+60,Female,Japan,81001,True,True,Students,Rural,Instagram,278,5,21,619,7,19,6,92,Night,3,7,5,5,At work,Wi-Fi,3.1666666666666665,103.16666666666667,55.6
+46,Other,Pakistan,69159,True,False,Driver,Rural,TikTok,13,8,7,7982,9,20,38,7,Night,3,7,5,5,At school,Mobile Data,0.5263157894736842,210.05263157894737,1.625
+53,Female,Vietnam,71707,True,False,Manager,Rural,Instagram,147,2,15,3066,5,12,49,26,Evening,6,4,8,2,At school,Mobile Data,0.24489795918367346,62.57142857142857,73.5
+30,Other,India,53243,True,False,Students,Rural,Facebook,240,15,29,4872,5,7,11,75,Evening,6,4,8,2,Commuting,Mobile Data,0.6363636363636364,442.90909090909093,16.0
+49,Male,India,41800,False,True,Waiting staff,Rural,TikTok,97,12,22,8638,8,8,47,24,Afternoon,5,5,7,3,At work,Wi-Fi,0.1702127659574468,183.7872340425532,8.083333333333334
+24,Male,Indonesia,95939,True,False,Labor/Worker,Urban,YouTube,26,17,13,2337,7,7,41,10,Afternoon,5,5,7,3,At home,Wi-Fi,0.17073170731707318,57.0,1.5294117647058822
+39,Other,Japan,77828,True,False,Students,Rural,Facebook,61,1,13,8400,8,6,17,13,Night,3,7,5,5,At work,Mobile Data,0.35294117647058826,494.11764705882354,61.0
+45,Male,India,27239,False,False,Manager,Rural,TikTok,143,15,28,5594,2,25,39,44,Evening,6,4,8,2,At home,Mobile Data,0.6410256410256411,143.43589743589743,9.533333333333333
+19,Male,Japan,26710,False,False,Cashier,Urban,YouTube,220,14,9,2460,9,9,7,39,Evening,6,4,8,2,Commuting,Mobile Data,1.2857142857142858,351.42857142857144,15.714285714285714
+59,Male,Japan,41384,False,True,Engineer,Urban,YouTube,228,16,24,6820,3,27,30,19,Afternoon,5,5,7,3,At work,Mobile Data,0.9,227.33333333333334,14.25
+62,Male,Philippines,41038,False,False,Labor/Worker,Rural,Instagram,214,9,15,5546,6,13,21,51,Evening,6,4,8,2,At school,Mobile Data,0.6190476190476191,264.0952380952381,23.77777777777778
+23,Male,Japan,60846,True,True,Students,Urban,Facebook,220,1,4,3442,6,7,1,19,Evening,6,4,8,2,At school,Wi-Fi,7.0,3442.0,220.0
+45,Female,United States,87821,True,False,Waiting staff,Rural,YouTube,286,17,13,2711,2,8,25,76,Afternoon,5,5,7,3,At work,Mobile Data,0.32,108.44,16.823529411764707
+45,Female,Philippines,57991,True,True,Labor/Worker,Rural,TikTok,33,13,27,1291,7,22,32,52,Afternoon,5,5,7,3,At home,Mobile Data,0.6875,40.34375,2.5384615384615383
+61,Male,Japan,99057,True,False,Driver,Rural,YouTube,13,5,12,5374,9,17,8,86,Afternoon,5,5,7,3,At school,Wi-Fi,2.125,671.75,2.6
+61,Male,Germany,26971,False,True,Students,Rural,YouTube,161,10,5,9592,1,17,5,47,Night,3,7,5,5,At work,Mobile Data,3.4,1918.4,16.1
+37,Female,United States,49139,False,False,Cashier,Rural,Instagram,268,6,7,2655,8,16,30,30,Night,3,7,5,5,At work,Mobile Data,0.5333333333333333,88.5,44.666666666666664
+47,Male,India,97067,True,True,Cashier,Rural,Instagram,177,19,8,6513,2,22,8,46,Evening,6,4,8,2,At home,Mobile Data,2.75,814.125,9.31578947368421
+28,Male,Philippines,57711,True,False,Students,Urban,TikTok,185,13,5,7394,1,2,49,76,Night,3,7,5,5,Commuting,Wi-Fi,0.04081632653061224,150.89795918367346,14.23076923076923
+45,Female,Indonesia,26530,False,True,Teacher,Urban,Instagram,65,1,9,704,8,8,19,93,Evening,6,4,8,2,At work,Mobile Data,0.42105263157894735,37.05263157894737,65.0
+42,Male,United States,31116,False,False,Waiting staff,Rural,YouTube,117,15,14,825,2,17,44,21,Morning,8,2,10,0,At home,Wi-Fi,0.38636363636363635,18.75,7.8
+56,Female,Indonesia,85794,True,True,Labor/Worker,Rural,YouTube,150,14,26,9196,6,13,30,75,Evening,6,4,8,2,At school,Mobile Data,0.43333333333333335,306.53333333333336,10.714285714285714
+50,Male,India,20282,False,False,Driver,Urban,Instagram,164,8,12,376,6,18,15,48,Afternoon,5,5,7,3,At work,Mobile Data,1.2,25.066666666666666,20.5
+18,Other,Indonesia,99473,True,True,Waiting staff,Urban,YouTube,271,10,4,972,5,24,36,62,Afternoon,5,5,7,3,At home,Mobile Data,0.6666666666666666,27.0,27.1
+44,Female,India,21898,False,False,Engineer,Rural,YouTube,282,9,20,4213,8,28,44,58,Evening,6,4,8,2,At school,Mobile Data,0.6363636363636364,95.75,31.333333333333332
+30,Female,India,24135,False,True,Driver,Rural,TikTok,241,17,29,443,3,22,27,18,Evening,6,4,8,2,At school,Mobile Data,0.8148148148148148,16.40740740740741,14.176470588235293
+58,Male,Philippines,26629,False,False,Labor/Worker,Rural,Instagram,250,9,8,7519,4,28,13,59,Evening,6,4,8,2,At school,Wi-Fi,2.1538461538461537,578.3846153846154,27.77777777777778
+20,Female,Japan,85031,True,True,Cashier,Rural,YouTube,267,3,17,754,7,10,14,91,Evening,6,4,8,2,At school,Mobile Data,0.7142857142857143,53.857142857142854,89.0
+56,Male,Barzil,53380,True,False,Labor/Worker,Rural,Instagram,258,11,8,4735,7,2,37,48,Night,3,7,5,5,At home,Wi-Fi,0.05405405405405406,127.97297297297297,23.454545454545453
+23,Male,India,37071,False,True,Labor/Worker,Urban,TikTok,86,12,21,5396,8,2,48,63,Evening,6,4,8,2,At work,Mobile Data,0.041666666666666664,112.41666666666667,7.166666666666667
+25,Male,Philippines,40074,False,False,Artist,Rural,Instagram,189,10,29,3465,2,27,30,12,Afternoon,5,5,7,3,At home,Mobile Data,0.9,115.5,18.9
+44,Male,Germany,87843,True,True,Waiting staff,Urban,YouTube,75,17,27,2711,2,14,39,87,Morning,8,2,10,0,At work,Mobile Data,0.358974358974359,69.51282051282051,4.411764705882353
+26,Female,India,59901,True,True,Driver,Rural,Instagram,180,17,1,2407,4,16,47,34,Morning,8,2,10,0,Commuting,Wi-Fi,0.3404255319148936,51.212765957446805,10.588235294117647
+54,Male,Mexico,31205,False,True,Teacher,Rural,YouTube,31,11,20,8814,9,7,13,61,Morning,8,2,10,0,At home,Mobile Data,0.5384615384615384,678.0,2.8181818181818183
+50,Male,Indonesia,75661,True,True,Engineer,Rural,YouTube,116,4,2,5588,9,21,16,87,Evening,6,4,8,2,At work,Wi-Fi,1.3125,349.25,29.0
+59,Other,Barzil,25906,False,False,Driver,Rural,YouTube,236,7,4,6104,4,21,44,53,Evening,6,4,8,2,At home,Wi-Fi,0.4772727272727273,138.72727272727272,33.714285714285715
+61,Male,Japan,22591,False,True,Waiting staff,Urban,TikTok,225,14,24,5747,9,24,7,25,Evening,6,4,8,2,At home,Wi-Fi,3.4285714285714284,821.0,16.071428571428573
+41,Female,United States,82987,True,True,Labor/Worker,Rural,Instagram,78,7,21,1723,3,12,48,62,Afternoon,5,5,7,3,At home,Mobile Data,0.25,35.895833333333336,11.142857142857142
+32,Other,India,83370,True,True,Teacher,Urban,TikTok,93,8,1,7224,5,28,27,4,Evening,6,4,8,2,At school,Wi-Fi,1.037037037037037,267.55555555555554,11.625
+49,Male,Vietnam,74400,True,False,Waiting staff,Rural,Instagram,112,1,7,1919,9,23,45,94,Evening,6,4,8,2,At home,Mobile Data,0.5111111111111111,42.644444444444446,112.0
+49,Male,Pakistan,45150,False,True,Waiting staff,Rural,TikTok,48,4,1,918,6,28,35,94,Evening,6,4,8,2,At home,Mobile Data,0.8,26.228571428571428,12.0
+41,Male,Barzil,51852,True,False,Manager,Urban,Facebook,22,12,9,4215,3,14,15,13,Night,3,7,5,5,At work,Wi-Fi,0.9333333333333333,281.0,1.8333333333333333
+58,Male,United States,62870,True,False,Artist,Rural,YouTube,190,3,3,581,9,25,28,42,Morning,8,2,10,0,At home,Wi-Fi,0.8928571428571429,20.75,63.333333333333336
+29,Male,India,72756,True,False,Students,Rural,YouTube,277,13,12,3881,6,4,35,49,Evening,6,4,8,2,Commuting,Mobile Data,0.11428571428571428,110.88571428571429,21.307692307692307
+56,Other,Vietnam,76481,True,False,Labor/Worker,Rural,TikTok,22,6,19,9878,4,26,7,78,Evening,6,4,8,2,At school,Wi-Fi,3.7142857142857144,1411.142857142857,3.6666666666666665
+19,Female,Philippines,21283,False,False,Driver,Rural,Facebook,129,11,15,3909,4,4,46,56,Morning,8,2,10,0,At home,Mobile Data,0.08695652173913043,84.97826086956522,11.727272727272727
+20,Female,Japan,53691,True,True,Labor/Worker,Rural,YouTube,66,4,22,1999,8,18,46,47,Evening,6,4,8,2,At home,Mobile Data,0.391304347826087,43.45652173913044,16.5
+54,Female,India,21125,False,False,Artist,Rural,Instagram,49,16,16,400,7,3,20,8,Night,3,7,5,5,At school,Wi-Fi,0.15,20.0,3.0625
+34,Male,India,87065,True,False,Students,Rural,TikTok,137,7,10,3648,1,1,32,55,Night,3,7,5,5,Commuting,Wi-Fi,0.03125,114.0,19.571428571428573
+19,Male,India,46170,False,True,Engineer,Urban,YouTube,182,11,22,5445,6,17,38,88,Evening,6,4,8,2,At school,Mobile Data,0.4473684210526316,143.28947368421052,16.545454545454547
+19,Male,India,28438,False,True,Waiting staff,Rural,YouTube,44,1,29,2628,8,7,40,18,Night,3,7,5,5,At school,Wi-Fi,0.175,65.7,44.0
+45,Female,Vietnam,40095,False,True,Waiting staff,Rural,TikTok,268,7,27,1656,3,16,32,35,Evening,6,4,8,2,Commuting,Wi-Fi,0.5,51.75,38.285714285714285
+40,Male,Indonesia,36154,False,False,Driver,Rural,TikTok,14,12,27,620,9,5,26,89,Night,3,7,5,5,At home,Mobile Data,0.19230769230769232,23.846153846153847,1.1666666666666667
+54,Male,Pakistan,28004,False,False,Driver,Rural,Instagram,227,7,6,246,2,19,39,81,Evening,6,4,8,2,At school,Wi-Fi,0.48717948717948717,6.3076923076923075,32.42857142857143
+49,Female,Germany,29752,False,False,Students,Rural,Instagram,20,7,29,5212,6,7,20,32,Evening,6,4,8,2,At home,Mobile Data,0.35,260.6,2.857142857142857
+50,Other,India,75426,True,True,Manager,Rural,YouTube,126,10,17,3339,1,14,18,24,Afternoon,5,5,7,3,At work,Wi-Fi,0.7777777777777778,185.5,12.6
+18,Other,Mexico,46819,False,False,Waiting staff,Urban,YouTube,193,16,21,6758,2,2,15,7,Evening,6,4,8,2,At school,Mobile Data,0.13333333333333333,450.53333333333336,12.0625
+36,Female,Pakistan,44217,False,False,Labor/Worker,Rural,TikTok,125,8,28,7086,5,3,22,13,Evening,6,4,8,2,At work,Mobile Data,0.13636363636363635,322.09090909090907,15.625
+19,Male,India,52994,True,False,Students,Rural,YouTube,171,9,22,3010,1,17,22,91,Evening,6,4,8,2,At school,Mobile Data,0.7727272727272727,136.8181818181818,19.0
+61,Male,Japan,35036,False,False,Artist,Rural,YouTube,76,9,24,4719,8,16,21,69,Night,3,7,5,5,At home,Mobile Data,0.7619047619047619,224.71428571428572,8.444444444444445
+43,Male,India,97275,True,True,Engineer,Rural,TikTok,209,2,29,2368,1,8,2,90,Evening,6,4,8,2,At home,Mobile Data,4.0,1184.0,104.5
+49,Male,United States,69416,True,False,Waiting staff,Urban,YouTube,40,13,17,1839,9,18,40,42,Morning,8,2,10,0,At home,Mobile Data,0.45,45.975,3.076923076923077
+23,Other,Pakistan,29587,False,True,Manager,Rural,YouTube,84,13,21,2903,3,15,43,31,Night,3,7,5,5,Commuting,Mobile Data,0.3488372093023256,67.51162790697674,6.461538461538462
+49,Male,Mexico,20645,False,False,Manager,Rural,Facebook,246,4,19,6205,2,7,18,74,Night,3,7,5,5,At home,Mobile Data,0.3888888888888889,344.72222222222223,61.5
+21,Male,India,50930,True,True,Students,Urban,Instagram,75,12,18,4395,1,27,23,26,Night,3,7,5,5,At school,Mobile Data,1.173913043478261,191.08695652173913,6.25
+28,Male,Indonesia,50090,True,False,Students,Rural,TikTok,79,17,11,5767,9,9,13,86,Evening,6,4,8,2,At work,Wi-Fi,0.6923076923076923,443.61538461538464,4.647058823529412
+34,Other,Vietnam,72142,True,True,Waiting staff,Rural,Facebook,29,2,24,3691,4,6,41,76,Afternoon,5,5,7,3,At school,Mobile Data,0.14634146341463414,90.02439024390245,14.5
+55,Other,United States,46475,False,False,Students,Rural,Instagram,235,13,7,7470,1,18,9,32,Evening,6,4,8,2,At school,Wi-Fi,2.0,830.0,18.076923076923077
+41,Male,Philippines,38888,False,True,Labor/Worker,Rural,Instagram,208,18,10,3841,1,18,49,91,Evening,6,4,8,2,At home,Mobile Data,0.3673469387755102,78.38775510204081,11.555555555555555
+22,Male,Pakistan,63732,True,False,Manager,Rural,Instagram,48,15,7,4348,7,25,7,97,Evening,6,4,8,2,At work,Wi-Fi,3.5714285714285716,621.1428571428571,3.2
+51,Male,Japan,66305,True,True,Engineer,Rural,Facebook,154,8,5,6621,2,26,41,52,Night,3,7,5,5,At work,Wi-Fi,0.6341463414634146,161.4878048780488,19.25
+23,Male,Vietnam,66037,True,False,Engineer,Rural,Facebook,54,15,12,1392,7,24,1,20,Night,3,7,5,5,At school,Wi-Fi,24.0,1392.0,3.6
+39,Other,United States,29346,False,True,Manager,Rural,Instagram,100,1,16,6060,7,14,2,40,Evening,6,4,8,2,At home,Mobile Data,7.0,3030.0,100.0
+28,Male,India,20587,False,False,Labor/Worker,Rural,YouTube,247,10,29,4255,9,14,4,59,Night,3,7,5,5,At home,Mobile Data,3.5,1063.75,24.7
+33,Female,United States,32763,False,True,Students,Rural,YouTube,79,12,25,4300,7,14,14,77,Night,3,7,5,5,At school,Mobile Data,1.0,307.14285714285717,6.583333333333333
+50,Male,Vietnam,79165,True,False,Cashier,Rural,Facebook,175,5,21,3338,1,25,32,14,Night,3,7,5,5,At school,Mobile Data,0.78125,104.3125,35.0
+26,Other,United States,89615,True,True,Students,Urban,Facebook,139,9,18,5487,8,4,36,44,Night,3,7,5,5,At home,Wi-Fi,0.1111111111111111,152.41666666666666,15.444444444444445
+23,Male,Germany,56116,True,False,Waiting staff,Urban,Facebook,223,8,3,3514,8,4,2,86,Afternoon,5,5,7,3,Commuting,Mobile Data,2.0,1757.0,27.875
+33,Female,Barzil,45556,False,True,Driver,Urban,Instagram,98,16,20,759,4,15,40,82,Evening,6,4,8,2,Commuting,Mobile Data,0.375,18.975,6.125
+46,Female,Indonesia,79042,True,False,Students,Urban,YouTube,261,14,15,9915,8,15,14,48,Evening,6,4,8,2,At school,Wi-Fi,1.0714285714285714,708.2142857142857,18.642857142857142
+20,Other,India,38099,False,True,Teacher,Rural,Facebook,81,13,5,8621,4,18,20,93,Morning,8,2,10,0,At home,Mobile Data,0.9,431.05,6.230769230769231
+37,Female,Vietnam,65096,True,False,Artist,Rural,Facebook,174,13,13,6793,8,14,25,43,Night,3,7,5,5,At work,Mobile Data,0.56,271.72,13.384615384615385
+53,Male,Germany,91986,True,True,Students,Rural,TikTok,58,5,19,2459,5,26,42,16,Evening,6,4,8,2,At school,Mobile Data,0.6190476190476191,58.54761904761905,11.6
+36,Female,Germany,33230,False,True,Waiting staff,Rural,Instagram,61,16,12,5273,4,1,49,35,Afternoon,5,5,7,3,Commuting,Wi-Fi,0.02040816326530612,107.61224489795919,3.8125
+43,Other,Philippines,49009,False,True,Waiting staff,Rural,TikTok,298,11,23,1718,6,10,8,53,Afternoon,5,5,7,3,At work,Mobile Data,1.25,214.75,27.09090909090909
+20,Other,United States,90969,True,True,Cashier,Rural,YouTube,287,5,21,9457,2,29,28,34,Evening,6,4,8,2,At school,Mobile Data,1.0357142857142858,337.75,57.4
+36,Male,Barzil,53866,True,False,Driver,Rural,TikTok,123,13,5,5423,2,20,46,3,Night,3,7,5,5,At school,Mobile Data,0.43478260869565216,117.8913043478261,9.461538461538462
+37,Female,Germany,96975,True,True,Driver,Rural,TikTok,248,11,6,1308,2,10,21,68,Night,3,7,5,5,At home,Wi-Fi,0.47619047619047616,62.285714285714285,22.545454545454547
+49,Male,Barzil,61855,True,False,Waiting staff,Urban,TikTok,142,19,7,1050,9,10,23,5,Evening,6,4,8,2,At school,Mobile Data,0.43478260869565216,45.65217391304348,7.473684210526316
+24,Male,United States,26416,False,False,Driver,Rural,Instagram,283,3,26,5479,3,27,32,10,Night,3,7,5,5,At home,Mobile Data,0.84375,171.21875,94.33333333333333
+58,Male,Vietnam,92516,True,False,Students,Rural,YouTube,175,15,10,2249,4,24,8,52,Morning,8,2,10,0,At home,Mobile Data,3.0,281.125,11.666666666666666
+50,Female,Japan,75915,True,False,Students,Rural,TikTok,252,7,16,2809,8,2,31,29,Evening,6,4,8,2,At home,Mobile Data,0.06451612903225806,90.61290322580645,36.0
+57,Female,United States,38058,False,False,Students,Rural,Instagram,147,7,8,2921,4,29,37,96,Afternoon,5,5,7,3,At school,Mobile Data,0.7837837837837838,78.94594594594595,21.0
+56,Male,Germany,96637,True,True,Labor/Worker,Rural,YouTube,88,6,9,4676,7,28,16,31,Afternoon,5,5,7,3,At work,Mobile Data,1.75,292.25,14.666666666666666
+35,Other,India,60718,True,False,Waiting staff,Urban,Facebook,179,3,27,4041,5,27,40,66,Afternoon,5,5,7,3,At home,Mobile Data,0.675,101.025,59.666666666666664
+57,Female,United States,52602,True,False,Driver,Rural,TikTok,132,13,4,2417,9,8,42,76,Night,3,7,5,5,At home,Mobile Data,0.19047619047619047,57.54761904761905,10.153846153846153
+18,Female,United States,94658,True,True,Engineer,Rural,YouTube,185,7,21,532,4,1,27,91,Evening,6,4,8,2,At work,Mobile Data,0.037037037037037035,19.703703703703702,26.428571428571427
+28,Male,Philippines,98112,True,True,Driver,Urban,TikTok,91,5,21,9090,3,1,40,69,Afternoon,5,5,7,3,At work,Mobile Data,0.025,227.25,18.2
+45,Female,Indonesia,78067,True,True,Waiting staff,Rural,Facebook,96,18,8,8167,2,4,41,37,Afternoon,5,5,7,3,At work,Mobile Data,0.0975609756097561,199.1951219512195,5.333333333333333
+42,Female,India,47516,False,False,Labor/Worker,Rural,YouTube,234,8,25,1469,1,7,18,27,Afternoon,5,5,7,3,Commuting,Mobile Data,0.3888888888888889,81.61111111111111,29.25
+40,Male,India,21089,False,False,Engineer,Rural,Instagram,25,17,7,9444,6,9,35,87,Night,3,7,5,5,At home,Wi-Fi,0.2571428571428571,269.8285714285714,1.4705882352941178
+48,Male,Philippines,57346,True,False,Engineer,Rural,YouTube,172,1,15,7292,2,16,49,33,Evening,6,4,8,2,Commuting,Wi-Fi,0.32653061224489793,148.81632653061226,172.0
+47,Male,United States,94663,True,True,Labor/Worker,Rural,Instagram,107,14,21,8961,8,5,15,68,Evening,6,4,8,2,At school,Wi-Fi,0.3333333333333333,597.4,7.642857142857143
+59,Male,United States,30487,False,False,Waiting staff,Urban,YouTube,165,17,3,9025,6,2,27,59,Evening,6,4,8,2,At work,Mobile Data,0.07407407407407407,334.25925925925924,9.705882352941176
+52,Male,United States,20155,False,False,Artist,Rural,Instagram,11,10,17,7142,5,28,17,64,Evening,6,4,8,2,At school,Wi-Fi,1.6470588235294117,420.11764705882354,1.1
+24,Male,Germany,87494,True,False,Students,Rural,Facebook,178,12,11,6000,2,23,40,85,Morning,8,2,10,0,At work,Mobile Data,0.575,150.0,14.833333333333334
+33,Other,Philippines,96229,True,False,Driver,Rural,Facebook,101,16,9,7081,7,11,2,88,Evening,6,4,8,2,At school,Mobile Data,5.5,3540.5,6.3125
+43,Male,Vietnam,58547,True,True,Labor/Worker,Rural,Facebook,190,14,5,4649,2,18,49,44,Morning,8,2,10,0,At school,Wi-Fi,0.3673469387755102,94.87755102040816,13.571428571428571
+19,Male,India,48795,False,False,Students,Urban,YouTube,240,16,25,6931,5,25,31,95,Night,3,7,5,5,At work,Mobile Data,0.8064516129032258,223.58064516129033,15.0
+18,Male,Mexico,75296,True,True,Driver,Rural,Facebook,157,8,10,3424,2,25,37,88,Afternoon,5,5,7,3,Commuting,Mobile Data,0.6756756756756757,92.54054054054055,19.625
+29,Male,Pakistan,41447,False,False,Driver,Rural,TikTok,289,10,15,1091,2,19,41,49,Evening,6,4,8,2,At home,Mobile Data,0.4634146341463415,26.609756097560975,28.9
+22,Male,United States,56598,True,True,Artist,Urban,Facebook,198,17,28,9388,7,13,41,53,Night,3,7,5,5,At school,Wi-Fi,0.3170731707317073,228.97560975609755,11.647058823529411
+54,Female,India,61814,True,False,Waiting staff,Urban,Instagram,137,18,29,9852,9,24,34,74,Night,3,7,5,5,At school,Mobile Data,0.7058823529411765,289.7647058823529,7.611111111111111
+49,Female,India,95330,True,True,Driver,Rural,Instagram,16,16,14,7849,5,11,34,49,Evening,6,4,8,2,At home,Wi-Fi,0.3235294117647059,230.85294117647058,1.0
+26,Male,India,83278,True,False,Labor/Worker,Rural,Instagram,56,17,4,4654,7,20,3,66,Afternoon,5,5,7,3,At work,Mobile Data,6.666666666666667,1551.3333333333333,3.2941176470588234
+58,Other,Philippines,75077,True,True,Driver,Rural,YouTube,62,16,21,260,4,19,17,95,Afternoon,5,5,7,3,At home,Mobile Data,1.1176470588235294,15.294117647058824,3.875
+52,Other,United States,91906,True,False,Waiting staff,Rural,TikTok,196,19,20,5936,2,17,14,63,Evening,6,4,8,2,At home,Mobile Data,1.2142857142857142,424.0,10.31578947368421
+36,Male,Pakistan,29528,False,True,Waiting staff,Rural,Facebook,47,8,2,9377,3,5,14,25,Evening,6,4,8,2,At work,Wi-Fi,0.35714285714285715,669.7857142857143,5.875
+33,Female,Japan,70100,True,False,Labor/Worker,Rural,TikTok,235,6,12,4370,2,13,46,4,Evening,6,4,8,2,Commuting,Mobile Data,0.2826086956521739,95.0,39.166666666666664
+20,Female,Germany,28179,False,True,Driver,Rural,TikTok,62,6,1,4301,5,27,38,51,Night,3,7,5,5,At school,Mobile Data,0.7105263157894737,113.1842105263158,10.333333333333334
+37,Male,Barzil,68781,True,True,Engineer,Rural,Instagram,233,9,24,7207,6,20,35,11,Night,3,7,5,5,At home,Mobile Data,0.5714285714285714,205.9142857142857,25.88888888888889
+41,Other,Vietnam,75267,True,True,Labor/Worker,Rural,Instagram,163,4,20,5819,7,1,1,17,Afternoon,5,5,7,3,Commuting,Mobile Data,1.0,5819.0,40.75
+50,Male,Pakistan,43952,False,True,Teacher,Rural,Instagram,57,12,5,9058,3,10,48,66,Night,3,7,5,5,At home,Mobile Data,0.20833333333333334,188.70833333333334,4.75
+41,Other,Barzil,73798,True,True,Cashier,Rural,YouTube,156,12,6,92,4,8,29,70,Evening,6,4,8,2,At work,Mobile Data,0.27586206896551724,3.1724137931034484,13.0
+28,Female,Philippines,70939,True,True,Waiting staff,Rural,TikTok,73,17,24,5161,8,24,4,73,Morning,8,2,10,0,At home,Wi-Fi,6.0,1290.25,4.294117647058823
+25,Female,Barzil,49516,False,True,Students,Rural,TikTok,191,15,11,7632,4,29,33,69,Evening,6,4,8,2,At work,Wi-Fi,0.8787878787878788,231.27272727272728,12.733333333333333
+53,Male,Mexico,76526,True,True,Teacher,Rural,YouTube,134,9,8,9543,7,8,17,84,Evening,6,4,8,2,At home,Mobile Data,0.47058823529411764,561.3529411764706,14.88888888888889
+55,Male,India,30449,False,True,Labor/Worker,Rural,YouTube,188,7,7,6208,6,19,28,29,Evening,6,4,8,2,Commuting,Wi-Fi,0.6785714285714286,221.71428571428572,26.857142857142858
+57,Male,Pakistan,70290,True,True,Students,Urban,YouTube,48,10,4,8556,7,6,26,85,Afternoon,5,5,7,3,At work,Mobile Data,0.23076923076923078,329.0769230769231,4.8
+37,Male,Philippines,92954,True,True,Waiting staff,Rural,TikTok,269,16,6,4916,1,12,8,73,Evening,6,4,8,2,At home,Mobile Data,1.5,614.5,16.8125
+52,Male,Pakistan,42746,False,False,Students,Rural,TikTok,12,12,16,3718,3,28,34,92,Evening,6,4,8,2,At school,Mobile Data,0.8235294117647058,109.3529411764706,1.0
+42,Female,Mexico,87990,True,True,Waiting staff,Rural,Instagram,73,7,20,6125,6,7,18,72,Night,3,7,5,5,At home,Mobile Data,0.3888888888888889,340.27777777777777,10.428571428571429
+52,Male,United States,78810,True,False,Students,Rural,Instagram,38,18,15,1924,3,16,31,95,Night,3,7,5,5,At work,Mobile Data,0.5161290322580645,62.064516129032256,2.111111111111111
+42,Female,United States,35223,False,True,Labor/Worker,Urban,TikTok,20,15,14,3095,7,9,27,20,Afternoon,5,5,7,3,Commuting,Mobile Data,0.3333333333333333,114.62962962962963,1.3333333333333333
+46,Female,United States,92237,True,False,Teacher,Rural,Instagram,106,6,23,6683,9,21,16,27,Evening,6,4,8,2,At home,Mobile Data,1.3125,417.6875,17.666666666666668
+35,Female,Indonesia,22597,False,True,Labor/Worker,Urban,YouTube,212,12,12,5181,3,25,10,8,Night,3,7,5,5,At work,Mobile Data,2.5,518.1,17.666666666666668
+63,Male,Barzil,85677,True,False,Waiting staff,Urban,Facebook,30,11,29,2538,1,22,40,85,Evening,6,4,8,2,At home,Wi-Fi,0.55,63.45,2.727272727272727
+35,Male,Indonesia,22659,False,True,Students,Rural,Instagram,48,3,12,9488,6,10,12,61,Evening,6,4,8,2,At school,Wi-Fi,0.8333333333333334,790.6666666666666,16.0
+19,Female,India,94567,True,False,Waiting staff,Rural,TikTok,232,2,16,2276,1,10,22,28,Afternoon,5,5,7,3,At work,Wi-Fi,0.45454545454545453,103.45454545454545,116.0
+52,Male,Vietnam,35037,False,True,Labor/Worker,Rural,Instagram,111,6,15,8194,1,10,16,87,Afternoon,5,5,7,3,At school,Mobile Data,0.625,512.125,18.5
+33,Female,Mexico,66738,True,False,Engineer,Rural,Instagram,55,5,29,9945,8,20,12,70,Night,3,7,5,5,At school,Mobile Data,1.6666666666666667,828.75,11.0
+58,Female,Philippines,91678,True,True,Engineer,Rural,Instagram,75,18,13,910,9,29,11,3,Evening,6,4,8,2,Commuting,Mobile Data,2.6363636363636362,82.72727272727273,4.166666666666667
+53,Male,Pakistan,32109,False,True,Waiting staff,Rural,Facebook,100,16,11,306,2,16,20,69,Morning,8,2,10,0,At work,Wi-Fi,0.8,15.3,6.25
+50,Female,Germany,42010,False,True,Students,Rural,YouTube,173,8,17,6575,9,1,1,73,Afternoon,5,5,7,3,Commuting,Wi-Fi,1.0,6575.0,21.625
+21,Female,Philippines,28787,False,True,Waiting staff,Rural,TikTok,120,11,21,4231,5,17,27,7,Afternoon,5,5,7,3,At home,Mobile Data,0.6296296296296297,156.7037037037037,10.909090909090908
+50,Male,Barzil,28472,False,False,Engineer,Urban,Facebook,132,10,15,6028,8,26,3,60,Afternoon,5,5,7,3,At home,Mobile Data,8.666666666666666,2009.3333333333333,13.2
+31,Male,Indonesia,43383,False,True,Cashier,Rural,TikTok,202,12,14,6658,7,21,12,4,Afternoon,5,5,7,3,At school,Mobile Data,1.75,554.8333333333334,16.833333333333332
+38,Other,Indonesia,81709,True,False,Waiting staff,Rural,TikTok,108,6,10,6336,7,29,30,5,Evening,6,4,8,2,At home,Mobile Data,0.9666666666666667,211.2,18.0
+37,Other,United States,89785,True,True,Artist,Rural,TikTok,168,5,12,9630,4,14,9,11,Evening,6,4,8,2,At work,Mobile Data,1.5555555555555556,1070.0,33.6
+25,Male,Indonesia,54518,True,False,Waiting staff,Rural,Facebook,112,9,16,872,2,19,37,15,Night,3,7,5,5,At school,Mobile Data,0.5135135135135135,23.56756756756757,12.444444444444445
+24,Female,Vietnam,73909,True,True,Driver,Rural,YouTube,290,16,15,1141,5,21,1,64,Evening,6,4,8,2,At work,Wi-Fi,21.0,1141.0,18.125
+20,Male,Japan,38351,False,False,Students,Rural,TikTok,52,14,10,665,3,21,42,98,Morning,8,2,10,0,At home,Wi-Fi,0.5,15.833333333333334,3.7142857142857144
+34,Female,Pakistan,89624,True,True,Engineer,Rural,YouTube,93,8,4,8400,9,17,49,13,Afternoon,5,5,7,3,At work,Mobile Data,0.3469387755102041,171.42857142857142,11.625
+50,Male,Japan,73330,True,False,Manager,Rural,YouTube,200,19,27,951,6,14,4,7,Morning,8,2,10,0,At home,Mobile Data,3.5,237.75,10.526315789473685
+29,Female,Pakistan,35282,False,True,Driver,Rural,Instagram,60,14,23,9249,1,8,15,6,Night,3,7,5,5,At school,Wi-Fi,0.5333333333333333,616.6,4.285714285714286
+39,Female,Mexico,41778,False,False,Manager,Rural,Facebook,219,7,29,4722,3,21,27,56,Night,3,7,5,5,At work,Mobile Data,0.7777777777777778,174.88888888888889,31.285714285714285
+39,Other,Pakistan,44264,False,True,Students,Urban,Facebook,135,5,9,4008,4,21,8,64,Night,3,7,5,5,At home,Mobile Data,2.625,501.0,27.0
+63,Female,Japan,79675,True,False,Waiting staff,Rural,Instagram,78,18,21,6655,9,9,23,50,Evening,6,4,8,2,At school,Mobile Data,0.391304347826087,289.3478260869565,4.333333333333333
+47,Male,Philippines,25075,False,True,Engineer,Rural,Instagram,274,2,20,6190,6,8,15,30,Night,3,7,5,5,At home,Mobile Data,0.5333333333333333,412.6666666666667,137.0
+55,Female,Pakistan,95948,True,False,Teacher,Rural,YouTube,267,11,9,771,4,13,27,22,Night,3,7,5,5,At work,Mobile Data,0.48148148148148145,28.555555555555557,24.272727272727273
+55,Other,Mexico,68454,True,True,Driver,Rural,TikTok,197,8,21,4030,1,17,31,25,Afternoon,5,5,7,3,At school,Wi-Fi,0.5483870967741935,130.0,24.625
+62,Male,Mexico,48365,False,False,Students,Rural,Facebook,239,1,25,7859,8,19,39,28,Night,3,7,5,5,At work,Mobile Data,0.48717948717948717,201.51282051282053,239.0
+25,Other,India,92766,True,True,Waiting staff,Rural,TikTok,198,12,24,521,2,28,47,84,Afternoon,5,5,7,3,At work,Wi-Fi,0.5957446808510638,11.085106382978724,16.5
+44,Male,Pakistan,68200,True,True,Driver,Urban,TikTok,19,2,20,3355,8,7,8,39,Afternoon,5,5,7,3,At school,Mobile Data,0.875,419.375,9.5
+44,Female,Germany,31002,False,True,Students,Rural,Instagram,123,18,11,1400,6,17,30,67,Morning,8,2,10,0,At school,Mobile Data,0.5666666666666667,46.666666666666664,6.833333333333333
+51,Male,United States,33947,False,True,Engineer,Rural,TikTok,85,7,11,3723,8,1,42,5,Afternoon,5,5,7,3,At home,Mobile Data,0.023809523809523808,88.64285714285714,12.142857142857142
+38,Male,United States,99222,True,False,Artist,Urban,YouTube,173,17,7,6579,6,5,18,65,Evening,6,4,8,2,Commuting,Mobile Data,0.2777777777777778,365.5,10.176470588235293
+47,Other,India,98610,True,True,Driver,Urban,Instagram,94,14,21,3247,5,25,4,15,Evening,6,4,8,2,Commuting,Mobile Data,6.25,811.75,6.714285714285714
+50,Male,Mexico,72142,True,False,Manager,Urban,TikTok,58,7,10,1858,5,6,47,90,Afternoon,5,5,7,3,At school,Wi-Fi,0.1276595744680851,39.53191489361702,8.285714285714286
+45,Female,India,76307,True,True,Manager,Urban,Instagram,186,3,4,4781,8,26,43,67,Night,3,7,5,5,At work,Mobile Data,0.6046511627906976,111.18604651162791,62.0
+64,Male,United States,24493,False,False,Students,Rural,YouTube,227,6,5,4064,7,2,22,40,Night,3,7,5,5,At school,Mobile Data,0.09090909090909091,184.72727272727272,37.833333333333336
+50,Male,Vietnam,70085,True,True,Manager,Rural,YouTube,198,2,5,2398,8,27,3,98,Afternoon,5,5,7,3,Commuting,Mobile Data,9.0,799.3333333333334,99.0
+22,Male,Barzil,54228,True,False,Students,Rural,TikTok,239,17,11,142,8,25,15,69,Night,3,7,5,5,At home,Mobile Data,1.6666666666666667,9.466666666666667,14.058823529411764
+36,Other,Pakistan,99676,True,True,Students,Rural,Instagram,264,12,9,5062,7,16,35,95,Afternoon,5,5,7,3,At work,Mobile Data,0.45714285714285713,144.62857142857143,22.0
+21,Other,Japan,71875,True,False,Driver,Rural,TikTok,245,12,28,3469,2,22,47,77,Afternoon,5,5,7,3,At school,Wi-Fi,0.46808510638297873,73.80851063829788,20.416666666666668
+52,Male,India,51655,True,True,Waiting staff,Rural,TikTok,35,17,16,3695,9,5,38,43,Afternoon,5,5,7,3,At work,Mobile Data,0.13157894736842105,97.23684210526316,2.0588235294117645
+34,Other,India,63472,True,False,Students,Rural,Instagram,81,10,9,717,7,5,33,1,Afternoon,5,5,7,3,At work,Mobile Data,0.15151515151515152,21.727272727272727,8.1
+61,Female,United States,69437,True,True,Waiting staff,Rural,TikTok,270,3,22,642,6,12,14,22,Evening,6,4,8,2,At school,Mobile Data,0.8571428571428571,45.857142857142854,90.0
+45,Female,Pakistan,69416,True,False,Driver,Rural,YouTube,263,18,4,2548,9,3,48,62,Night,3,7,5,5,At work,Mobile Data,0.0625,53.083333333333336,14.61111111111111
+47,Female,India,79711,True,True,Teacher,Rural,Instagram,280,13,2,8561,1,16,1,79,Afternoon,5,5,7,3,Commuting,Mobile Data,16.0,8561.0,21.53846153846154
+46,Male,Barzil,26816,False,False,Students,Urban,Instagram,132,12,14,3650,2,6,49,26,Night,3,7,5,5,At school,Mobile Data,0.12244897959183673,74.48979591836735,11.0
+63,Male,India,97175,True,True,Labor/Worker,Rural,Instagram,153,17,3,7549,1,15,26,18,Evening,6,4,8,2,At home,Mobile Data,0.5769230769230769,290.34615384615387,9.0
+23,Female,United States,84307,True,False,Students,Rural,Instagram,266,4,18,8978,3,15,8,48,Night,3,7,5,5,At home,Wi-Fi,1.875,1122.25,66.5
+52,Male,India,66733,True,True,Labor/Worker,Rural,TikTok,153,10,21,949,5,29,16,9,Evening,6,4,8,2,At school,Mobile Data,1.8125,59.3125,15.3
+58,Male,India,31240,False,True,Engineer,Rural,TikTok,268,11,6,5444,1,16,38,1,Morning,8,2,10,0,At school,Mobile Data,0.42105263157894735,143.26315789473685,24.363636363636363
+54,Other,Vietnam,91363,True,True,Students,Urban,YouTube,56,6,11,521,4,20,10,9,Morning,8,2,10,0,At school,Mobile Data,2.0,52.1,9.333333333333334
+41,Female,India,52762,True,True,Cashier,Urban,Facebook,22,6,21,6632,8,13,42,23,Morning,8,2,10,0,Commuting,Mobile Data,0.30952380952380953,157.9047619047619,3.6666666666666665
+46,Male,India,28259,False,False,Driver,Urban,Facebook,217,9,18,6048,6,12,37,45,Evening,6,4,8,2,At school,Wi-Fi,0.32432432432432434,163.45945945945945,24.11111111111111
+63,Female,Barzil,70139,True,True,Labor/Worker,Rural,YouTube,244,15,12,354,1,10,26,2,Evening,6,4,8,2,At school,Mobile Data,0.38461538461538464,13.615384615384615,16.266666666666666
+48,Female,United States,34849,False,False,Engineer,Rural,Facebook,158,2,5,1482,1,14,28,14,Night,3,7,5,5,At home,Wi-Fi,0.5,52.92857142857143,79.0
+52,Male,India,74869,True,True,Students,Rural,YouTube,164,4,9,9839,3,2,12,38,Evening,6,4,8,2,At school,Wi-Fi,0.16666666666666666,819.9166666666666,41.0
+50,Other,Indonesia,83095,True,False,Waiting staff,Urban,TikTok,175,5,20,6994,8,29,20,40,Evening,6,4,8,2,At school,Mobile Data,1.45,349.7,35.0
+38,Female,United States,90910,True,True,Engineer,Rural,Instagram,99,17,28,2215,8,3,49,63,Morning,8,2,10,0,At work,Wi-Fi,0.061224489795918366,45.204081632653065,5.823529411764706
+49,Male,India,43567,False,False,Labor/Worker,Rural,Instagram,195,8,26,4716,3,9,14,82,Night,3,7,5,5,At school,Mobile Data,0.6428571428571429,336.85714285714283,24.375
+40,Male,Vietnam,55292,True,True,Driver,Rural,TikTok,183,8,18,8619,7,11,46,16,Morning,8,2,10,0,At home,Wi-Fi,0.2391304347826087,187.3695652173913,22.875
+50,Male,Barzil,94813,True,False,Students,Rural,Instagram,226,12,19,5821,3,11,35,93,Evening,6,4,8,2,At home,Wi-Fi,0.3142857142857143,166.31428571428572,18.833333333333332
+20,Other,Germany,71631,True,True,Manager,Rural,Instagram,273,8,3,2537,4,25,29,75,Afternoon,5,5,7,3,At work,Mobile Data,0.8620689655172413,87.48275862068965,34.125
+35,Female,Pakistan,29885,False,False,Waiting staff,Rural,Facebook,106,19,9,6339,9,22,12,6,Night,3,7,5,5,At work,Mobile Data,1.8333333333333333,528.25,5.578947368421052
+42,Female,Japan,79659,True,True,Teacher,Rural,TikTok,126,3,4,8736,4,10,18,3,Night,3,7,5,5,At school,Wi-Fi,0.5555555555555556,485.3333333333333,42.0
+59,Male,Philippines,74306,True,False,Labor/Worker,Rural,Facebook,208,18,17,4919,3,26,44,14,Night,3,7,5,5,At home,Mobile Data,0.5909090909090909,111.79545454545455,11.555555555555555
+48,Female,Philippines,86314,True,True,Labor/Worker,Rural,Facebook,30,19,17,7075,5,14,2,66,Evening,6,4,8,2,At home,Mobile Data,7.0,3537.5,1.5789473684210527
+20,Other,Japan,85087,True,False,Waiting staff,Rural,Instagram,209,19,23,3765,7,9,2,96,Morning,8,2,10,0,At home,Mobile Data,4.5,1882.5,11.0
+57,Male,Japan,49165,False,True,Labor/Worker,Rural,Instagram,257,15,23,8850,5,20,17,95,Night,3,7,5,5,At home,Mobile Data,1.1764705882352942,520.5882352941177,17.133333333333333
+63,Male,India,78929,True,False,Waiting staff,Rural,TikTok,285,6,2,7082,4,27,10,75,Evening,6,4,8,2,At school,Wi-Fi,2.7,708.2,47.5
+41,Male,India,87028,True,True,Students,Rural,Instagram,273,16,9,2827,8,21,18,86,Evening,6,4,8,2,At home,Mobile Data,1.1666666666666667,157.05555555555554,17.0625
+49,Other,Barzil,69812,True,True,Students,Rural,Instagram,67,8,9,2058,4,10,22,67,Afternoon,5,5,7,3,At work,Mobile Data,0.45454545454545453,93.54545454545455,8.375
+64,Male,United States,70500,True,True,Cashier,Rural,TikTok,40,16,5,7749,2,22,19,31,Evening,6,4,8,2,At home,Mobile Data,1.1578947368421053,407.8421052631579,2.5
+39,Female,India,99151,True,True,Teacher,Urban,Instagram,258,18,15,730,6,29,1,33,Morning,8,2,10,0,At school,Mobile Data,29.0,730.0,14.333333333333334
+40,Female,India,78643,True,False,Engineer,Urban,Facebook,102,16,15,1832,2,9,24,88,Evening,6,4,8,2,At work,Wi-Fi,0.375,76.33333333333333,6.375
+19,Male,Pakistan,64900,True,True,Cashier,Urban,TikTok,274,11,3,8600,3,29,36,1,Afternoon,5,5,7,3,At work,Mobile Data,0.8055555555555556,238.88888888888889,24.90909090909091
+44,Male,Indonesia,62946,True,False,Students,Urban,Instagram,280,7,19,6505,1,5,25,44,Night,3,7,5,5,At home,Mobile Data,0.2,260.2,40.0
+59,Male,Philippines,27851,False,True,Students,Rural,YouTube,103,17,28,7170,5,8,36,15,Night,3,7,5,5,At school,Mobile Data,0.2222222222222222,199.16666666666666,6.0588235294117645
+19,Female,Barzil,36288,False,False,Students,Urban,TikTok,163,17,3,4179,9,11,31,37,Night,3,7,5,5,Commuting,Mobile Data,0.3548387096774194,134.80645161290323,9.588235294117647
+43,Male,Japan,92692,True,True,Labor/Worker,Rural,TikTok,294,12,6,6299,2,1,31,27,Evening,6,4,8,2,At work,Wi-Fi,0.03225806451612903,203.19354838709677,24.5
+34,Male,India,87580,True,False,Driver,Rural,YouTube,89,13,4,7830,7,21,2,48,Evening,6,4,8,2,At home,Mobile Data,10.5,3915.0,6.846153846153846
+57,Female,Germany,27368,False,True,Labor/Worker,Rural,Instagram,93,10,24,4802,5,10,19,27,Afternoon,5,5,7,3,At home,Wi-Fi,0.5263157894736842,252.73684210526315,9.3
+50,Male,Barzil,66403,True,False,Students,Urban,Instagram,46,7,13,6057,2,1,12,12,Evening,6,4,8,2,Commuting,Mobile Data,0.08333333333333333,504.75,6.571428571428571
+26,Female,Mexico,29168,False,True,Waiting staff,Urban,TikTok,241,14,27,6615,8,26,10,67,Morning,8,2,10,0,At home,Mobile Data,2.6,661.5,17.214285714285715
+60,Other,Vietnam,69879,True,False,Teacher,Urban,TikTok,102,1,13,6762,6,22,31,30,Night,3,7,5,5,At school,Wi-Fi,0.7096774193548387,218.1290322580645,102.0
+56,Female,India,79871,True,True,Waiting staff,Rural,Instagram,111,17,27,5543,4,7,45,96,Morning,8,2,10,0,At work,Wi-Fi,0.15555555555555556,123.17777777777778,6.529411764705882
+46,Other,United States,52174,True,False,Labor/Worker,Rural,Instagram,175,4,11,8325,4,28,22,87,Afternoon,5,5,7,3,At school,Mobile Data,1.2727272727272727,378.40909090909093,43.75
+59,Female,Pakistan,26581,False,True,Students,Urban,Facebook,168,5,5,4883,2,14,23,66,Night,3,7,5,5,At school,Wi-Fi,0.6086956521739131,212.30434782608697,33.6
+43,Female,Indonesia,91853,True,False,Driver,Rural,TikTok,23,7,1,7050,3,5,23,7,Morning,8,2,10,0,At school,Mobile Data,0.21739130434782608,306.5217391304348,3.2857142857142856
+52,Other,Pakistan,84046,True,True,Waiting staff,Urban,TikTok,234,10,9,4959,7,17,15,34,Afternoon,5,5,7,3,At school,Mobile Data,1.1333333333333333,330.6,23.4
+42,Male,Barzil,69678,True,False,Students,Rural,YouTube,82,17,17,666,3,22,26,32,Evening,6,4,8,2,At home,Wi-Fi,0.8461538461538461,25.615384615384617,4.823529411764706
+41,Male,Philippines,46649,False,True,Labor/Worker,Urban,Facebook,258,7,22,276,5,26,3,39,Evening,6,4,8,2,At work,Wi-Fi,8.666666666666666,92.0,36.857142857142854
+30,Male,United States,34567,False,True,Labor/Worker,Rural,Instagram,100,1,1,881,6,21,23,96,Evening,6,4,8,2,At work,Mobile Data,0.9130434782608695,38.30434782608695,100.0
+24,Male,Mexico,81944,True,True,Students,Urban,Facebook,225,7,3,2060,6,6,20,43,Afternoon,5,5,7,3,At home,Mobile Data,0.3,103.0,32.142857142857146
+53,Female,United States,98002,True,True,Students,Rural,Instagram,99,11,15,2082,4,16,45,43,Afternoon,5,5,7,3,At work,Mobile Data,0.35555555555555557,46.266666666666666,9.0
+62,Male,India,48803,False,False,Students,Urban,Instagram,38,9,26,6702,6,11,40,78,Evening,6,4,8,2,At school,Mobile Data,0.275,167.55,4.222222222222222
+37,Female,United States,38230,False,True,Driver,Rural,Facebook,229,12,21,9429,3,10,39,3,Night,3,7,5,5,At home,Mobile Data,0.2564102564102564,241.76923076923077,19.083333333333332
+18,Male,India,37862,False,False,Students,Rural,TikTok,224,3,26,158,7,15,8,46,Night,3,7,5,5,At home,Wi-Fi,1.875,19.75,74.66666666666667
+25,Male,Japan,63355,True,True,Manager,Urban,Instagram,230,4,23,5229,7,7,18,32,Night,3,7,5,5,At work,Mobile Data,0.3888888888888889,290.5,57.5
+63,Male,Mexico,51259,True,False,Labor/Worker,Rural,Facebook,51,4,10,7956,4,23,41,43,Night,3,7,5,5,At school,Wi-Fi,0.5609756097560976,194.0487804878049,12.75
+33,Male,India,50795,True,True,Labor/Worker,Rural,YouTube,144,13,8,7514,2,2,6,81,Evening,6,4,8,2,At work,Mobile Data,0.3333333333333333,1252.3333333333333,11.076923076923077
+31,Female,Germany,28770,False,False,Labor/Worker,Urban,Facebook,51,19,12,7803,7,12,27,3,Evening,6,4,8,2,At home,Wi-Fi,0.4444444444444444,289.0,2.6842105263157894
+29,Male,Indonesia,31093,False,True,Labor/Worker,Urban,YouTube,173,10,25,2526,3,19,36,74,Night,3,7,5,5,At home,Mobile Data,0.5277777777777778,70.16666666666667,17.3
+40,Male,Japan,66571,True,False,Students,Rural,Instagram,292,5,22,8302,1,12,15,63,Evening,6,4,8,2,Commuting,Wi-Fi,0.8,553.4666666666667,58.4
+32,Male,Barzil,20193,False,True,Manager,Rural,Facebook,67,7,15,7803,2,16,37,40,Night,3,7,5,5,At home,Mobile Data,0.43243243243243246,210.8918918918919,9.571428571428571
+45,Other,United States,37569,False,False,Driver,Urban,Facebook,34,16,27,6574,9,6,5,18,Evening,6,4,8,2,At home,Wi-Fi,1.2,1314.8,2.125
+51,Female,Philippines,31190,False,True,Waiting staff,Rural,YouTube,82,1,9,8733,8,3,39,67,Night,3,7,5,5,At home,Mobile Data,0.07692307692307693,223.92307692307693,82.0
+19,Other,India,82824,True,False,Labor/Worker,Rural,Facebook,138,12,24,1138,6,2,9,62,Night,3,7,5,5,At home,Mobile Data,0.2222222222222222,126.44444444444444,11.5
+49,Other,Vietnam,62752,True,True,Waiting staff,Rural,Facebook,96,2,25,7257,6,20,7,10,Morning,8,2,10,0,At home,Wi-Fi,2.857142857142857,1036.7142857142858,48.0
+40,Male,India,52327,True,False,Labor/Worker,Rural,Instagram,162,7,10,3283,1,5,41,52,Morning,8,2,10,0,At home,Mobile Data,0.12195121951219512,80.07317073170732,23.142857142857142
+39,Male,Vietnam,62070,True,True,Students,Rural,Facebook,191,11,20,7762,2,11,20,73,Afternoon,5,5,7,3,At home,Mobile Data,0.55,388.1,17.363636363636363
+42,Female,United States,60197,True,False,Driver,Rural,TikTok,134,13,9,7896,4,26,10,46,Afternoon,5,5,7,3,At work,Mobile Data,2.6,789.6,10.307692307692308
+39,Female,Vietnam,22261,False,True,Students,Urban,YouTube,76,2,15,2419,3,25,26,55,Afternoon,5,5,7,3,At school,Mobile Data,0.9615384615384616,93.03846153846153,38.0
+39,Female,Germany,46512,False,True,Engineer,Rural,Facebook,15,7,23,1756,1,3,4,46,Afternoon,5,5,7,3,At home,Mobile Data,0.75,439.0,2.142857142857143
+59,Male,United States,26716,False,True,Students,Urban,YouTube,134,15,21,2306,8,3,38,75,Evening,6,4,8,2,At home,Mobile Data,0.07894736842105263,60.68421052631579,8.933333333333334
+23,Male,Mexico,48933,False,True,Engineer,Rural,YouTube,62,11,21,7630,7,22,24,60,Morning,8,2,10,0,At school,Mobile Data,0.9166666666666666,317.9166666666667,5.636363636363637
+32,Female,Indonesia,24378,False,False,Driver,Rural,YouTube,75,2,1,6263,4,5,14,97,Evening,6,4,8,2,At home,Mobile Data,0.35714285714285715,447.35714285714283,37.5
+60,Male,Mexico,60583,True,True,Cashier,Rural,Facebook,91,7,2,9167,9,22,41,26,Night,3,7,5,5,At work,Wi-Fi,0.5365853658536586,223.58536585365854,13.0
+54,Male,India,49033,False,False,Driver,Rural,Facebook,96,4,26,5008,4,23,1,27,Evening,6,4,8,2,At work,Mobile Data,23.0,5008.0,24.0
+50,Other,India,44000,False,True,Engineer,Urban,YouTube,11,11,19,5247,1,11,17,38,Night,3,7,5,5,At work,Mobile Data,0.6470588235294118,308.6470588235294,1.0
+25,Male,Indonesia,95868,True,False,Waiting staff,Rural,TikTok,213,2,14,8914,1,3,45,22,Night,3,7,5,5,At home,Mobile Data,0.06666666666666667,198.0888888888889,106.5
+61,Male,Vietnam,62604,True,True,Students,Urban,YouTube,159,16,8,2570,1,13,24,26,Morning,8,2,10,0,At home,Mobile Data,0.5416666666666666,107.08333333333333,9.9375
+61,Male,Philippines,88336,True,False,Waiting staff,Rural,TikTok,112,7,6,5807,1,21,27,86,Afternoon,5,5,7,3,At work,Mobile Data,0.7777777777777778,215.07407407407408,16.0
+22,Female,Pakistan,93869,True,True,Students,Urban,YouTube,33,13,12,7812,4,8,7,69,Evening,6,4,8,2,At home,Mobile Data,1.1428571428571428,1116.0,2.5384615384615383
+56,Male,India,25410,False,False,Waiting staff,Rural,Instagram,221,5,26,324,1,20,9,35,Morning,8,2,10,0,At school,Mobile Data,2.2222222222222223,36.0,44.2
+21,Female,Indonesia,76044,True,True,Manager,Rural,YouTube,74,17,27,7487,2,10,43,66,Night,3,7,5,5,Commuting,Mobile Data,0.23255813953488372,174.11627906976744,4.352941176470588
+23,Female,Indonesia,83315,True,False,Students,Urban,YouTube,218,12,29,9721,4,2,35,99,Evening,6,4,8,2,At school,Mobile Data,0.05714285714285714,277.74285714285713,18.166666666666668
+62,Male,India,91344,True,True,Teacher,Rural,Facebook,260,19,15,5645,7,4,12,73,Afternoon,5,5,7,3,Commuting,Mobile Data,0.3333333333333333,470.4166666666667,13.68421052631579
+49,Male,Barzil,26796,False,False,Labor/Worker,Urban,TikTok,126,7,14,1945,2,18,21,51,Night,3,7,5,5,Commuting,Wi-Fi,0.8571428571428571,92.61904761904762,18.0
+47,Male,Vietnam,74245,True,True,Students,Urban,Instagram,125,6,21,4486,8,19,3,18,Morning,8,2,10,0,At school,Wi-Fi,6.333333333333333,1495.3333333333333,20.833333333333332
+64,Male,India,63056,True,False,Students,Urban,TikTok,246,8,29,2430,7,4,15,43,Evening,6,4,8,2,At school,Mobile Data,0.26666666666666666,162.0,30.75
+52,Male,Indonesia,37709,False,True,Engineer,Rural,Instagram,114,13,1,3510,9,20,21,12,Morning,8,2,10,0,Commuting,Wi-Fi,0.9523809523809523,167.14285714285714,8.76923076923077
+57,Male,India,78557,True,False,Waiting staff,Rural,YouTube,268,5,28,845,6,26,10,3,Night,3,7,5,5,At home,Mobile Data,2.6,84.5,53.6
+33,Male,India,37543,False,True,Waiting staff,Rural,Facebook,55,2,11,567,4,9,33,82,Evening,6,4,8,2,At work,Mobile Data,0.2727272727272727,17.181818181818183,27.5
+30,Male,India,57418,True,True,Waiting staff,Rural,Facebook,225,9,28,2179,6,16,46,7,Evening,6,4,8,2,At work,Mobile Data,0.34782608695652173,47.369565217391305,25.0
+59,Female,Barzil,36724,False,True,Artist,Urban,TikTok,33,11,25,2019,4,26,6,97,Night,3,7,5,5,At school,Mobile Data,4.333333333333333,336.5,3.0
+47,Male,United States,23828,False,True,Waiting staff,Rural,Facebook,44,6,3,3319,7,6,2,6,Evening,6,4,8,2,At home,Wi-Fi,3.0,1659.5,7.333333333333333
+36,Male,Mexico,37087,False,False,Engineer,Rural,TikTok,33,7,19,2320,9,25,29,82,Evening,6,4,8,2,Commuting,Wi-Fi,0.8620689655172413,80.0,4.714285714285714
+34,Male,Indonesia,32605,False,True,Teacher,Urban,TikTok,37,7,18,1646,3,4,40,45,Evening,6,4,8,2,At work,Wi-Fi,0.1,41.15,5.285714285714286
+36,Female,Vietnam,51337,True,False,Artist,Rural,Instagram,25,19,20,3909,3,9,33,86,Evening,6,4,8,2,At work,Mobile Data,0.2727272727272727,118.45454545454545,1.3157894736842106
+45,Male,Pakistan,25482,False,True,Labor/Worker,Rural,TikTok,68,6,28,8015,2,27,4,39,Night,3,7,5,5,At home,Wi-Fi,6.75,2003.75,11.333333333333334
+43,Female,United States,85333,True,False,Students,Rural,Instagram,252,11,2,3420,1,13,4,51,Evening,6,4,8,2,At home,Mobile Data,3.25,855.0,22.90909090909091
+54,Female,United States,70952,True,True,Waiting staff,Urban,Facebook,216,11,29,356,1,9,29,9,Afternoon,5,5,7,3,At work,Wi-Fi,0.3103448275862069,12.275862068965518,19.636363636363637
+43,Male,Philippines,25463,False,False,Students,Rural,TikTok,280,7,25,7485,3,6,37,99,Night,3,7,5,5,At work,Wi-Fi,0.16216216216216217,202.2972972972973,40.0
+40,Other,Philippines,90448,True,True,Engineer,Rural,TikTok,258,2,28,3081,7,21,20,23,Evening,6,4,8,2,At home,Wi-Fi,1.05,154.05,129.0
+26,Other,Japan,24648,False,False,Students,Rural,YouTube,276,19,26,2280,9,19,41,12,Morning,8,2,10,0,At home,Wi-Fi,0.4634146341463415,55.609756097560975,14.526315789473685
+29,Female,Barzil,53623,True,True,Labor/Worker,Urban,TikTok,202,4,7,4131,2,14,23,88,Night,3,7,5,5,At school,Mobile Data,0.6086956521739131,179.6086956521739,50.5
+18,Female,Pakistan,79156,True,False,Students,Urban,TikTok,227,6,8,5123,7,21,45,62,Afternoon,6,4,8,2,At school,Wi-Fi,0.4666666666666667,113.84444444444445,37.833333333333336
+18,Male,Japan,55634,True,True,Students,Rural,YouTube,124,17,19,7422,1,15,18,73,Evening,7,3,9,1,At work,Mobile Data,0.8333333333333334,412.3333333333333,7.294117647058823
+64,Male,Barzil,64602,True,False,Cashier,Rural,YouTube,77,5,22,2787,2,3,49,77,Night,2,8,4,6,At school,Wi-Fi,0.061224489795918366,56.87755102040816,15.4
+51,Female,Vietnam,69334,True,True,Cashier,Urban,Facebook,84,7,15,4209,6,5,25,40,Night,2,8,4,6,At work,Mobile Data,0.2,168.36,12.0
+49,Male,India,88648,True,False,Labor/Worker,Rural,TikTok,112,9,10,6540,5,21,1,54,Evening,7,3,9,1,At school,Mobile Data,21.0,6540.0,12.444444444444445
+42,Male,Vietnam,42054,False,True,Driver,Rural,Facebook,187,1,22,9389,8,18,15,81,Morning,9,1,10,0,At work,Mobile Data,1.2,625.9333333333333,187.0
+57,Male,Mexico,90028,True,False,Manager,Rural,Facebook,224,1,29,9470,2,14,34,7,Evening,7,3,9,1,At school,Mobile Data,0.4117647058823529,278.52941176470586,224.0
+62,Male,United States,42207,False,True,Students,Rural,YouTube,48,19,1,465,1,16,48,17,Evening,7,3,9,1,At school,Mobile Data,0.3333333333333333,9.6875,2.526315789473684
+18,Male,India,41386,False,True,Waiting staff,Rural,Instagram,268,6,6,1487,7,14,20,50,Night,2,8,4,6,At work,Mobile Data,0.7,74.35,44.666666666666664
+33,Female,Philippines,79518,True,True,Labor/Worker,Rural,Facebook,213,18,13,4942,6,9,37,24,Morning,9,1,10,0,At home,Wi-Fi,0.24324324324324326,133.56756756756758,11.833333333333334
+56,Male,Barzil,72781,True,True,Engineer,Rural,Instagram,16,10,14,4597,8,15,27,2,Evening,7,3,9,1,Commuting,Mobile Data,0.5555555555555556,170.25925925925927,1.6
+22,Male,Vietnam,72780,True,False,Labor/Worker,Urban,TikTok,58,11,3,4536,8,7,22,99,Night,2,8,4,6,At school,Mobile Data,0.3181818181818182,206.1818181818182,5.2727272727272725
+39,Female,India,81440,True,True,Driver,Urban,YouTube,35,1,11,325,2,14,5,92,Evening,7,3,9,1,At home,Mobile Data,2.8,65.0,35.0
+46,Other,Mexico,64199,True,False,Driver,Urban,TikTok,170,1,3,9957,8,6,34,83,Afternoon,6,4,8,2,At school,Mobile Data,0.17647058823529413,292.8529411764706,170.0
+20,Male,Indonesia,81035,True,True,Waiting staff,Rural,TikTok,185,13,19,4162,6,21,39,33,Evening,7,3,9,1,At work,Mobile Data,0.5384615384615384,106.71794871794872,14.23076923076923
+29,Male,United States,28210,False,False,Driver,Urban,YouTube,88,5,10,303,9,15,3,21,Evening,7,3,9,1,At work,Wi-Fi,5.0,101.0,17.6
+43,Male,United States,64363,True,True,Manager,Rural,TikTok,11,1,27,5067,7,20,17,74,Evening,7,3,9,1,At home,Wi-Fi,1.1764705882352942,298.05882352941177,11.0
+33,Male,Mexico,98279,True,False,Driver,Rural,YouTube,141,3,15,5024,2,8,24,53,Night,2,8,4,6,At home,Mobile Data,0.3333333333333333,209.33333333333334,47.0
+54,Other,Mexico,80348,True,True,Labor/Worker,Rural,Instagram,285,18,11,7715,8,2,24,46,Afternoon,6,4,8,2,Commuting,Mobile Data,0.08333333333333333,321.4583333333333,15.833333333333334
+39,Other,Vietnam,75284,True,False,Labor/Worker,Urban,TikTok,126,9,15,9632,9,8,3,45,Evening,7,3,9,1,At school,Mobile Data,2.6666666666666665,3210.6666666666665,14.0
+46,Male,India,92124,True,True,Waiting staff,Rural,YouTube,173,14,26,8340,7,1,45,9,Evening,7,3,9,1,At home,Mobile Data,0.022222222222222223,185.33333333333334,12.357142857142858
+31,Female,Japan,88847,True,False,Manager,Rural,Facebook,297,17,27,2631,4,26,7,6,Afternoon,6,4,8,2,At work,Mobile Data,3.7142857142857144,375.85714285714283,17.470588235294116
+45,Male,United States,42432,False,True,Students,Rural,TikTok,37,14,24,6391,9,17,25,51,Afternoon,6,4,8,2,At work,Mobile Data,0.68,255.64,2.642857142857143
+22,Female,United States,84089,True,False,Labor/Worker,Rural,Instagram,10,4,13,8287,4,19,3,35,Afternoon,6,4,8,2,At home,Wi-Fi,6.333333333333333,2762.3333333333335,2.5
+64,Male,Indonesia,75398,True,True,Labor/Worker,Rural,YouTube,197,5,5,2369,4,5,15,82,Afternoon,6,4,8,2,At home,Mobile Data,0.3333333333333333,157.93333333333334,39.4
+47,Female,Indonesia,23321,False,False,Labor/Worker,Rural,TikTok,65,17,4,528,9,22,29,53,Morning,9,1,10,0,At home,Wi-Fi,0.7586206896551724,18.20689655172414,3.823529411764706
+63,Male,India,57383,True,True,Engineer,Rural,TikTok,44,2,13,4675,8,20,29,19,Afternoon,6,4,8,2,At work,Mobile Data,0.6896551724137931,161.20689655172413,22.0
+22,Male,Mexico,98682,True,False,Labor/Worker,Urban,TikTok,121,5,9,1663,4,16,10,69,Night,2,8,4,6,At work,Mobile Data,1.6,166.3,24.2
+29,Female,Barzil,99190,True,True,Waiting staff,Rural,Instagram,295,4,25,3364,8,7,32,25,Evening,7,3,9,1,At home,Wi-Fi,0.21875,105.125,73.75
+33,Female,India,72893,True,True,Driver,Rural,YouTube,45,4,17,2341,8,7,23,11,Afternoon,6,4,8,2,Commuting,Wi-Fi,0.30434782608695654,101.78260869565217,11.25
+43,Male,United States,55820,True,True,Students,Rural,Facebook,226,6,2,6656,7,18,39,74,Evening,7,3,9,1,At school,Wi-Fi,0.46153846153846156,170.66666666666666,37.666666666666664
+43,Female,Vietnam,86262,True,True,Manager,Rural,Facebook,89,13,24,4905,6,18,9,17,Morning,9,1,10,0,At work,Mobile Data,2.0,545.0,6.846153846153846
+38,Male,Indonesia,23760,False,False,Students,Rural,Facebook,92,5,5,8884,8,2,37,36,Night,2,8,4,6,At school,Wi-Fi,0.05405405405405406,240.1081081081081,18.4
+56,Other,United States,42190,False,True,Driver,Urban,YouTube,74,7,16,9143,7,15,40,90,Morning,9,1,10,0,At home,Mobile Data,0.375,228.575,10.571428571428571
+53,Female,India,87411,True,False,Students,Urban,Facebook,137,1,7,5950,5,14,14,95,Night,2,8,4,6,At home,Mobile Data,1.0,425.0,137.0
+50,Other,Philippines,43377,False,True,Labor/Worker,Rural,Instagram,31,14,1,1360,4,18,4,96,Night,2,8,4,6,At work,Mobile Data,4.5,340.0,2.2142857142857144
+47,Male,United States,66737,True,False,Students,Rural,YouTube,225,4,28,5127,2,29,20,21,Afternoon,6,4,8,2,At work,Mobile Data,1.45,256.35,56.25
+54,Male,India,89569,True,True,Manager,Rural,TikTok,116,17,26,5562,8,9,28,18,Morning,9,1,10,0,Commuting,Wi-Fi,0.32142857142857145,198.64285714285714,6.823529411764706
+40,Male,Barzil,58211,True,False,Manager,Rural,Instagram,118,14,12,8730,9,14,14,60,Night,2,8,4,6,At home,Wi-Fi,1.0,623.5714285714286,8.428571428571429
+27,Female,India,23744,False,True,Driver,Rural,TikTok,190,16,21,9011,4,5,44,18,Morning,9,1,10,0,At school,Mobile Data,0.11363636363636363,204.79545454545453,11.875
+22,Male,Philippines,44995,False,False,Driver,Urban,Facebook,173,14,11,5777,4,11,34,1,Afternoon,6,4,8,2,At home,Mobile Data,0.3235294117647059,169.91176470588235,12.357142857142858
+53,Male,India,36977,False,True,Students,Urban,Instagram,77,16,12,3925,5,8,13,14,Evening,7,3,9,1,At home,Mobile Data,0.6153846153846154,301.9230769230769,4.8125
+51,Female,Japan,54542,True,False,Driver,Urban,YouTube,189,8,19,8463,2,5,31,8,Evening,7,3,9,1,Commuting,Wi-Fi,0.16129032258064516,273.0,23.625
+48,Other,United States,30651,False,True,Labor/Worker,Rural,Instagram,190,3,26,8001,7,29,33,66,Night,2,8,4,6,At home,Wi-Fi,0.8787878787878788,242.45454545454547,63.333333333333336
+27,Female,India,98931,True,False,Labor/Worker,Rural,TikTok,178,19,12,1028,5,11,39,51,Morning,9,1,10,0,Commuting,Wi-Fi,0.28205128205128205,26.358974358974358,9.368421052631579
+36,Male,Germany,36715,False,True,Waiting staff,Urban,YouTube,31,1,12,6018,6,5,28,79,Night,2,8,4,6,At home,Wi-Fi,0.17857142857142858,214.92857142857142,31.0
+49,Female,Japan,64409,True,False,Artist,Rural,Instagram,75,2,14,1242,4,17,25,60,Afternoon,6,4,8,2,At home,Mobile Data,0.68,49.68,37.5
+18,Male,Japan,44306,False,True,Waiting staff,Rural,Instagram,30,15,2,9333,8,22,32,34,Evening,7,3,9,1,At home,Mobile Data,0.6875,291.65625,2.0
+22,Female,India,39086,False,False,Labor/Worker,Rural,Instagram,109,10,2,8784,8,4,9,36,Evening,7,3,9,1,At home,Mobile Data,0.4444444444444444,976.0,10.9
+62,Male,Germany,34376,False,True,Waiting staff,Urban,Instagram,112,18,25,7119,5,15,28,62,Night,2,8,4,6,At work,Wi-Fi,0.5357142857142857,254.25,6.222222222222222
+21,Other,India,81350,True,True,Labor/Worker,Rural,YouTube,56,14,29,9797,6,19,31,1,Afternoon,6,4,8,2,At work,Wi-Fi,0.6129032258064516,316.03225806451616,4.0
+33,Male,United States,91425,True,True,Waiting staff,Urban,TikTok,48,17,4,4210,3,22,17,85,Evening,7,3,9,1,At home,Wi-Fi,1.2941176470588236,247.64705882352942,2.823529411764706
+41,Female,Barzil,56636,True,True,Students,Rural,Instagram,294,13,20,6406,1,2,23,42,Evening,7,3,9,1,Commuting,Mobile Data,0.08695652173913043,278.5217391304348,22.615384615384617
+33,Female,Pakistan,71649,True,False,Driver,Urban,YouTube,99,1,23,3377,9,24,13,1,Evening,7,3,9,1,At home,Wi-Fi,1.8461538461538463,259.7692307692308,99.0
+19,Male,United States,54610,True,True,Students,Rural,TikTok,94,5,26,4071,9,17,10,96,Evening,7,3,9,1,At work,Mobile Data,1.7,407.1,18.8
+45,Female,India,30058,False,False,Students,Rural,Instagram,282,13,16,1440,3,12,16,84,Night,2,8,4,6,At home,Mobile Data,0.75,90.0,21.692307692307693
+49,Male,Barzil,94637,True,True,Students,Rural,TikTok,197,14,10,3626,4,25,6,54,Night,2,8,4,6,At home,Mobile Data,4.166666666666667,604.3333333333334,14.071428571428571
+44,Male,Indonesia,98033,True,False,Labor/Worker,Rural,TikTok,168,3,13,184,7,24,48,47,Afternoon,6,4,8,2,At school,Mobile Data,0.5,3.8333333333333335,56.0
+37,Male,India,90194,True,True,Waiting staff,Rural,YouTube,252,15,2,4996,2,17,11,39,Night,2,8,4,6,At work,Mobile Data,1.5454545454545454,454.1818181818182,16.8
+41,Female,Indonesia,96917,True,False,Engineer,Urban,TikTok,82,19,3,8412,3,10,3,30,Night,2,8,4,6,At home,Mobile Data,3.3333333333333335,2804.0,4.315789473684211
+29,Female,Germany,84200,True,True,Driver,Urban,YouTube,58,17,19,8031,6,28,28,7,Night,2,8,4,6,At home,Mobile Data,1.0,286.82142857142856,3.411764705882353
+52,Male,Indonesia,66619,True,False,Artist,Rural,Instagram,110,3,6,5563,8,25,41,22,Morning,9,1,10,0,At work,Mobile Data,0.6097560975609756,135.6829268292683,36.666666666666664
+50,Female,Vietnam,37154,False,True,Waiting staff,Rural,TikTok,11,16,19,3188,1,18,15,50,Morning,9,1,10,0,At home,Wi-Fi,1.2,212.53333333333333,0.6875
+50,Male,United States,39539,False,False,Driver,Urban,TikTok,253,14,27,9285,4,19,13,45,Night,2,8,4,6,At home,Wi-Fi,1.4615384615384615,714.2307692307693,18.071428571428573
+60,Other,United States,80058,True,True,Students,Rural,Facebook,185,12,21,2945,1,18,42,74,Morning,9,1,10,0,At home,Mobile Data,0.42857142857142855,70.11904761904762,15.416666666666666
+54,Male,Pakistan,82068,True,False,Students,Urban,Instagram,247,12,20,6765,2,13,45,72,Evening,7,3,9,1,At home,Mobile Data,0.28888888888888886,150.33333333333334,20.583333333333332
+29,Male,Vietnam,97313,True,True,Students,Rural,Instagram,68,11,19,2474,8,14,17,91,Morning,9,1,10,0,At home,Mobile Data,0.8235294117647058,145.52941176470588,6.181818181818182
+20,Female,India,50373,True,False,Waiting staff,Urban,Facebook,108,17,8,6787,6,24,7,10,Afternoon,6,4,8,2,Commuting,Wi-Fi,3.4285714285714284,969.5714285714286,6.352941176470588
+18,Male,Pakistan,53154,True,True,Manager,Rural,Facebook,11,8,14,8792,9,16,28,14,Afternoon,6,4,8,2,At school,Mobile Data,0.5714285714285714,314.0,1.375
+50,Male,Indonesia,26031,False,False,Labor/Worker,Rural,YouTube,252,17,10,9352,2,18,38,46,Evening,7,3,9,1,At work,Mobile Data,0.47368421052631576,246.10526315789474,14.823529411764707
+57,Female,India,91975,True,True,Students,Rural,YouTube,220,11,3,4599,3,26,13,75,Evening,7,3,9,1,At home,Wi-Fi,2.0,353.7692307692308,20.0
+27,Female,Philippines,42785,False,True,Labor/Worker,Rural,TikTok,132,2,6,6274,9,18,17,6,Afternoon,6,4,8,2,At work,Mobile Data,1.0588235294117647,369.05882352941177,66.0
+60,Other,India,98928,True,True,Labor/Worker,Rural,TikTok,238,10,29,4313,9,16,15,21,Night,2,8,4,6,At work,Mobile Data,1.0666666666666667,287.53333333333336,23.8
+61,Female,Mexico,48669,False,True,Labor/Worker,Rural,TikTok,91,10,15,2218,6,17,36,62,Night,2,8,4,6,Commuting,Mobile Data,0.4722222222222222,61.611111111111114,9.1
+46,Male,Pakistan,22282,False,False,Students,Urban,TikTok,153,11,23,1152,3,7,28,97,Afternoon,6,4,8,2,At school,Wi-Fi,0.25,41.142857142857146,13.909090909090908
+30,Female,Indonesia,54624,True,True,Engineer,Rural,YouTube,149,6,23,56,5,12,15,19,Morning,9,1,10,0,At work,Wi-Fi,0.8,3.7333333333333334,24.833333333333332
+29,Female,India,68438,True,False,Labor/Worker,Urban,Instagram,38,4,18,9396,2,2,46,88,Night,2,8,4,6,At home,Mobile Data,0.043478260869565216,204.2608695652174,9.5
+48,Other,Barzil,87534,True,True,Labor/Worker,Rural,TikTok,279,12,14,143,7,10,11,82,Afternoon,6,4,8,2,At work,Mobile Data,0.9090909090909091,13.0,23.25
+63,Male,United States,51705,True,False,Students,Rural,Instagram,256,11,19,7218,8,5,31,99,Evening,7,3,9,1,At home,Mobile Data,0.16129032258064516,232.83870967741936,23.272727272727273
+19,Male,Japan,58244,True,True,Waiting staff,Urban,TikTok,21,13,28,8559,6,21,4,62,Afternoon,6,4,8,2,At school,Mobile Data,5.25,2139.75,1.6153846153846154
+52,Male,United States,94964,True,False,Waiting staff,Urban,Facebook,115,5,26,9674,8,3,35,83,Morning,9,1,10,0,At work,Mobile Data,0.08571428571428572,276.4,23.0
+40,Female,India,57437,True,True,Students,Rural,TikTok,41,6,10,6361,2,19,34,53,Morning,9,1,10,0,At home,Mobile Data,0.5588235294117647,187.08823529411765,6.833333333333333
+34,Male,India,97872,True,False,Students,Urban,TikTok,83,1,15,615,3,13,27,24,Afternoon,6,4,8,2,At work,Wi-Fi,0.48148148148148145,22.77777777777778,83.0
+43,Male,Germany,94878,True,True,Engineer,Rural,TikTok,180,6,4,8062,7,12,10,56,Night,2,8,4,6,At school,Mobile Data,1.2,806.2,30.0
+25,Other,India,92982,True,False,Labor/Worker,Rural,YouTube,78,18,23,5977,1,3,30,62,Evening,7,3,9,1,At school,Wi-Fi,0.1,199.23333333333332,4.333333333333333
+46,Female,India,70583,True,True,Waiting staff,Urban,Facebook,146,9,2,9780,7,6,45,34,Afternoon,6,4,8,2,At school,Mobile Data,0.13333333333333333,217.33333333333334,16.22222222222222
+43,Male,India,58392,True,False,Teacher,Rural,TikTok,109,15,3,6984,6,14,20,22,Evening,7,3,9,1,At school,Mobile Data,0.7,349.2,7.266666666666667
+27,Other,United States,27461,False,True,Artist,Urban,TikTok,155,8,7,8890,8,4,29,68,Afternoon,6,4,8,2,At home,Mobile Data,0.13793103448275862,306.55172413793105,19.375
+43,Male,India,30516,False,False,Waiting staff,Rural,Instagram,18,19,23,4971,7,13,29,57,Morning,9,1,10,0,At home,Mobile Data,0.4482758620689655,171.41379310344828,0.9473684210526315
+51,Male,Pakistan,99285,True,True,Students,Rural,Facebook,71,16,16,5781,4,19,23,10,Afternoon,6,4,8,2,At work,Mobile Data,0.8260869565217391,251.34782608695653,4.4375
+58,Other,Japan,37514,False,False,Engineer,Rural,TikTok,194,6,10,944,3,18,21,66,Evening,7,3,9,1,At work,Wi-Fi,0.8571428571428571,44.95238095238095,32.333333333333336
+24,Male,India,56268,True,True,Artist,Urban,Instagram,38,6,19,9114,3,29,48,8,Night,2,8,4,6,At school,Mobile Data,0.6041666666666666,189.875,6.333333333333333
+21,Female,Japan,56788,True,True,Waiting staff,Rural,Instagram,123,3,28,7078,4,3,43,97,Night,2,8,4,6,At work,Wi-Fi,0.06976744186046512,164.6046511627907,41.0
+62,Male,Philippines,95749,True,True,Artist,Rural,YouTube,152,10,17,1746,9,20,10,38,Night,2,8,4,6,At school,Wi-Fi,2.0,174.6,15.2
+28,Female,Indonesia,81049,True,True,Cashier,Rural,Instagram,129,1,28,5783,9,6,41,62,Evening,7,3,9,1,At home,Mobile Data,0.14634146341463414,141.0487804878049,129.0
+46,Male,India,82493,True,False,Labor/Worker,Rural,TikTok,179,14,19,9751,2,16,12,28,Night,2,8,4,6,At work,Mobile Data,1.3333333333333333,812.5833333333334,12.785714285714286
+53,Female,United States,56027,True,True,Students,Rural,YouTube,166,4,5,6907,5,20,30,10,Night,2,8,4,6,At home,Mobile Data,0.6666666666666666,230.23333333333332,41.5
+42,Other,India,62849,True,False,Cashier,Rural,YouTube,269,12,23,9275,1,24,33,45,Night,2,8,4,6,At home,Wi-Fi,0.7272727272727273,281.06060606060606,22.416666666666668
+38,Male,Indonesia,37858,False,True,Manager,Rural,TikTok,91,6,20,8625,4,3,18,65,Night,2,8,4,6,At school,Mobile Data,0.16666666666666666,479.1666666666667,15.166666666666666
+53,Female,Philippines,99003,True,False,Driver,Rural,Facebook,251,11,13,2926,2,12,14,98,Evening,7,3,9,1,At school,Mobile Data,0.8571428571428571,209.0,22.818181818181817
+27,Male,United States,72395,True,True,Driver,Rural,Instagram,181,12,13,1089,8,19,22,67,Night,2,8,4,6,At home,Mobile Data,0.8636363636363636,49.5,15.083333333333334
+54,Male,India,59758,True,False,Students,Rural,YouTube,240,10,11,2957,4,19,21,9,Evening,7,3,9,1,At work,Mobile Data,0.9047619047619048,140.8095238095238,24.0
+26,Other,India,74312,True,True,Artist,Rural,Facebook,217,18,11,2612,5,24,1,5,Evening,7,3,9,1,At school,Mobile Data,24.0,2612.0,12.055555555555555
+41,Male,Japan,88670,True,False,Students,Urban,TikTok,84,7,16,6047,4,4,49,10,Evening,7,3,9,1,Commuting,Wi-Fi,0.08163265306122448,123.40816326530613,12.0
+52,Male,Indonesia,35434,False,True,Waiting staff,Rural,Instagram,279,7,15,6249,5,1,43,12,Night,2,8,4,6,At work,Mobile Data,0.023255813953488372,145.32558139534885,39.857142857142854
+52,Male,Japan,84047,True,False,Waiting staff,Urban,Instagram,123,11,17,3759,5,2,15,82,Night,2,8,4,6,At school,Wi-Fi,0.13333333333333333,250.6,11.181818181818182
+53,Other,Philippines,67775,True,True,Students,Rural,YouTube,71,4,22,7718,5,13,36,58,Night,2,8,4,6,At home,Mobile Data,0.3611111111111111,214.38888888888889,17.75
+35,Other,United States,95769,True,False,Manager,Rural,Instagram,111,1,18,4263,3,26,47,21,Afternoon,6,4,8,2,Commuting,Mobile Data,0.5531914893617021,90.70212765957447,111.0
+56,Female,India,86677,True,True,Labor/Worker,Rural,Instagram,219,13,28,1902,7,29,22,21,Afternoon,6,4,8,2,At home,Mobile Data,1.3181818181818181,86.45454545454545,16.846153846153847
+49,Female,Mexico,65734,True,False,Waiting staff,Urban,Instagram,264,18,19,2567,3,13,32,65,Evening,7,3,9,1,At school,Mobile Data,0.40625,80.21875,14.666666666666666
+41,Female,United States,60603,True,True,Students,Rural,Instagram,29,9,4,8075,2,2,46,3,Evening,7,3,9,1,At school,Mobile Data,0.043478260869565216,175.54347826086956,3.2222222222222223
+40,Other,India,96708,True,False,Manager,Rural,TikTok,67,9,22,2994,3,19,33,69,Evening,7,3,9,1,At school,Mobile Data,0.5757575757575758,90.72727272727273,7.444444444444445
+49,Male,United States,88803,True,True,Cashier,Urban,Facebook,121,9,22,5229,3,22,41,89,Night,3,7,5,5,At home,Wi-Fi,0.5365853658536586,127.53658536585365,13.444444444444445
+54,Male,Japan,59332,True,True,Driver,Rural,TikTok,205,10,23,2010,8,24,39,64,Night,3,7,5,5,At school,Wi-Fi,0.6153846153846154,51.53846153846154,20.5
+29,Male,United States,41312,False,True,Labor/Worker,Rural,TikTok,101,2,5,7377,4,16,23,49,Afternoon,6,4,8,2,At home,Wi-Fi,0.6956521739130435,320.7391304347826,50.5
+30,Male,Philippines,64179,True,True,Engineer,Rural,YouTube,61,6,7,830,3,12,43,72,Night,3,7,5,5,At home,Mobile Data,0.27906976744186046,19.302325581395348,10.166666666666666
+40,Other,Vietnam,91442,True,False,Teacher,Rural,Instagram,17,15,2,48,5,1,2,17,Evening,7,3,9,1,At home,Wi-Fi,0.5,24.0,1.1333333333333333
+42,Male,Vietnam,60379,True,True,Students,Rural,TikTok,107,3,1,4210,4,9,2,73,Afternoon,6,4,8,2,At home,Mobile Data,4.5,2105.0,35.666666666666664
+52,Male,Vietnam,37297,False,False,Cashier,Urban,Instagram,245,11,12,1178,9,17,38,32,Evening,7,3,9,1,At work,Mobile Data,0.4473684210526316,31.0,22.272727272727273
+58,Male,Philippines,22011,False,True,Manager,Urban,TikTok,78,6,10,5768,8,10,29,70,Evening,7,3,9,1,At work,Mobile Data,0.3448275862068966,198.89655172413794,13.0
+47,Female,United States,64014,True,False,Labor/Worker,Rural,TikTok,54,3,8,7878,7,18,46,21,Evening,7,3,9,1,Commuting,Mobile Data,0.391304347826087,171.2608695652174,18.0
+34,Female,India,31738,False,True,Students,Urban,YouTube,146,11,1,70,8,19,3,7,Evening,7,3,9,1,At school,Mobile Data,6.333333333333333,23.333333333333332,13.272727272727273
+37,Male,Philippines,67498,True,False,Cashier,Urban,Facebook,243,15,12,7686,5,7,39,7,Morning,9,1,10,0,At work,Mobile Data,0.1794871794871795,197.07692307692307,16.2
+42,Female,Vietnam,31120,False,True,Waiting staff,Rural,Facebook,41,13,2,7879,4,25,7,27,Night,3,7,5,5,At work,Wi-Fi,3.5714285714285716,1125.5714285714287,3.1538461538461537
+39,Male,Indonesia,28767,False,False,Waiting staff,Rural,TikTok,298,10,27,5455,7,19,36,8,Night,3,7,5,5,At home,Wi-Fi,0.5277777777777778,151.52777777777777,29.8
+30,Male,Philippines,42852,False,True,Driver,Rural,YouTube,135,6,28,8258,1,24,29,73,Afternoon,6,4,8,2,Commuting,Mobile Data,0.8275862068965517,284.7586206896552,22.5
+36,Male,Germany,99239,True,False,Students,Rural,Instagram,76,15,10,5612,6,15,37,28,Evening,7,3,9,1,At work,Mobile Data,0.40540540540540543,151.67567567567568,5.066666666666666
+53,Male,India,20929,False,True,Students,Rural,Instagram,39,18,22,5769,8,9,49,79,Evening,7,3,9,1,At home,Mobile Data,0.1836734693877551,117.73469387755102,2.1666666666666665
+29,Female,Vietnam,97487,True,False,Driver,Rural,TikTok,123,18,17,1777,7,10,36,66,Night,3,7,5,5,At school,Mobile Data,0.2777777777777778,49.361111111111114,6.833333333333333
+58,Other,Barzil,37438,False,True,Teacher,Rural,Facebook,213,7,26,7380,2,23,23,71,Evening,5,5,7,3,At home,Wi-Fi,1.0,320.8695652173913,30.428571428571427
+36,Other,India,68515,True,False,Students,Rural,YouTube,38,15,3,2228,7,20,45,47,Evening,5,5,7,3,At school,Mobile Data,0.4444444444444444,49.51111111111111,2.533333333333333
+29,Male,India,25744,False,True,Manager,Rural,Facebook,140,18,7,9981,6,20,16,82,Evening,5,5,7,3,At work,Mobile Data,1.25,623.8125,7.777777777777778
+26,Other,United States,62417,True,False,Students,Rural,Instagram,194,18,12,8804,5,4,48,86,Night,1,9,3,7,At work,Wi-Fi,0.08333333333333333,183.41666666666666,10.777777777777779
+24,Male,India,27069,False,True,Students,Rural,Facebook,262,9,8,9814,4,6,31,10,Night,1,9,3,7,At home,Mobile Data,0.1935483870967742,316.5806451612903,29.11111111111111
+45,Female,India,62359,True,True,Labor/Worker,Rural,Instagram,295,2,20,8888,1,4,34,33,Night,1,9,3,7,At home,Mobile Data,0.11764705882352941,261.4117647058824,147.5
+31,Male,Pakistan,39799,False,True,Waiting staff,Rural,YouTube,71,8,12,6746,2,5,1,7,Evening,5,5,7,3,At home,Wi-Fi,5.0,6746.0,8.875
+48,Female,Japan,90188,True,True,Waiting staff,Rural,YouTube,12,2,3,6391,7,9,18,3,Night,1,9,3,7,At home,Wi-Fi,0.5,355.05555555555554,6.0
+36,Female,India,27597,False,False,Cashier,Urban,TikTok,77,11,17,9429,3,12,40,14,Afternoon,4,6,6,4,At school,Mobile Data,0.3,235.725,7.0
+64,Male,Germany,67093,True,True,Students,Rural,TikTok,34,7,28,2406,5,23,43,44,Night,1,9,3,7,At work,Mobile Data,0.5348837209302325,55.95348837209303,4.857142857142857
+33,Female,India,57226,True,False,Teacher,Rural,Facebook,188,6,9,8440,8,8,15,46,Afternoon,4,6,6,4,At school,Wi-Fi,0.5333333333333333,562.6666666666666,31.333333333333332
+22,Male,Philippines,92127,True,True,Waiting staff,Rural,YouTube,150,10,10,637,8,21,48,61,Evening,5,5,7,3,At school,Mobile Data,0.4375,13.270833333333334,15.0
+52,Other,Mexico,97362,True,False,Labor/Worker,Rural,YouTube,240,5,22,8090,6,5,49,36,Evening,5,5,7,3,At work,Mobile Data,0.10204081632653061,165.10204081632654,48.0
+29,Male,Japan,46417,False,True,Students,Rural,TikTok,172,11,6,949,5,29,17,13,Evening,5,5,7,3,At work,Mobile Data,1.7058823529411764,55.8235294117647,15.636363636363637
+42,Male,Barzil,38693,False,False,Driver,Rural,Instagram,139,1,25,3587,2,11,44,16,Evening,5,5,7,3,At home,Mobile Data,0.25,81.52272727272727,139.0
+38,Male,India,99674,True,True,Driver,Rural,Facebook,255,2,1,1111,9,23,10,80,Night,1,9,3,7,At school,Wi-Fi,2.3,111.1,127.5
+53,Other,Japan,73161,True,False,Teacher,Rural,Facebook,181,1,22,8367,1,11,20,5,Morning,7,3,9,1,At school,Mobile Data,0.55,418.35,181.0
+40,Female,India,22169,False,True,Teacher,Rural,TikTok,73,19,12,722,2,13,6,89,Night,1,9,3,7,At school,Wi-Fi,2.1666666666666665,120.33333333333333,3.8421052631578947
+33,Male,United States,42052,False,False,Cashier,Rural,YouTube,40,2,5,3842,1,14,8,38,Evening,5,5,7,3,At home,Mobile Data,1.75,480.25,20.0
+56,Female,Japan,91849,True,True,Labor/Worker,Rural,TikTok,56,4,13,3674,4,28,45,50,Morning,7,3,9,1,At work,Mobile Data,0.6222222222222222,81.64444444444445,14.0
+62,Male,Vietnam,93851,True,False,Students,Urban,TikTok,139,12,27,4866,4,8,34,38,Night,1,9,3,7,At work,Mobile Data,0.23529411764705882,143.11764705882354,11.583333333333334
+59,Female,India,28036,False,True,Labor/Worker,Rural,TikTok,119,18,15,702,5,25,32,56,Evening,5,5,7,3,At work,Wi-Fi,0.78125,21.9375,6.611111111111111
+56,Male,Barzil,51778,True,False,Students,Rural,TikTok,78,1,22,2128,5,18,42,63,Evening,5,5,7,3,At work,Wi-Fi,0.42857142857142855,50.666666666666664,78.0
+31,Male,Vietnam,47734,False,True,Waiting staff,Urban,Instagram,67,1,11,9118,8,19,4,48,Night,1,9,3,7,At home,Mobile Data,4.75,2279.5,67.0
+48,Female,India,43173,False,False,Labor/Worker,Rural,Instagram,115,14,8,4233,3,12,44,90,Night,1,9,3,7,At home,Wi-Fi,0.2727272727272727,96.20454545454545,8.214285714285714
+22,Male,United States,50403,True,True,Labor/Worker,Rural,YouTube,265,4,5,2517,6,12,39,59,Evening,5,5,7,3,At home,Mobile Data,0.3076923076923077,64.53846153846153,66.25
+52,Other,United States,86321,True,True,Cashier,Rural,TikTok,180,5,2,1149,3,18,20,77,Night,1,9,3,7,At work,Mobile Data,0.9,57.45,36.0
+40,Male,Barzil,91675,True,True,Labor/Worker,Rural,Instagram,171,11,12,1878,2,10,24,44,Afternoon,4,6,6,4,At home,Mobile Data,0.4166666666666667,78.25,15.545454545454545
+46,Male,Mexico,26344,False,True,Cashier,Rural,YouTube,295,13,28,9445,8,7,24,90,Evening,5,5,7,3,At work,Mobile Data,0.2916666666666667,393.5416666666667,22.692307692307693
+60,Other,India,38800,False,False,Labor/Worker,Urban,TikTok,80,16,2,9675,1,28,26,55,Afternoon,4,6,6,4,At home,Mobile Data,1.0769230769230769,372.11538461538464,5.0
+28,Male,United States,45372,False,True,Teacher,Rural,Facebook,264,13,26,309,9,18,25,55,Night,1,9,3,7,At school,Wi-Fi,0.72,12.36,20.307692307692307
+35,Male,Barzil,81516,True,False,Labor/Worker,Rural,Instagram,64,2,16,3952,7,12,36,1,Night,1,9,3,7,At work,Wi-Fi,0.3333333333333333,109.77777777777777,32.0
+64,Male,Vietnam,40538,False,True,Students,Rural,YouTube,12,16,21,7728,4,14,7,8,Afternoon,4,6,6,4,At work,Wi-Fi,2.0,1104.0,0.75
+29,Female,United States,83918,True,False,Labor/Worker,Rural,Facebook,35,6,3,3049,3,15,10,4,Night,1,9,3,7,At school,Wi-Fi,1.5,304.9,5.833333333333333
+26,Female,Philippines,34973,False,True,Students,Rural,TikTok,135,14,10,5766,6,16,47,85,Morning,7,3,9,1,At home,Mobile Data,0.3404255319148936,122.68085106382979,9.642857142857142
+27,Male,United States,91155,True,False,Cashier,Rural,TikTok,62,1,19,9756,9,2,12,86,Morning,7,3,9,1,At home,Mobile Data,0.16666666666666666,813.0,62.0
+61,Male,United States,79500,True,True,Students,Urban,TikTok,207,17,8,9692,9,18,1,53,Night,1,9,3,7,At home,Mobile Data,18.0,9692.0,12.176470588235293
+34,Male,Vietnam,56575,True,False,Waiting staff,Urban,Instagram,197,11,7,6412,4,12,25,58,Evening,5,5,7,3,At school,Mobile Data,0.48,256.48,17.90909090909091
+55,Female,Indonesia,62261,True,True,Waiting staff,Rural,YouTube,195,19,1,4865,5,16,16,37,Night,1,9,3,7,At work,Mobile Data,1.0,304.0625,10.263157894736842
+24,Male,Barzil,47716,False,False,Waiting staff,Rural,Facebook,213,3,12,15,9,13,5,49,Evening,5,5,7,3,At home,Mobile Data,2.6,3.0,71.0
+63,Female,India,23236,False,True,Artist,Rural,YouTube,20,11,29,605,2,20,19,67,Evening,5,5,7,3,At home,Mobile Data,1.0526315789473684,31.842105263157894,1.8181818181818181
+30,Female,United States,35848,False,False,Driver,Rural,Instagram,155,5,28,9573,2,17,4,19,Morning,7,3,9,1,At work,Wi-Fi,4.25,2393.25,31.0
+57,Other,United States,22352,False,True,Students,Rural,YouTube,94,17,5,4908,5,18,6,1,Night,1,9,3,7,At school,Mobile Data,3.0,818.0,5.529411764705882
+59,Male,Philippines,21932,False,False,Waiting staff,Rural,Instagram,109,7,16,8006,1,3,26,29,Night,1,9,3,7,At work,Mobile Data,0.11538461538461539,307.9230769230769,15.571428571428571
+26,Male,India,96449,True,True,Cashier,Rural,TikTok,113,10,25,9086,8,23,49,87,Evening,5,5,7,3,At school,Mobile Data,0.46938775510204084,185.42857142857142,11.3
+44,Male,Barzil,28556,False,False,Driver,Rural,Facebook,55,11,4,9759,5,10,39,33,Afternoon,4,6,6,4,At work,Mobile Data,0.2564102564102564,250.23076923076923,5.0
+19,Other,Germany,25498,False,True,Waiting staff,Rural,TikTok,53,3,17,6412,2,1,39,52,Morning,7,3,9,1,At school,Wi-Fi,0.02564102564102564,164.4102564102564,17.666666666666668
+22,Male,Vietnam,96118,True,True,Labor/Worker,Rural,YouTube,287,10,24,8605,9,6,9,41,Afternoon,4,6,6,4,At work,Wi-Fi,0.6666666666666666,956.1111111111111,28.7
+46,Male,Indonesia,70098,True,True,Driver,Rural,TikTok,190,10,21,4120,2,3,45,23,Afternoon,4,6,6,4,At home,Mobile Data,0.06666666666666667,91.55555555555556,19.0
+54,Male,Barzil,84386,True,True,Driver,Rural,Facebook,196,14,2,8507,7,19,14,5,Evening,5,5,7,3,At home,Wi-Fi,1.3571428571428572,607.6428571428571,14.0
+55,Male,United States,29569,False,False,Students,Urban,TikTok,123,12,12,4666,8,4,48,71,Night,1,9,3,7,At school,Mobile Data,0.08333333333333333,97.20833333333333,10.25
+36,Female,Philippines,76882,True,True,Labor/Worker,Rural,Facebook,264,15,1,4820,6,29,9,57,Evening,5,5,7,3,At work,Mobile Data,3.2222222222222223,535.5555555555555,17.6
+25,Other,Indonesia,90393,True,False,Manager,Urban,Facebook,39,10,12,7835,7,20,15,6,Evening,5,5,7,3,At home,Wi-Fi,1.3333333333333333,522.3333333333334,3.9
+62,Male,United States,20340,False,True,Waiting staff,Urban,TikTok,273,10,12,1849,1,23,37,49,Night,1,9,3,7,At home,Wi-Fi,0.6216216216216216,49.972972972972975,27.3
+18,Female,Barzil,63949,True,False,Waiting staff,Rural,Instagram,107,19,12,1953,4,3,20,22,Evening,5,5,7,3,At work,Wi-Fi,0.15,97.65,5.631578947368421
+39,Male,India,82443,True,True,Labor/Worker,Rural,YouTube,124,1,19,8580,7,8,8,77,Night,1,9,3,7,At home,Mobile Data,1.0,1072.5,124.0
+34,Male,Germany,94027,True,False,Labor/Worker,Rural,Instagram,285,10,25,2769,1,8,32,76,Evening,5,5,7,3,At school,Mobile Data,0.25,86.53125,28.5
+24,Male,United States,20138,False,True,Labor/Worker,Rural,Instagram,290,2,17,3046,1,27,47,4,Afternoon,4,6,6,4,At home,Mobile Data,0.574468085106383,64.80851063829788,145.0
+42,Male,Indonesia,20358,False,False,Cashier,Rural,TikTok,284,17,20,7594,6,29,21,72,Night,1,9,3,7,At home,Mobile Data,1.380952380952381,361.6190476190476,16.705882352941178
+62,Female,Indonesia,95250,True,True,Waiting staff,Urban,YouTube,270,7,24,6840,4,7,41,64,Night,1,9,3,7,At school,Mobile Data,0.17073170731707318,166.82926829268294,38.57142857142857
+21,Male,United States,50654,True,False,Waiting staff,Rural,YouTube,216,7,24,5066,3,2,19,37,Evening,5,5,7,3,At work,Mobile Data,0.10526315789473684,266.63157894736844,30.857142857142858
+53,Male,Pakistan,45879,False,True,Students,Rural,Instagram,220,9,26,2415,5,21,29,31,Afternoon,4,6,6,4,At home,Mobile Data,0.7241379310344828,83.27586206896552,24.444444444444443
+23,Male,Barzil,75778,True,False,Artist,Rural,TikTok,224,2,28,2389,9,6,31,37,Evening,5,5,7,3,At home,Wi-Fi,0.1935483870967742,77.06451612903226,112.0
+48,Male,Pakistan,57772,True,True,Students,Rural,YouTube,49,14,11,5924,3,28,6,45,Afternoon,4,6,6,4,At home,Wi-Fi,4.666666666666667,987.3333333333334,3.5
+36,Female,Mexico,78478,True,False,Labor/Worker,Rural,Instagram,35,17,13,8495,5,16,4,90,Morning,7,3,9,1,At home,Mobile Data,4.0,2123.75,2.0588235294117645
+61,Female,Barzil,84353,True,True,Engineer,Urban,YouTube,36,1,27,763,5,10,43,8,Evening,5,5,7,3,At home,Mobile Data,0.23255813953488372,17.74418604651163,36.0
+56,Female,United States,46762,False,False,Artist,Rural,TikTok,199,9,8,7541,9,4,29,40,Morning,7,3,9,1,At home,Mobile Data,0.13793103448275862,260.0344827586207,22.11111111111111
+44,Male,India,33283,False,True,Labor/Worker,Urban,TikTok,92,19,10,815,4,13,42,97,Afternoon,4,6,6,4,At school,Mobile Data,0.30952380952380953,19.404761904761905,4.842105263157895
+27,Male,Philippines,83922,True,True,Labor/Worker,Rural,TikTok,179,4,8,6255,1,10,3,93,Afternoon,4,6,6,4,At home,Mobile Data,3.3333333333333335,2085.0,44.75
+43,Male,United States,59420,True,True,Engineer,Urban,YouTube,176,8,20,877,5,21,1,5,Evening,5,5,7,3,At school,Mobile Data,21.0,877.0,22.0
+36,Male,Pakistan,75568,True,True,Waiting staff,Rural,Facebook,197,13,8,7173,1,14,44,28,Evening,5,5,7,3,At school,Mobile Data,0.3181818181818182,163.02272727272728,15.153846153846153
+56,Male,India,40219,False,False,Waiting staff,Rural,YouTube,178,4,9,7073,6,9,15,81,Evening,5,5,7,3,At work,Mobile Data,0.6,471.53333333333336,44.5
+20,Female,Philippines,77169,True,True,Waiting staff,Rural,Facebook,298,9,7,4798,7,11,47,87,Night,1,9,3,7,At work,Mobile Data,0.23404255319148937,102.08510638297872,33.111111111111114
+62,Female,United States,94965,True,False,Driver,Rural,TikTok,238,9,14,6989,1,23,21,9,Night,1,9,3,7,At work,Mobile Data,1.0952380952380953,332.8095238095238,26.444444444444443
+30,Other,United States,66840,True,True,Driver,Rural,Instagram,106,18,28,5039,4,18,46,2,Afternoon,4,6,6,4,At school,Mobile Data,0.391304347826087,109.54347826086956,5.888888888888889
+45,Male,India,64695,True,False,Students,Rural,Facebook,25,12,2,9771,9,11,31,63,Afternoon,4,6,6,4,At work,Mobile Data,0.3548387096774194,315.19354838709677,2.0833333333333335
+37,Male,United States,97988,True,True,Engineer,Rural,TikTok,288,10,25,6324,1,17,7,96,Evening,5,5,7,3,At school,Wi-Fi,2.4285714285714284,903.4285714285714,28.8
+45,Female,Philippines,78342,True,False,Students,Rural,TikTok,144,11,11,9395,9,2,17,51,Evening,5,5,7,3,At home,Mobile Data,0.11764705882352941,552.6470588235294,13.090909090909092
+25,Female,United States,38951,False,True,Labor/Worker,Rural,Facebook,35,7,8,2823,8,3,19,31,Evening,5,5,7,3,At home,Wi-Fi,0.15789473684210525,148.57894736842104,5.0
+58,Other,India,21307,False,False,Students,Rural,Instagram,21,9,13,5287,5,11,39,7,Evening,5,5,7,3,At work,Wi-Fi,0.28205128205128205,135.56410256410257,2.3333333333333335
+56,Male,India,55428,True,True,Labor/Worker,Rural,TikTok,81,6,21,3285,6,18,3,30,Afternoon,4,6,6,4,At school,Wi-Fi,6.0,1095.0,13.5
+18,Female,India,95774,True,False,Waiting staff,Rural,Facebook,142,19,15,7433,7,27,30,58,Night,1,9,3,7,At home,Mobile Data,0.9,247.76666666666668,7.473684210526316
+20,Male,Vietnam,58975,True,True,Students,Urban,Instagram,115,16,28,6174,4,3,35,3,Evening,5,5,7,3,At work,Mobile Data,0.08571428571428572,176.4,7.1875
+30,Female,Germany,21140,False,False,Labor/Worker,Rural,Instagram,229,15,3,4826,6,26,29,51,Night,1,9,3,7,At school,Mobile Data,0.896551724137931,166.41379310344828,15.266666666666667
+45,Male,United States,44842,False,True,Labor/Worker,Rural,TikTok,186,7,23,3664,7,15,14,56,Night,1,9,3,7,Commuting,Mobile Data,1.0714285714285714,261.7142857142857,26.571428571428573
+42,Male,United States,46421,False,False,Cashier,Rural,YouTube,291,16,14,497,6,11,35,73,Afternoon,4,6,6,4,At work,Mobile Data,0.3142857142857143,14.2,18.1875
+50,Male,Barzil,21708,False,True,Artist,Rural,YouTube,142,5,15,7641,6,11,28,10,Evening,5,5,7,3,At home,Mobile Data,0.39285714285714285,272.89285714285717,28.4
+55,Female,United States,23630,False,False,Waiting staff,Urban,TikTok,31,16,2,4643,2,28,30,61,Night,1,9,3,7,Commuting,Wi-Fi,0.9333333333333333,154.76666666666668,1.9375
+23,Male,Pakistan,39595,False,True,Students,Rural,Instagram,278,1,29,5056,5,28,26,50,Night,1,9,3,7,At home,Mobile Data,1.0769230769230769,194.46153846153845,278.0
+61,Other,United States,96021,True,True,Students,Rural,TikTok,170,19,19,131,3,25,7,47,Night,1,9,3,7,At school,Mobile Data,3.5714285714285716,18.714285714285715,8.947368421052632
+62,Male,India,48308,False,True,Labor/Worker,Rural,Facebook,116,5,12,5443,7,20,39,90,Afternoon,4,6,6,4,At home,Mobile Data,0.5128205128205128,139.56410256410257,23.2
+49,Male,United States,64789,True,True,Students,Rural,YouTube,288,7,25,857,4,28,31,1,Night,1,9,3,7,At home,Mobile Data,0.9032258064516129,27.64516129032258,41.142857142857146
+62,Female,Vietnam,75690,True,False,Labor/Worker,Rural,Facebook,244,19,20,8712,1,25,5,94,Evening,5,5,7,3,At school,Wi-Fi,5.0,1742.4,12.842105263157896
+64,Male,India,46086,False,True,Labor/Worker,Rural,TikTok,27,5,4,8221,6,11,35,57,Evening,5,5,7,3,At home,Mobile Data,0.3142857142857143,234.88571428571427,5.4
+38,Female,Mexico,36859,False,False,Waiting staff,Rural,TikTok,251,17,3,6147,6,19,47,38,Night,1,9,3,7,At work,Wi-Fi,0.40425531914893614,130.7872340425532,14.764705882352942
+33,Male,India,27684,False,True,Cashier,Rural,Instagram,126,8,5,4604,7,28,14,62,Afternoon,4,6,6,4,At home,Mobile Data,2.0,328.85714285714283,15.75
+38,Male,Japan,21207,False,False,Students,Rural,Instagram,295,1,3,9452,8,1,36,79,Night,1,9,3,7,At school,Mobile Data,0.027777777777777776,262.55555555555554,295.0
+28,Male,Philippines,66099,True,True,Manager,Rural,Instagram,291,2,25,1558,3,27,27,89,Evening,5,5,7,3,Commuting,Mobile Data,1.0,57.7037037037037,145.5
+54,Male,United States,87496,True,False,Students,Rural,Facebook,153,15,15,15,6,5,24,70,Afternoon,4,6,6,4,At work,Mobile Data,0.20833333333333334,0.625,10.2
+53,Other,Philippines,86093,True,True,Students,Rural,Instagram,214,18,19,3605,2,10,40,82,Evening,5,5,7,3,At school,Mobile Data,0.25,90.125,11.88888888888889
+52,Male,Indonesia,49689,False,False,Labor/Worker,Rural,TikTok,48,11,2,1607,9,10,29,65,Afternoon,4,6,6,4,At work,Wi-Fi,0.3448275862068966,55.41379310344828,4.363636363636363
+36,Female,Pakistan,68651,True,True,Driver,Urban,Instagram,163,10,12,5935,2,14,45,62,Afternoon,4,6,6,4,At work,Mobile Data,0.3111111111111111,131.88888888888889,16.3
+37,Male,United States,33893,False,False,Students,Urban,YouTube,185,4,5,2016,3,2,22,56,Night,1,9,3,7,Commuting,Mobile Data,0.09090909090909091,91.63636363636364,46.25
+35,Male,Pakistan,86418,True,True,Students,Urban,Instagram,250,5,22,3574,2,4,8,67,Morning,7,3,9,1,At home,Mobile Data,0.5,446.75,50.0
+64,Male,Philippines,80011,True,False,Waiting staff,Urban,Facebook,143,4,17,7274,9,2,15,17,Night,1,9,3,7,At school,Mobile Data,0.13333333333333333,484.93333333333334,35.75
+58,Male,India,58635,True,True,Students,Rural,YouTube,55,13,14,9935,1,18,49,8,Night,1,9,3,7,At school,Wi-Fi,0.3673469387755102,202.75510204081633,4.230769230769231
+31,Male,Japan,76115,True,False,Waiting staff,Rural,YouTube,59,13,28,3791,5,13,5,60,Morning,7,3,9,1,At school,Mobile Data,2.6,758.2,4.538461538461538
+32,Male,India,98405,True,True,Waiting staff,Rural,YouTube,175,18,27,6406,1,19,4,40,Evening,5,5,7,3,At work,Mobile Data,4.75,1601.5,9.722222222222221
+48,Male,Mexico,92702,True,False,Students,Rural,Facebook,115,2,22,1088,5,5,11,81,Night,1,9,3,7,At work,Mobile Data,0.45454545454545453,98.9090909090909,57.5
+18,Male,Japan,98518,True,True,Labor/Worker,Rural,TikTok,225,16,10,1361,8,20,18,89,Morning,7,3,9,1,At work,Mobile Data,1.1111111111111112,75.61111111111111,14.0625
+20,Male,Japan,92805,True,True,Students,Rural,Instagram,155,1,3,4473,8,2,42,62,Night,1,9,3,7,At school,Mobile Data,0.047619047619047616,106.5,155.0
+33,Female,India,78954,True,True,Teacher,Rural,YouTube,81,19,4,5294,8,11,49,41,Night,1,9,3,7,Commuting,Wi-Fi,0.22448979591836735,108.04081632653062,4.2631578947368425
+40,Female,India,48064,False,True,Artist,Rural,YouTube,282,9,6,7106,2,26,30,12,Morning,7,3,9,1,At school,Mobile Data,0.8666666666666667,236.86666666666667,31.333333333333332
+28,Male,Vietnam,99063,True,False,Manager,Rural,YouTube,256,3,24,7319,8,18,15,93,Afternoon,4,6,6,4,At work,Mobile Data,1.2,487.93333333333334,85.33333333333333
+29,Other,Philippines,22454,False,True,Manager,Urban,TikTok,195,7,25,8667,5,6,6,89,Night,1,9,3,7,At home,Mobile Data,1.0,1444.5,27.857142857142858
+27,Female,India,40878,False,False,Labor/Worker,Rural,TikTok,79,10,22,9481,1,23,16,54,Evening,5,5,7,3,Commuting,Wi-Fi,1.4375,592.5625,7.9
+49,Male,Pakistan,71098,True,True,Labor/Worker,Rural,Facebook,159,1,16,8520,7,28,47,89,Afternoon,4,6,6,4,At school,Mobile Data,0.5957446808510638,181.27659574468086,159.0
+33,Male,India,82154,True,False,Teacher,Rural,TikTok,255,10,7,1186,6,10,40,93,Morning,7,3,9,1,At work,Wi-Fi,0.25,29.65,25.5
+25,Male,Pakistan,32991,False,True,Students,Urban,Instagram,271,9,15,3414,5,22,9,11,Evening,5,5,7,3,At school,Mobile Data,2.4444444444444446,379.3333333333333,30.11111111111111
+55,Female,Vietnam,88344,True,False,Driver,Rural,Facebook,35,15,21,5486,1,23,43,60,Night,1,9,3,7,At work,Wi-Fi,0.5348837209302325,127.5813953488372,2.3333333333333335
+29,Male,Mexico,56593,True,True,Driver,Rural,Facebook,149,15,28,3536,1,17,34,68,Evening,5,5,7,3,At school,Mobile Data,0.5,104.0,9.933333333333334
+41,Male,United States,56304,True,False,Students,Rural,Instagram,108,3,25,1773,6,22,27,78,Night,1,9,3,7,Commuting,Mobile Data,0.8148148148148148,65.66666666666667,36.0
+45,Female,Vietnam,50386,True,True,Waiting staff,Rural,Instagram,287,5,20,5415,7,11,13,46,Evening,5,5,7,3,At home,Wi-Fi,0.8461538461538461,416.53846153846155,57.4
+25,Female,Germany,75220,True,False,Students,Rural,Instagram,60,9,26,2558,1,19,36,38,Evening,5,5,7,3,At home,Mobile Data,0.5277777777777778,71.05555555555556,6.666666666666667
+45,Male,Barzil,89338,True,True,Students,Rural,Facebook,160,9,11,5907,9,17,27,61,Night,1,9,3,7,At home,Wi-Fi,0.6296296296296297,218.77777777777777,17.77777777777778
+53,Male,India,41083,False,False,Waiting staff,Urban,Facebook,113,7,22,5079,4,24,9,17,Morning,7,3,9,1,At work,Wi-Fi,2.6666666666666665,564.3333333333334,16.142857142857142
+43,Other,Mexico,38354,False,True,Students,Rural,Facebook,98,12,21,9454,5,4,5,66,Night,1,9,3,7,At home,Mobile Data,0.8,1890.8,8.166666666666666
+25,Female,Germany,42190,False,False,Waiting staff,Rural,Instagram,150,9,1,6724,2,26,22,72,Afternoon,4,6,6,4,At home,Mobile Data,1.1818181818181819,305.6363636363636,16.666666666666668
+45,Female,Indonesia,26142,False,True,Cashier,Rural,Instagram,222,6,5,5420,8,24,31,36,Evening,5,5,7,3,At home,Wi-Fi,0.7741935483870968,174.83870967741936,37.0
+45,Female,Mexico,48398,False,False,Teacher,Urban,YouTube,242,2,13,3291,2,26,3,74,Night,1,9,3,7,At work,Mobile Data,8.666666666666666,1097.0,121.0
+54,Other,India,71971,True,True,Cashier,Urban,TikTok,192,9,21,9210,3,14,30,7,Evening,5,5,7,3,At home,Wi-Fi,0.4666666666666667,307.0,21.333333333333332
+58,Male,India,61862,True,True,Artist,Rural,YouTube,260,17,14,9981,9,27,21,16,Afternoon,4,6,6,4,At work,Mobile Data,1.2857142857142858,475.2857142857143,15.294117647058824
+53,Male,Vietnam,73410,True,True,Students,Rural,Instagram,18,1,9,3524,2,20,35,14,Evening,5,5,7,3,Commuting,Mobile Data,0.5714285714285714,100.68571428571428,18.0
+44,Female,Barzil,39503,False,True,Cashier,Rural,Facebook,88,19,17,3504,6,4,6,80,Evening,5,5,7,3,At school,Wi-Fi,0.6666666666666666,584.0,4.631578947368421
+34,Female,Mexico,68456,True,False,Students,Urban,Instagram,61,6,15,8998,4,28,28,25,Afternoon,4,6,6,4,At home,Wi-Fi,1.0,321.35714285714283,10.166666666666666
+26,Male,Philippines,28016,False,True,Students,Urban,TikTok,278,5,21,5989,7,14,32,4,Night,1,9,3,7,At home,Wi-Fi,0.4375,187.15625,55.6
+50,Other,India,22384,False,False,Cashier,Rural,YouTube,235,2,7,2666,6,26,42,29,Evening,5,5,7,3,At home,Mobile Data,0.6190476190476191,63.476190476190474,117.5
+37,Male,United States,82320,True,True,Students,Rural,YouTube,60,9,27,8596,9,4,37,56,Night,1,9,3,7,At school,Wi-Fi,0.10810810810810811,232.32432432432432,6.666666666666667
+30,Male,Vietnam,35072,False,False,Students,Urban,Facebook,195,14,22,7140,9,6,25,6,Night,1,9,3,7,At home,Wi-Fi,0.24,285.6,13.928571428571429
+45,Male,India,60510,True,True,Driver,Rural,YouTube,43,4,22,8785,4,9,32,1,Evening,5,5,7,3,At home,Mobile Data,0.28125,274.53125,10.75
+46,Male,Barzil,68933,True,False,Labor/Worker,Rural,YouTube,239,4,12,6895,1,21,35,39,Evening,5,5,7,3,At school,Mobile Data,0.6,197.0,59.75
+30,Female,United States,41826,False,True,Labor/Worker,Urban,Instagram,140,15,23,4107,2,12,22,1,Evening,5,5,7,3,At home,Mobile Data,0.5454545454545454,186.6818181818182,9.333333333333334
+63,Female,Mexico,88026,True,False,Labor/Worker,Rural,YouTube,129,8,6,3280,8,29,24,63,Night,1,9,3,7,At home,Wi-Fi,1.2083333333333333,136.66666666666666,16.125
+52,Male,Philippines,45518,False,True,Artist,Rural,YouTube,256,4,21,2212,8,26,39,57,Night,1,9,3,7,At home,Wi-Fi,0.6666666666666666,56.717948717948715,64.0
+23,Male,Mexico,44045,False,False,Waiting staff,Rural,YouTube,201,16,16,8078,2,8,30,67,Afternoon,4,6,6,4,At school,Wi-Fi,0.26666666666666666,269.26666666666665,12.5625
+35,Other,Japan,70876,True,True,Students,Rural,Facebook,219,4,26,9734,4,24,32,65,Evening,5,5,7,3,At home,Mobile Data,0.75,304.1875,54.75
+22,Male,Barzil,71919,True,False,Waiting staff,Rural,Facebook,112,16,5,7601,1,4,31,65,Evening,5,5,7,3,At work,Mobile Data,0.12903225806451613,245.19354838709677,7.0
+64,Other,Germany,47103,False,True,Students,Rural,Instagram,142,12,9,613,7,27,23,21,Night,1,9,3,7,At home,Mobile Data,1.173913043478261,26.652173913043477,11.833333333333334
+42,Female,India,56188,True,False,Artist,Rural,YouTube,148,16,14,868,4,26,40,30,Morning,7,3,9,1,At school,Mobile Data,0.65,21.7,9.25
+19,Male,Philippines,25845,False,True,Labor/Worker,Rural,Facebook,130,19,8,811,8,25,33,96,Evening,5,5,7,3,At home,Mobile Data,0.7575757575757576,24.575757575757574,6.842105263157895
+27,Female,India,56674,True,False,Driver,Rural,Facebook,103,8,14,4862,9,25,25,33,Night,1,9,3,7,At school,Mobile Data,1.0,194.48,12.875
+47,Female,Mexico,39337,False,True,Waiting staff,Rural,Instagram,138,6,12,4177,9,5,36,48,Morning,7,3,9,1,At home,Mobile Data,0.1388888888888889,116.02777777777777,23.0
+62,Female,India,42313,False,True,Driver,Rural,TikTok,100,10,10,1744,3,6,24,22,Evening,5,5,7,3,At school,Mobile Data,0.25,72.66666666666667,10.0
+22,Other,Mexico,46943,False,True,Students,Urban,YouTube,101,5,20,2256,5,5,31,94,Afternoon,4,6,6,4,At home,Mobile Data,0.16129032258064516,72.7741935483871,20.2
+50,Male,India,97949,True,True,Waiting staff,Urban,Facebook,72,18,20,7612,6,19,39,54,Evening,5,5,7,3,Commuting,Wi-Fi,0.48717948717948717,195.17948717948718,4.0
+18,Male,United States,20276,False,False,Students,Rural,Instagram,38,10,26,8713,6,27,46,4,Afternoon,4,6,6,4,At work,Mobile Data,0.5869565217391305,189.41304347826087,3.8
+35,Other,United States,71151,True,True,Labor/Worker,Rural,Instagram,219,10,21,7196,8,8,13,87,Afternoon,4,6,6,4,At home,Mobile Data,0.6153846153846154,553.5384615384615,21.9
+49,Female,United States,37611,False,False,Cashier,Urban,Instagram,21,7,13,5423,6,9,10,55,Afternoon,4,6,6,4,At school,Wi-Fi,0.9,542.3,3.0
+64,Female,Mexico,31944,False,True,Artist,Rural,Facebook,139,18,29,5089,6,15,23,44,Evening,5,5,7,3,At school,Wi-Fi,0.6521739130434783,221.2608695652174,7.722222222222222
+28,Female,Pakistan,72887,True,False,Students,Rural,YouTube,182,1,19,6608,4,4,18,89,Evening,5,5,7,3,At school,Mobile Data,0.2222222222222222,367.1111111111111,182.0
+38,Female,United States,69847,True,True,Cashier,Rural,TikTok,217,7,15,9717,7,25,32,12,Night,1,9,3,7,At home,Wi-Fi,0.78125,303.65625,31.0
+43,Female,Germany,78653,True,False,Students,Rural,YouTube,33,1,8,1469,8,9,33,81,Afternoon,4,6,6,4,Commuting,Mobile Data,0.2727272727272727,44.515151515151516,33.0
+42,Male,United States,76622,True,True,Waiting staff,Rural,Instagram,108,15,23,2675,3,7,36,79,Afternoon,4,6,6,4,At home,Mobile Data,0.19444444444444445,74.30555555555556,7.2
+39,Male,India,47810,False,False,Waiting staff,Rural,Instagram,148,4,21,1513,7,8,28,74,Afternoon,4,6,6,4,At work,Mobile Data,0.2857142857142857,54.035714285714285,37.0
+44,Female,Barzil,97842,True,True,Engineer,Rural,TikTok,183,10,10,4876,3,15,16,99,Evening,5,5,7,3,Commuting,Wi-Fi,0.9375,304.75,18.3
+30,Other,India,30503,False,False,Driver,Rural,YouTube,38,9,3,1451,8,19,16,52,Evening,5,5,7,3,At school,Mobile Data,1.1875,90.6875,4.222222222222222
+50,Male,Vietnam,56976,True,True,Waiting staff,Rural,Instagram,152,2,21,4654,1,15,18,93,Morning,7,3,9,1,At home,Mobile Data,0.8333333333333334,258.55555555555554,76.0
+51,Female,India,31590,False,False,Waiting staff,Rural,Instagram,51,14,3,3007,1,5,8,76,Night,1,9,3,7,At home,Mobile Data,0.625,375.875,3.642857142857143
+58,Other,Germany,30886,False,True,Waiting staff,Rural,YouTube,217,16,26,3124,6,19,42,65,Evening,5,5,7,3,At home,Wi-Fi,0.4523809523809524,74.38095238095238,13.5625
+52,Male,Pakistan,32866,False,False,Students,Rural,Instagram,201,1,5,1753,9,7,16,65,Afternoon,4,6,6,4,At work,Mobile Data,0.4375,109.5625,201.0
+18,Other,United States,86624,True,True,Waiting staff,Rural,YouTube,169,2,16,1612,4,6,11,10,Evening,5,5,7,3,At home,Mobile Data,0.5454545454545454,146.54545454545453,84.5
+38,Female,United States,88899,True,False,Students,Rural,Instagram,73,7,17,3275,6,27,6,18,Afternoon,3,7,5,5,At home,Mobile Data,4.5,545.8333333333334,10.428571428571429
+23,Male,Indonesia,52792,True,True,Cashier,Rural,YouTube,252,10,6,8747,5,19,1,47,Night,9,1,10,0,At school,Mobile Data,19.0,8747.0,25.2
+45,Female,Mexico,29764,False,True,Driver,Rural,TikTok,267,1,26,2049,1,25,12,66,Evening,3,7,5,5,Commuting,Mobile Data,2.0833333333333335,170.75,267.0
+34,Female,Pakistan,62727,True,True,Students,Rural,Instagram,161,13,20,824,6,28,38,49,Evening,9,1,10,0,At home,Mobile Data,0.7368421052631579,21.68421052631579,12.384615384615385
+22,Other,Indonesia,98471,True,True,Driver,Rural,TikTok,224,1,20,3030,9,17,28,72,Afternoon,3,7,5,5,At home,Mobile Data,0.6071428571428571,108.21428571428571,224.0
+48,Male,Vietnam,28068,False,False,Labor/Worker,Rural,Instagram,175,5,16,1081,3,10,45,22,Evening,3,7,5,5,At home,Mobile Data,0.2222222222222222,24.022222222222222,35.0
+22,Female,India,27295,False,True,Students,Rural,Instagram,40,16,24,5299,3,19,17,86,Afternoon,8,2,10,0,At home,Wi-Fi,1.1176470588235294,311.70588235294116,2.5
+55,Female,Mexico,61160,True,False,Manager,Rural,Facebook,241,15,2,492,2,11,1,26,Afternoon,6,4,8,2,At school,Mobile Data,11.0,492.0,16.066666666666666
+20,Male,Mexico,31390,False,True,Cashier,Rural,YouTube,291,17,20,4764,4,15,32,90,Evening,8,2,10,0,At work,Wi-Fi,0.46875,148.875,17.11764705882353
+40,Male,Japan,40131,False,False,Cashier,Urban,TikTok,38,16,15,7202,3,10,8,9,Evening,6,4,8,2,At home,Wi-Fi,1.25,900.25,2.375
+54,Female,Japan,95969,True,True,Engineer,Urban,TikTok,204,13,18,8266,2,11,40,21,Night,8,2,10,0,At work,Wi-Fi,0.275,206.65,15.692307692307692
+54,Male,India,35038,False,False,Students,Rural,TikTok,265,11,1,3360,1,23,43,95,Morning,8,2,10,0,At school,Mobile Data,0.5348837209302325,78.13953488372093,24.09090909090909
+27,Female,India,72327,True,True,Waiting staff,Rural,YouTube,290,17,26,8562,3,3,46,63,Morning,8,2,10,0,At school,Mobile Data,0.06521739130434782,186.1304347826087,17.058823529411764
+27,Male,India,97064,True,False,Teacher,Rural,Facebook,96,17,29,4682,6,3,24,6,Evening,6,4,8,2,At work,Wi-Fi,0.125,195.08333333333334,5.647058823529412
+36,Male,India,41281,False,True,Cashier,Rural,TikTok,158,2,29,328,9,18,10,14,Afternoon,8,2,10,0,At work,Mobile Data,1.8,32.8,79.0
+34,Male,United States,74189,True,False,Labor/Worker,Urban,YouTube,258,13,19,9982,5,25,47,33,Afternoon,8,2,10,0,At home,Wi-Fi,0.5319148936170213,212.38297872340425,19.846153846153847
+38,Other,United States,68511,True,True,Students,Rural,Instagram,292,14,12,8968,3,11,39,71,Night,9,1,10,0,At school,Mobile Data,0.28205128205128205,229.94871794871796,20.857142857142858
+31,Male,Japan,28605,False,False,Labor/Worker,Rural,TikTok,207,11,8,4674,5,20,39,24,Morning,6,4,8,2,At work,Wi-Fi,0.5128205128205128,119.84615384615384,18.818181818181817
+26,Male,Japan,21381,False,True,Waiting staff,Rural,TikTok,53,10,6,4316,5,26,10,73,Morning,6,4,8,2,At home,Mobile Data,2.6,431.6,5.3
+63,Female,Japan,86634,True,False,Driver,Rural,Facebook,37,3,12,9379,5,29,36,75,Afternoon,3,7,5,5,At work,Mobile Data,0.8055555555555556,260.52777777777777,12.333333333333334
+18,Female,Pakistan,39810,False,True,Waiting staff,Urban,TikTok,26,17,7,9695,7,22,25,87,Evening,8,2,10,0,At home,Mobile Data,0.88,387.8,1.5294117647058822
+62,Female,Barzil,44322,False,False,Teacher,Urban,TikTok,136,15,18,5803,5,18,10,51,Morning,8,2,10,0,Commuting,Mobile Data,1.8,580.3,9.066666666666666
+30,Other,India,61869,True,True,Labor/Worker,Urban,Instagram,177,9,22,3325,7,25,19,2,Evening,6,4,8,2,At school,Mobile Data,1.3157894736842106,175.0,19.666666666666668
+21,Female,Pakistan,52955,True,True,Students,Rural,YouTube,253,10,14,8379,9,15,46,15,Night,8,2,10,0,At home,Wi-Fi,0.32608695652173914,182.15217391304347,25.3
+18,Male,United States,81388,True,True,Students,Rural,YouTube,85,8,8,1214,5,7,45,35,Evening,3,7,5,5,At home,Wi-Fi,0.15555555555555556,26.977777777777778,10.625
+57,Female,United States,30207,False,True,Waiting staff,Rural,Facebook,240,13,24,7556,2,10,15,36,Evening,8,2,10,0,At home,Mobile Data,0.6666666666666666,503.73333333333335,18.46153846153846
+49,Male,Vietnam,87628,True,False,Engineer,Rural,Instagram,213,18,20,9301,5,21,16,92,Night,8,2,10,0,At school,Mobile Data,1.3125,581.3125,11.833333333333334
+51,Male,Germany,48220,False,True,Teacher,Rural,YouTube,257,5,22,8722,8,23,2,39,Afternoon,9,1,10,0,At school,Mobile Data,11.5,4361.0,51.4
+45,Male,Mexico,94085,True,False,Waiting staff,Urban,Instagram,223,6,14,9262,4,20,29,4,Night,6,4,8,2,Commuting,Mobile Data,0.6896551724137931,319.37931034482756,37.166666666666664
+48,Male,India,42031,False,True,Teacher,Urban,YouTube,224,17,5,3136,2,29,4,64,Night,3,7,5,5,At home,Mobile Data,7.25,784.0,13.176470588235293
+25,Male,Indonesia,90721,True,False,Cashier,Rural,Instagram,167,11,9,9154,3,10,29,74,Afternoon,8,2,10,0,At home,Mobile Data,0.3448275862068966,315.6551724137931,15.181818181818182
+56,Male,Philippines,91312,True,True,Students,Rural,Facebook,78,16,8,6618,9,13,31,6,Afternoon,8,2,10,0,At home,Mobile Data,0.41935483870967744,213.48387096774192,4.875
+43,Male,United States,79766,True,False,Labor/Worker,Rural,TikTok,94,9,2,5265,9,15,17,57,Night,3,7,5,5,Commuting,Mobile Data,0.8823529411764706,309.70588235294116,10.444444444444445
+51,Female,Vietnam,32449,False,True,Artist,Rural,Facebook,276,2,28,7089,8,23,10,30,Morning,3,7,5,5,Commuting,Mobile Data,2.3,708.9,138.0
+20,Female,India,76699,True,False,Students,Urban,YouTube,78,5,16,7965,8,18,27,99,Night,6,4,8,2,At home,Mobile Data,0.6666666666666666,295.0,15.6
+29,Other,Germany,66092,True,True,Students,Rural,Facebook,108,1,13,9597,8,23,41,74,Evening,3,7,5,5,At home,Mobile Data,0.5609756097560976,234.0731707317073,108.0
+18,Female,Pakistan,83671,True,False,Students,Rural,TikTok,225,4,7,8708,8,4,15,96,Afternoon,6,4,8,2,At home,Mobile Data,0.26666666666666666,580.5333333333333,56.25
+61,Other,India,30350,False,True,Students,Rural,Facebook,170,4,16,6569,8,20,44,67,Afternoon,8,2,10,0,At school,Mobile Data,0.45454545454545453,149.29545454545453,42.5
+22,Male,Mexico,88487,True,False,Labor/Worker,Urban,YouTube,103,3,7,1491,1,17,31,90,Evening,8,2,10,0,At work,Mobile Data,0.5483870967741935,48.096774193548384,34.333333333333336
+47,Male,India,37622,False,True,Students,Urban,YouTube,183,9,27,5213,6,28,21,15,Night,9,1,10,0,At school,Wi-Fi,1.3333333333333333,248.23809523809524,20.333333333333332
+47,Male,Barzil,90263,True,False,Labor/Worker,Rural,Facebook,174,12,14,4228,9,3,41,17,Night,3,7,5,5,At work,Mobile Data,0.07317073170731707,103.1219512195122,14.5
+34,Male,Japan,73117,True,True,Waiting staff,Rural,TikTok,124,10,14,7508,8,21,46,91,Night,8,2,10,0,At work,Wi-Fi,0.45652173913043476,163.2173913043478,12.4
+64,Other,Japan,78394,True,False,Students,Rural,Facebook,229,2,12,4409,3,21,45,18,Evening,8,2,10,0,At school,Mobile Data,0.4666666666666667,97.97777777777777,114.5
+40,Female,Mexico,43782,False,True,Artist,Rural,TikTok,40,11,1,590,1,2,26,19,Afternoon,6,4,8,2,At work,Mobile Data,0.07692307692307693,22.692307692307693,3.6363636363636362
+32,Female,Germany,48454,False,True,Cashier,Rural,Instagram,20,10,1,7379,2,4,38,76,Afternoon,3,7,5,5,At school,Mobile Data,0.10526315789473684,194.18421052631578,2.0
+54,Male,Vietnam,87904,True,True,Labor/Worker,Rural,TikTok,139,6,12,9735,2,1,36,88,Night,8,2,10,0,At home,Wi-Fi,0.027777777777777776,270.4166666666667,23.166666666666668
+38,Male,Pakistan,35592,False,True,Labor/Worker,Urban,Instagram,114,18,20,3056,7,15,17,69,Morning,6,4,8,2,At school,Mobile Data,0.8823529411764706,179.76470588235293,6.333333333333333
+31,Male,Japan,42173,False,False,Students,Urban,Facebook,36,2,21,2206,6,25,3,24,Evening,6,4,8,2,At work,Wi-Fi,8.333333333333334,735.3333333333334,18.0
+19,Male,India,53204,True,True,Driver,Rural,TikTok,236,2,15,2708,2,1,14,91,Evening,8,2,10,0,At home,Wi-Fi,0.07142857142857142,193.42857142857142,118.0
+28,Female,Indonesia,55596,True,False,Labor/Worker,Urban,Instagram,11,10,4,5981,8,6,49,48,Evening,8,2,10,0,At work,Wi-Fi,0.12244897959183673,122.06122448979592,1.1
+56,Other,United States,54324,True,True,Students,Rural,Instagram,110,16,7,5722,9,7,13,30,Night,6,4,8,2,At school,Wi-Fi,0.5384615384615384,440.15384615384613,6.875
+55,Male,United States,81202,True,False,Waiting staff,Rural,Instagram,30,12,16,747,7,19,41,15,Afternoon,8,2,10,0,At home,Wi-Fi,0.4634146341463415,18.21951219512195,2.5
+51,Male,United States,50750,True,True,Manager,Urban,YouTube,67,1,3,8992,4,12,27,47,Evening,3,7,5,5,At work,Mobile Data,0.4444444444444444,333.037037037037,67.0
+55,Male,Vietnam,96112,True,False,Students,Rural,Facebook,189,8,7,6553,1,1,1,44,Night,6,4,8,2,At home,Mobile Data,1.0,6553.0,23.625
+51,Male,India,36566,False,True,Waiting staff,Urban,Instagram,29,16,29,1497,4,7,17,98,Morning,6,4,8,2,At school,Wi-Fi,0.4117647058823529,88.05882352941177,1.8125
+35,Male,India,27190,False,False,Students,Urban,TikTok,264,18,24,1379,4,19,48,27,Evening,3,7,5,5,At work,Mobile Data,0.3958333333333333,28.729166666666668,14.666666666666666
+47,Male,Mexico,58333,True,True,Labor/Worker,Urban,Instagram,47,13,22,8871,8,13,34,84,Night,3,7,5,5,Commuting,Mobile Data,0.38235294117647056,260.9117647058824,3.6153846153846154
+32,Female,United States,21589,False,False,Labor/Worker,Rural,YouTube,157,15,6,7360,4,26,14,64,Evening,6,4,8,2,At school,Wi-Fi,1.8571428571428572,525.7142857142857,10.466666666666667
+44,Female,India,45235,False,True,Students,Rural,Facebook,34,12,16,3770,4,12,17,41,Afternoon,6,4,8,2,At home,Mobile Data,0.7058823529411765,221.76470588235293,2.8333333333333335
+51,Other,Pakistan,20159,False,False,Students,Urban,YouTube,130,8,24,3342,2,12,3,96,Night,8,2,10,0,At home,Mobile Data,4.0,1114.0,16.25
+55,Female,Barzil,32145,False,True,Waiting staff,Rural,YouTube,35,10,8,9088,7,22,34,68,Night,8,2,10,0,At work,Mobile Data,0.6470588235294118,267.29411764705884,3.5
+50,Male,Barzil,51921,True,False,Students,Rural,YouTube,178,14,23,1546,4,13,40,5,Morning,6,4,8,2,At home,Mobile Data,0.325,38.65,12.714285714285714
+41,Male,India,36237,False,True,Driver,Rural,TikTok,234,5,22,3126,6,28,25,53,Evening,6,4,8,2,At home,Mobile Data,1.12,125.04,46.8
+32,Male,Vietnam,28244,False,False,Manager,Rural,Facebook,10,18,6,5889,3,14,2,8,Afternoon,8,2,10,0,At work,Mobile Data,7.0,2944.5,0.5555555555555556
+47,Male,Japan,34743,False,True,Students,Urban,Facebook,270,19,10,6208,7,22,34,22,Evening,8,2,10,0,At work,Wi-Fi,0.6470588235294118,182.58823529411765,14.210526315789474
+59,Female,India,66101,True,True,Waiting staff,Rural,TikTok,22,15,16,8875,6,12,26,7,Night,3,7,5,5,At home,Mobile Data,0.46153846153846156,341.34615384615387,1.4666666666666666
+34,Female,United States,76378,True,True,Labor/Worker,Urban,Facebook,57,6,11,1295,3,20,31,22,Morning,8,2,10,0,Commuting,Mobile Data,0.6451612903225806,41.774193548387096,9.5
+22,Female,Philippines,91126,True,True,Students,Rural,YouTube,103,11,13,1385,4,12,9,46,Evening,6,4,8,2,At home,Mobile Data,1.3333333333333333,153.88888888888889,9.363636363636363
+46,Male,United States,76071,True,False,Students,Rural,Facebook,270,11,29,942,5,27,30,30,Evening,3,7,5,5,At home,Mobile Data,0.9,31.4,24.545454545454547
+21,Female,Mexico,91121,True,True,Engineer,Rural,TikTok,287,18,6,3280,9,6,20,16,Afternoon,8,2,10,0,Commuting,Mobile Data,0.3,164.0,15.944444444444445
+27,Other,Mexico,94763,True,False,Labor/Worker,Rural,YouTube,214,18,24,1033,6,27,21,79,Evening,3,7,5,5,At home,Mobile Data,1.2857142857142858,49.19047619047619,11.88888888888889
+34,Male,Barzil,32237,False,True,Artist,Rural,TikTok,194,10,1,2786,4,10,29,5,Evening,3,7,5,5,At work,Mobile Data,0.3448275862068966,96.06896551724138,19.4
+27,Male,Barzil,35649,False,False,Labor/Worker,Urban,Instagram,184,2,21,2233,7,20,25,67,Evening,3,7,5,5,At school,Mobile Data,0.8,89.32,92.0
+34,Male,Vietnam,57713,True,True,Manager,Rural,YouTube,78,9,19,1620,2,29,38,23,Evening,3,7,5,5,At work,Mobile Data,0.7631578947368421,42.63157894736842,8.666666666666666
+37,Male,Germany,93463,True,False,Waiting staff,Rural,YouTube,113,14,12,3535,4,24,44,61,Evening,6,4,8,2,At work,Mobile Data,0.5454545454545454,80.3409090909091,8.071428571428571
+41,Male,Indonesia,65409,True,True,Labor/Worker,Rural,Facebook,255,19,24,3205,5,9,25,74,Night,8,2,10,0,At school,Wi-Fi,0.36,128.2,13.421052631578947
+22,Other,Indonesia,68766,True,False,Driver,Rural,YouTube,170,10,27,2882,4,2,9,5,Evening,3,7,5,5,At work,Wi-Fi,0.2222222222222222,320.22222222222223,17.0
+51,Female,Germany,66154,True,True,Waiting staff,Urban,TikTok,209,4,6,170,4,7,39,23,Evening,8,2,10,0,At home,Mobile Data,0.1794871794871795,4.358974358974359,52.25
+23,Female,Japan,27016,False,False,Labor/Worker,Rural,Facebook,225,6,18,8140,9,9,44,79,Evening,6,4,8,2,At work,Mobile Data,0.20454545454545456,185.0,37.5
+19,Male,Indonesia,99563,True,True,Artist,Urban,Instagram,221,14,13,9745,2,25,26,82,Night,8,2,10,0,At school,Mobile Data,0.9615384615384616,374.8076923076923,15.785714285714286
+30,Male,Vietnam,68688,True,False,Labor/Worker,Urban,TikTok,25,4,7,3897,6,12,37,25,Afternoon,6,4,8,2,At school,Mobile Data,0.32432432432432434,105.32432432432432,6.25
+60,Female,Philippines,74238,True,True,Labor/Worker,Urban,Instagram,214,15,23,9787,8,5,16,8,Morning,3,7,5,5,At home,Mobile Data,0.3125,611.6875,14.266666666666667
+60,Male,Philippines,78608,True,False,Waiting staff,Rural,Instagram,48,16,13,9815,8,1,37,95,Night,3,7,5,5,At home,Mobile Data,0.02702702702702703,265.27027027027026,3.0
+28,Female,India,51897,True,True,Driver,Rural,Instagram,98,7,21,4122,7,22,12,21,Afternoon,3,7,5,5,Commuting,Wi-Fi,1.8333333333333333,343.5,14.0
+64,Female,India,70961,True,False,Teacher,Rural,YouTube,265,17,8,5109,4,15,24,2,Afternoon,3,7,5,5,Commuting,Mobile Data,0.625,212.875,15.588235294117647
+40,Male,Philippines,88703,True,True,Labor/Worker,Rural,TikTok,263,19,21,9283,7,8,26,22,Night,3,7,5,5,At work,Mobile Data,0.3076923076923077,357.03846153846155,13.842105263157896
+33,Female,United States,64757,True,True,Waiting staff,Urban,TikTok,225,19,17,2837,6,1,20,72,Afternoon,3,7,5,5,At school,Mobile Data,0.05,141.85,11.842105263157896
+48,Other,United States,46917,False,True,Students,Urban,YouTube,181,17,9,8599,6,18,9,87,Evening,6,4,8,2,At school,Mobile Data,2.0,955.4444444444445,10.647058823529411
+28,Male,Germany,42736,False,True,Students,Rural,Facebook,146,6,20,5228,2,13,23,96,Night,3,7,5,5,Commuting,Mobile Data,0.5652173913043478,227.30434782608697,24.333333333333332
+33,Other,India,47990,False,False,Waiting staff,Urban,Instagram,187,11,13,4169,8,29,39,72,Evening,3,7,5,5,At home,Mobile Data,0.7435897435897436,106.8974358974359,17.0
+25,Other,India,82551,True,True,Engineer,Urban,TikTok,86,16,2,6721,8,1,29,68,Evening,3,7,5,5,At school,Mobile Data,0.034482758620689655,231.75862068965517,5.375
+21,Male,Barzil,78161,True,False,Labor/Worker,Rural,YouTube,197,8,4,679,7,5,31,64,Night,8,2,10,0,At school,Mobile Data,0.16129032258064516,21.903225806451612,24.625
+57,Other,Mexico,99623,True,True,Labor/Worker,Urban,Instagram,24,11,29,7429,9,18,19,94,Afternoon,9,1,10,0,At school,Mobile Data,0.9473684210526315,391.0,2.1818181818181817
+21,Female,Vietnam,42440,False,False,Waiting staff,Rural,Facebook,223,7,25,5487,8,16,20,19,Afternoon,8,2,10,0,At home,Mobile Data,0.8,274.35,31.857142857142858
+42,Female,Philippines,55205,True,True,Students,Urban,Facebook,217,19,2,236,9,26,23,87,Night,6,4,8,2,Commuting,Mobile Data,1.1304347826086956,10.26086956521739,11.421052631578947
+20,Female,Indonesia,75103,True,False,Students,Rural,Instagram,178,10,4,6804,9,10,43,82,Night,3,7,5,5,At school,Mobile Data,0.23255813953488372,158.2325581395349,17.8
+49,Male,Germany,90812,True,True,Driver,Rural,Facebook,289,9,18,2423,6,4,27,53,Evening,8,2,10,0,At school,Wi-Fi,0.14814814814814814,89.74074074074075,32.111111111111114
+20,Other,United States,61627,True,False,Labor/Worker,Rural,TikTok,155,4,5,1032,2,1,30,93,Evening,6,4,8,2,Commuting,Wi-Fi,0.03333333333333333,34.4,38.75
+44,Male,Philippines,39008,False,True,Engineer,Rural,TikTok,272,15,19,6339,7,23,21,87,Night,3,7,5,5,At home,Mobile Data,1.0952380952380953,301.85714285714283,18.133333333333333
+46,Female,India,91274,True,False,Waiting staff,Rural,TikTok,13,13,10,2940,3,8,44,97,Morning,3,7,5,5,At home,Mobile Data,0.18181818181818182,66.81818181818181,1.0
+49,Other,Mexico,52402,True,True,Students,Rural,Facebook,99,2,18,5409,7,5,35,52,Evening,3,7,5,5,At work,Mobile Data,0.14285714285714285,154.54285714285714,49.5
+36,Other,India,73384,True,False,Students,Rural,TikTok,69,2,25,3132,9,2,49,47,Night,3,7,5,5,At school,Mobile Data,0.04081632653061224,63.91836734693877,34.5
+38,Male,Indonesia,25793,False,True,Teacher,Rural,YouTube,25,16,21,7080,2,24,7,82,Evening,8,2,10,0,At home,Mobile Data,3.4285714285714284,1011.4285714285714,1.5625
+22,Male,India,25571,False,False,Manager,Urban,TikTok,236,9,10,4942,6,17,22,54,Evening,3,7,5,5,Commuting,Wi-Fi,0.7727272727272727,224.63636363636363,26.22222222222222
+35,Female,Barzil,36209,False,True,Students,Rural,TikTok,38,13,5,6961,6,7,10,44,Morning,3,7,5,5,At home,Mobile Data,0.7,696.1,2.923076923076923
+45,Male,Philippines,63148,True,False,Waiting staff,Rural,Facebook,160,3,17,7730,9,17,23,97,Afternoon,8,2,10,0,At school,Mobile Data,0.7391304347826086,336.0869565217391,53.333333333333336
+59,Male,Barzil,22224,False,True,Students,Rural,TikTok,254,9,22,633,9,28,15,7,Evening,3,7,5,5,At home,Mobile Data,1.8666666666666667,42.2,28.22222222222222
+39,Male,Vietnam,68695,True,True,Engineer,Urban,Instagram,279,13,13,6822,5,6,30,92,Night,3,7,5,5,At school,Wi-Fi,0.2,227.4,21.46153846153846
+38,Male,Japan,52441,True,True,Students,Rural,YouTube,88,2,23,4103,5,29,34,1,Evening,8,2,10,0,At work,Wi-Fi,0.8529411764705882,120.67647058823529,44.0
+23,Female,United States,59129,True,True,Waiting staff,Rural,Facebook,298,8,17,9584,9,22,13,63,Evening,8,2,10,0,At home,Mobile Data,1.6923076923076923,737.2307692307693,37.25
+18,Other,Mexico,82368,True,False,Waiting staff,Urban,YouTube,162,9,9,6487,8,15,4,98,Morning,8,2,10,0,At school,Wi-Fi,3.75,1621.75,18.0
+22,Female,Pakistan,64760,True,True,Artist,Rural,Instagram,286,16,24,3446,7,5,18,39,Night,3,7,5,5,At school,Mobile Data,0.2777777777777778,191.44444444444446,17.875
+58,Other,Pakistan,43478,False,False,Labor/Worker,Urban,Facebook,288,2,12,5738,8,15,23,19,Evening,3,7,5,5,At work,Mobile Data,0.6521739130434783,249.47826086956522,144.0
+29,Other,Mexico,91854,True,True,Waiting staff,Urban,Facebook,66,6,14,3098,6,18,33,31,Afternoon,8,2,10,0,Commuting,Mobile Data,0.5454545454545454,93.87878787878788,11.0
+43,Male,India,32180,False,False,Labor/Worker,Rural,TikTok,195,8,14,8097,3,18,34,77,Morning,8,2,10,0,At home,Mobile Data,0.5294117647058824,238.14705882352942,24.375
+63,Male,Vietnam,35372,False,True,Students,Rural,YouTube,102,5,8,5476,7,25,34,24,Afternoon,8,2,10,0,At work,Mobile Data,0.7352941176470589,161.05882352941177,20.4
+51,Male,United States,49796,False,False,Labor/Worker,Rural,Instagram,285,9,23,8253,8,21,36,69,Afternoon,3,7,5,5,At school,Mobile Data,0.5833333333333334,229.25,31.666666666666668
+31,Male,India,78272,True,True,Students,Urban,Instagram,167,1,5,5181,8,21,35,87,Night,3,7,5,5,At school,Mobile Data,0.6,148.02857142857144,167.0
+43,Female,India,74040,True,False,Students,Rural,Facebook,284,9,19,1817,1,23,17,83,Morning,3,7,5,5,At home,Mobile Data,1.3529411764705883,106.88235294117646,31.555555555555557
+62,Other,United States,95357,True,True,Labor/Worker,Rural,TikTok,190,10,28,8824,7,6,28,65,Night,8,2,10,0,At home,Mobile Data,0.21428571428571427,315.14285714285717,19.0
+44,Male,Mexico,91368,True,False,Students,Rural,Facebook,86,4,14,4887,3,2,14,33,Morning,8,2,10,0,At school,Wi-Fi,0.14285714285714285,349.07142857142856,21.5
+26,Male,India,98356,True,True,Driver,Rural,Facebook,160,3,9,2598,2,27,34,59,Evening,3,7,5,5,At school,Mobile Data,0.7941176470588235,76.41176470588235,53.333333333333336
+43,Other,Pakistan,36211,False,False,Students,Rural,Facebook,247,10,7,9492,2,17,48,33,Evening,8,2,10,0,At home,Wi-Fi,0.3541666666666667,197.75,24.7
+64,Male,India,25842,False,True,Manager,Urban,Facebook,298,15,27,2653,8,21,11,32,Morning,3,7,5,5,At home,Mobile Data,1.9090909090909092,241.1818181818182,19.866666666666667
+39,Male,Germany,83115,True,False,Engineer,Rural,Instagram,240,11,26,1454,9,4,13,59,Night,3,7,5,5,At school,Mobile Data,0.3076923076923077,111.84615384615384,21.818181818181817
+64,Male,Japan,86852,True,True,Labor/Worker,Rural,Instagram,27,14,26,1138,3,12,33,92,Night,6,4,8,2,At school,Mobile Data,0.36363636363636365,34.484848484848484,1.9285714285714286
+47,Female,Pakistan,65968,True,False,Students,Urban,Facebook,82,6,8,5807,3,19,2,41,Afternoon,8,2,10,0,At school,Mobile Data,9.5,2903.5,13.666666666666666
+60,Male,United States,37508,False,True,Students,Rural,Facebook,198,12,14,3192,6,2,34,12,Evening,8,2,10,0,At school,Mobile Data,0.058823529411764705,93.88235294117646,16.5
+34,Other,Barzil,42005,False,True,Students,Rural,TikTok,26,13,22,6116,1,26,29,73,Evening,3,7,5,5,At home,Wi-Fi,0.896551724137931,210.89655172413794,2.0
+43,Other,Germany,74575,True,True,Students,Rural,Facebook,28,17,28,3759,6,2,37,11,Night,3,7,5,5,At school,Wi-Fi,0.05405405405405406,101.5945945945946,1.6470588235294117
+53,Other,Germany,38971,False,True,Waiting staff,Rural,Instagram,228,16,14,3029,3,14,4,97,Evening,6,4,8,2,At work,Mobile Data,3.5,757.25,14.25
+18,Female,India,45599,False,False,Waiting staff,Rural,YouTube,129,3,11,9552,4,15,12,19,Night,6,4,8,2,At home,Wi-Fi,1.25,796.0,43.0
+25,Female,Japan,86914,True,True,Waiting staff,Rural,Instagram,110,2,14,5095,9,20,26,54,Night,8,2,10,0,At home,Mobile Data,0.7692307692307693,195.96153846153845,55.0
+52,Male,Philippines,87055,True,False,Teacher,Rural,TikTok,43,11,21,63,3,2,28,57,Night,3,7,5,5,At home,Mobile Data,0.07142857142857142,2.25,3.909090909090909
+32,Female,Japan,25355,False,True,Artist,Rural,Instagram,93,9,8,1345,1,4,3,42,Evening,3,7,5,5,At home,Mobile Data,1.3333333333333333,448.3333333333333,10.333333333333334
+64,Female,United States,74120,True,False,Students,Rural,YouTube,205,3,3,974,3,19,20,98,Afternoon,9,1,10,0,At home,Wi-Fi,0.95,48.7,68.33333333333333
+39,Female,United States,94619,True,True,Manager,Rural,Facebook,211,18,28,4161,7,9,10,71,Afternoon,6,4,8,2,At school,Wi-Fi,0.9,416.1,11.722222222222221
+31,Male,Indonesia,58342,True,False,Waiting staff,Rural,YouTube,20,15,29,5962,7,7,18,31,Evening,6,4,8,2,At home,Wi-Fi,0.3888888888888889,331.22222222222223,1.3333333333333333
+43,Female,Pakistan,98860,True,True,Waiting staff,Rural,Facebook,227,14,29,9814,5,13,27,52,Night,8,2,10,0,At home,Mobile Data,0.48148148148148145,363.48148148148147,16.214285714285715
+45,Male,Pakistan,22257,False,False,Waiting staff,Urban,Facebook,262,2,23,8649,1,27,31,2,Afternoon,8,2,10,0,At school,Mobile Data,0.8709677419354839,279.0,131.0
+40,Male,Pakistan,47364,False,True,Waiting staff,Urban,Instagram,231,17,18,6596,8,12,27,83,Evening,3,7,5,5,At home,Wi-Fi,0.4444444444444444,244.2962962962963,13.588235294117647
+31,Male,Indonesia,44972,False,False,Labor/Worker,Rural,Instagram,89,8,3,3330,8,3,42,38,Afternoon,9,1,10,0,At home,Wi-Fi,0.07142857142857142,79.28571428571429,11.125
+41,Male,Vietnam,46654,False,True,Waiting staff,Rural,Instagram,16,10,13,1740,2,13,1,32,Morning,8,2,10,0,At home,Wi-Fi,13.0,1740.0,1.6
+19,Other,India,49320,False,False,Waiting staff,Rural,TikTok,281,18,12,6055,3,15,6,10,Night,3,7,5,5,At work,Wi-Fi,2.5,1009.1666666666666,15.61111111111111
+62,Male,Japan,40808,False,True,Engineer,Urban,Instagram,236,19,15,6321,4,14,11,8,Evening,9,1,10,0,Commuting,Mobile Data,1.2727272727272727,574.6363636363636,12.421052631578947
+43,Male,India,72389,True,False,Engineer,Urban,TikTok,25,8,18,1954,1,24,34,90,Afternoon,8,2,10,0,At school,Mobile Data,0.7058823529411765,57.470588235294116,3.125
+31,Female,United States,54773,True,True,Cashier,Urban,Instagram,21,8,5,279,4,9,39,94,Night,8,2,10,0,Commuting,Wi-Fi,0.23076923076923078,7.153846153846154,2.625
+24,Female,Japan,71168,True,False,Labor/Worker,Rural,Facebook,250,3,7,2391,5,13,20,75,Evening,6,4,8,2,At school,Wi-Fi,0.65,119.55,83.33333333333333
+20,Other,United States,47747,False,True,Waiting staff,Rural,TikTok,30,3,11,9232,3,23,21,20,Afternoon,3,7,5,5,At school,Mobile Data,1.0952380952380953,439.6190476190476,10.0
+64,Female,Germany,96396,True,True,Waiting staff,Urban,YouTube,187,12,26,6439,2,22,21,20,Morning,8,2,10,0,At work,Mobile Data,1.0476190476190477,306.6190476190476,15.583333333333334
+40,Other,India,77505,True,True,Teacher,Rural,TikTok,237,17,27,961,6,4,18,9,Evening,6,4,8,2,At home,Mobile Data,0.2222222222222222,53.388888888888886,13.941176470588236
+63,Female,Barzil,38135,False,True,Labor/Worker,Urban,TikTok,282,4,11,6827,8,21,21,72,Evening,3,7,5,5,At work,Mobile Data,1.0,325.0952380952381,70.5
+60,Other,Indonesia,67377,True,False,Artist,Rural,YouTube,297,17,27,1217,7,8,19,15,Afternoon,6,4,8,2,At work,Mobile Data,0.42105263157894735,64.05263157894737,17.470588235294116
+64,Female,Mexico,43554,False,True,Waiting staff,Rural,TikTok,143,14,15,8566,1,3,4,98,Afternoon,3,7,5,5,At home,Wi-Fi,0.75,2141.5,10.214285714285714
+62,Female,India,82491,True,False,Labor/Worker,Rural,Facebook,292,19,10,6007,4,2,13,88,Night,3,7,5,5,At home,Mobile Data,0.15384615384615385,462.0769230769231,15.368421052631579
+35,Female,United States,75621,True,True,Labor/Worker,Rural,Instagram,162,9,15,4130,3,19,18,97,Evening,8,2,10,0,At work,Mobile Data,1.0555555555555556,229.44444444444446,18.0
+55,Female,Pakistan,78283,True,False,Waiting staff,Rural,YouTube,75,12,13,1392,6,28,29,63,Evening,8,2,10,0,At home,Mobile Data,0.9655172413793104,48.0,6.25
+52,Female,United States,36923,False,True,Cashier,Rural,Instagram,146,5,14,2076,9,23,25,91,Night,6,4,8,2,At work,Mobile Data,0.92,83.04,29.2
+32,Male,Philippines,67591,True,False,Waiting staff,Rural,Facebook,101,11,17,8966,9,8,13,21,Afternoon,6,4,8,2,At home,Mobile Data,0.6153846153846154,689.6923076923077,9.181818181818182
+42,Male,United States,82261,True,True,Manager,Rural,YouTube,268,3,13,4316,7,17,27,5,Afternoon,3,7,5,5,At school,Mobile Data,0.6296296296296297,159.85185185185185,89.33333333333333
+54,Male,United States,74336,True,False,Students,Rural,Instagram,112,15,10,6196,9,13,19,35,Night,8,2,10,0,At work,Wi-Fi,0.6842105263157895,326.10526315789474,7.466666666666667
+45,Male,Pakistan,94083,True,True,Waiting staff,Rural,Instagram,64,14,25,4589,8,7,49,85,Afternoon,8,2,10,0,At school,Mobile Data,0.14285714285714285,93.65306122448979,4.571428571428571
+27,Male,Mexico,80948,True,False,Manager,Rural,Facebook,266,11,1,8142,5,9,1,68,Evening,6,4,8,2,Commuting,Wi-Fi,9.0,8142.0,24.181818181818183
+56,Other,Indonesia,53002,True,True,Labor/Worker,Rural,Instagram,110,8,1,6260,9,12,38,48,Evening,8,2,10,0,At school,Mobile Data,0.3157894736842105,164.73684210526315,13.75
+34,Male,India,93016,True,False,Manager,Rural,Facebook,207,4,15,8471,7,29,19,80,Morning,8,2,7,3,Commuting,Mobile Data,1.5263157894736843,445.8421052631579,51.75
+56,Other,Pakistan,46672,False,True,Driver,Rural,TikTok,235,12,16,7897,5,14,1,95,Morning,6,4,8,2,At home,Wi-Fi,14.0,7897.0,19.583333333333332
+39,Male,United States,24213,False,False,Cashier,Rural,Facebook,246,8,12,4841,8,14,40,90,Evening,6,4,8,2,At home,Mobile Data,0.35,121.025,30.75
+43,Male,Indonesia,30293,False,True,Students,Rural,TikTok,35,6,26,7161,7,15,17,62,Afternoon,6,4,8,2,At school,Mobile Data,0.8823529411764706,421.2352941176471,5.833333333333333
+61,Female,United States,75860,True,False,Students,Rural,YouTube,130,15,24,9666,9,3,21,35,Morning,3,7,5,5,At home,Mobile Data,0.14285714285714285,460.2857142857143,8.666666666666666
+42,Female,Indonesia,82507,True,True,Engineer,Rural,Instagram,191,12,6,1059,1,15,22,70,Night,3,7,5,5,At school,Mobile Data,0.6818181818181818,48.13636363636363,15.916666666666666
+34,Female,Mexico,77134,True,True,Engineer,Rural,Facebook,208,16,6,1922,9,19,15,97,Afternoon,8,2,10,0,At home,Wi-Fi,1.2666666666666666,128.13333333333333,13.0
+30,Female,Barzil,22100,False,True,Labor/Worker,Rural,Facebook,264,16,12,6101,7,24,39,21,Morning,3,7,5,5,At school,Mobile Data,0.6153846153846154,156.43589743589743,16.5
+37,Other,United States,81997,True,True,Artist,Urban,Instagram,131,4,25,4592,1,20,48,80,Afternoon,8,2,10,0,At home,Mobile Data,0.4166666666666667,95.66666666666667,32.75
+42,Female,Pakistan,48172,False,False,Waiting staff,Rural,Instagram,40,11,15,6349,1,14,39,39,Evening,9,1,10,0,At home,Mobile Data,0.358974358974359,162.7948717948718,3.6363636363636362
+21,Other,Indonesia,40132,False,True,Artist,Rural,YouTube,294,13,4,2473,5,8,32,34,Night,8,2,10,0,At work,Mobile Data,0.25,77.28125,22.615384615384617
+27,Male,United States,38199,False,False,Students,Urban,YouTube,115,9,24,8108,8,5,49,15,Night,6,4,8,2,At school,Wi-Fi,0.10204081632653061,165.46938775510205,12.777777777777779
+20,Male,Vietnam,56609,True,True,Waiting staff,Rural,Facebook,233,4,4,8096,9,19,4,6,Evening,6,4,8,2,At home,Mobile Data,4.75,2024.0,58.25
+58,Female,Japan,62965,True,False,Manager,Rural,YouTube,282,12,2,6748,6,4,44,66,Morning,8,2,10,0,At school,Mobile Data,0.09090909090909091,153.36363636363637,23.5
+62,Female,Philippines,28016,False,True,Labor/Worker,Rural,TikTok,241,9,27,4549,8,14,45,88,Evening,8,2,10,0,At home,Wi-Fi,0.3111111111111111,101.08888888888889,26.77777777777778
+35,Other,United States,59779,True,False,Waiting staff,Urban,YouTube,265,13,24,594,6,16,32,56,Night,8,2,10,0,At school,Mobile Data,0.5,18.5625,20.384615384615383
+64,Female,India,51881,True,True,Waiting staff,Urban,YouTube,33,16,12,5452,6,20,4,49,Evening,8,2,10,0,Commuting,Mobile Data,5.0,1363.0,2.0625
+53,Other,Barzil,44472,False,False,Students,Rural,Facebook,118,6,7,506,4,24,1,92,Evening,3,7,5,5,At work,Mobile Data,24.0,506.0,19.666666666666668
+64,Female,Barzil,71813,True,True,Labor/Worker,Rural,TikTok,200,10,20,4889,5,6,33,1,Evening,8,2,10,0,At school,Wi-Fi,0.18181818181818182,148.15151515151516,20.0
+39,Male,United States,56021,True,False,Labor/Worker,Urban,YouTube,34,13,9,7637,2,23,7,65,Night,6,4,8,2,At home,Wi-Fi,3.2857142857142856,1091.0,2.6153846153846154
+51,Male,Philippines,74131,True,True,Waiting staff,Rural,TikTok,196,7,9,8212,3,25,9,28,Afternoon,9,1,10,0,At home,Mobile Data,2.7777777777777777,912.4444444444445,28.0
+64,Female,India,44087,False,False,Students,Rural,TikTok,297,19,8,1399,3,6,1,20,Evening,9,1,10,0,At home,Wi-Fi,6.0,1399.0,15.631578947368421
+25,Female,Mexico,32828,False,True,Waiting staff,Rural,TikTok,125,19,14,3201,5,3,16,48,Evening,9,1,10,0,At home,Mobile Data,0.1875,200.0625,6.578947368421052
+57,Other,United States,81610,True,False,Driver,Rural,Instagram,46,17,1,7854,5,15,18,72,Night,8,2,10,0,At home,Mobile Data,0.8333333333333334,436.3333333333333,2.7058823529411766
+61,Male,Pakistan,21401,False,True,Artist,Rural,Instagram,291,13,23,6763,6,29,47,65,Evening,8,2,10,0,At work,Wi-Fi,0.6170212765957447,143.89361702127658,22.384615384615383
+36,Female,Barzil,35193,False,False,Labor/Worker,Rural,Instagram,146,13,21,7962,5,3,6,90,Afternoon,8,2,10,0,At home,Wi-Fi,0.5,1327.0,11.23076923076923
+59,Other,United States,64864,True,True,Waiting staff,Rural,Instagram,236,2,23,5190,6,11,2,51,Evening,6,4,8,2,At home,Mobile Data,5.5,2595.0,118.0
+58,Female,United States,40307,False,True,Teacher,Rural,Facebook,191,10,12,5681,8,3,9,43,Evening,8,2,10,0,At school,Mobile Data,0.3333333333333333,631.2222222222222,19.1
+54,Female,Mexico,39611,False,True,Waiting staff,Rural,YouTube,95,13,25,3678,2,28,4,49,Night,8,2,10,0,At work,Wi-Fi,7.0,919.5,7.3076923076923075
+23,Male,Mexico,63791,True,True,Driver,Rural,Instagram,62,9,2,336,4,10,45,25,Evening,8,2,10,0,Commuting,Wi-Fi,0.2222222222222222,7.466666666666667,6.888888888888889
+43,Male,India,31950,False,False,Waiting staff,Rural,Facebook,244,1,13,1667,6,18,23,74,Afternoon,3,7,5,5,At work,Wi-Fi,0.782608695652174,72.47826086956522,244.0
+51,Male,India,96240,True,True,Labor/Worker,Rural,YouTube,276,14,27,909,5,1,43,76,Afternoon,9,1,10,0,At work,Mobile Data,0.023255813953488372,21.13953488372093,19.714285714285715
+62,Male,India,97403,True,False,Students,Rural,Instagram,296,16,4,8467,1,16,45,41,Evening,8,2,10,0,At home,Wi-Fi,0.35555555555555557,188.15555555555557,18.5
+23,Female,Vietnam,22745,False,True,Students,Rural,YouTube,109,15,20,9083,9,16,43,71,Afternoon,8,2,10,0,At school,Wi-Fi,0.37209302325581395,211.2325581395349,7.266666666666667
+54,Male,Vietnam,75243,True,False,Labor/Worker,Urban,Instagram,96,1,18,8204,3,27,8,64,Night,9,1,10,0,At school,Mobile Data,3.375,1025.5,96.0
+50,Other,India,23866,False,True,Labor/Worker,Rural,Facebook,24,17,19,5122,2,10,39,61,Evening,8,2,10,0,At work,Mobile Data,0.2564102564102564,131.33333333333334,1.411764705882353
+39,Female,India,52245,True,False,Students,Urban,TikTok,110,13,16,8153,9,1,25,12,Evening,3,7,5,5,Commuting,Mobile Data,0.04,326.12,8.461538461538462
+38,Male,India,64724,True,True,Driver,Urban,TikTok,174,15,27,973,7,4,16,81,Afternoon,3,7,5,5,At home,Mobile Data,0.25,60.8125,11.6
+23,Male,Indonesia,91354,True,False,Students,Rural,YouTube,38,16,14,4270,5,3,35,69,Afternoon,8,2,10,0,At school,Wi-Fi,0.08571428571428572,122.0,2.375
+23,Male,Mexico,71374,True,True,Labor/Worker,Rural,Facebook,123,16,29,1408,6,5,17,14,Afternoon,3,7,5,5,At home,Wi-Fi,0.29411764705882354,82.82352941176471,7.6875
+21,Male,Philippines,50116,True,False,Labor/Worker,Rural,TikTok,116,2,8,2288,4,12,18,34,Afternoon,8,2,10,0,At work,Mobile Data,0.6666666666666666,127.11111111111111,58.0
+47,Female,Vietnam,40447,False,True,Waiting staff,Rural,Instagram,139,17,12,8738,1,25,27,48,Evening,3,7,5,5,At school,Mobile Data,0.9259259259259259,323.6296296296296,8.176470588235293
+28,Female,Pakistan,50431,True,False,Labor/Worker,Rural,TikTok,93,11,9,1218,4,12,15,61,Night,8,2,10,0,At school,Mobile Data,0.8,81.2,8.454545454545455
+47,Other,Indonesia,37908,False,True,Labor/Worker,Rural,YouTube,280,8,6,1420,9,13,17,81,Evening,8,2,10,0,At home,Mobile Data,0.7647058823529411,83.52941176470588,35.0
+48,Female,United States,49336,False,False,Manager,Rural,YouTube,253,3,26,9646,1,24,43,35,Afternoon,6,4,8,2,Commuting,Mobile Data,0.5581395348837209,224.32558139534885,84.33333333333333
+41,Male,United States,60992,True,True,Cashier,Urban,Facebook,223,12,18,3377,3,12,5,65,Night,8,2,10,0,At work,Mobile Data,2.4,675.4,18.583333333333332
+26,Other,India,75350,True,False,Labor/Worker,Rural,YouTube,175,16,2,7501,5,25,16,59,Afternoon,8,2,10,0,At home,Mobile Data,1.5625,468.8125,10.9375
+20,Male,Philippines,89561,True,True,Manager,Rural,TikTok,288,14,23,4098,7,16,15,36,Evening,8,2,10,0,At school,Mobile Data,1.0666666666666667,273.2,20.571428571428573
+48,Male,United States,71955,True,True,Cashier,Rural,TikTok,68,16,8,2738,9,13,42,79,Evening,3,7,5,5,At home,Wi-Fi,0.30952380952380953,65.19047619047619,4.25
+57,Male,Barzil,81240,True,True,Artist,Rural,TikTok,99,17,24,7619,6,5,46,19,Night,8,2,10,0,At work,Mobile Data,0.10869565217391304,165.6304347826087,5.823529411764706
+54,Male,India,40093,False,True,Driver,Rural,TikTok,203,11,14,1842,3,24,34,42,Night,9,1,10,0,At home,Wi-Fi,0.7058823529411765,54.1764705882353,18.454545454545453
+53,Female,Barzil,26155,False,False,Driver,Urban,Facebook,132,17,6,8938,7,4,48,69,Evening,3,7,5,5,At school,Mobile Data,0.08333333333333333,186.20833333333334,7.764705882352941
+41,Female,India,66607,True,True,Driver,Rural,Instagram,145,19,10,2816,4,21,19,19,Night,3,7,5,5,At work,Mobile Data,1.105263157894737,148.21052631578948,7.631578947368421
+48,Male,India,53487,True,False,Teacher,Rural,Instagram,148,1,8,9063,3,15,8,39,Evening,3,7,5,5,At work,Wi-Fi,1.875,1132.875,148.0
+23,Male,United States,75668,True,True,Cashier,Rural,Facebook,238,12,17,494,7,12,47,69,Evening,8,2,10,0,At home,Mobile Data,0.2553191489361702,10.51063829787234,19.833333333333332
+19,Male,India,40963,False,False,Cashier,Rural,YouTube,283,15,25,6560,7,19,10,52,Evening,6,4,8,2,Commuting,Mobile Data,1.9,656.0,18.866666666666667
+37,Male,Germany,70124,True,True,Artist,Urban,Instagram,59,18,29,5510,4,21,5,12,Afternoon,8,2,10,0,At school,Mobile Data,4.2,1102.0,3.2777777777777777
+45,Other,Vietnam,72870,True,False,Labor/Worker,Rural,YouTube,127,14,12,3444,7,28,48,83,Morning,8,2,10,0,At school,Mobile Data,0.5833333333333334,71.75,9.071428571428571
+28,Male,Germany,76547,True,True,Driver,Urban,Instagram,211,1,17,9267,2,19,26,47,Evening,8,2,10,0,At school,Wi-Fi,0.7307692307692307,356.4230769230769,211.0
+21,Female,Germany,84110,True,False,Manager,Rural,YouTube,200,13,13,7543,1,21,22,76,Afternoon,3,7,5,5,At home,Mobile Data,0.9545454545454546,342.8636363636364,15.384615384615385
+32,Male,Japan,73554,True,True,Students,Rural,Facebook,190,15,19,7562,2,11,44,36,Afternoon,3,7,5,5,At work,Mobile Data,0.25,171.86363636363637,12.666666666666666
+23,Other,Vietnam,40936,False,False,Students,Urban,TikTok,87,7,12,3994,4,21,23,63,Afternoon,8,2,10,0,At school,Wi-Fi,0.9130434782608695,173.65217391304347,12.428571428571429
+47,Male,Indonesia,24426,False,True,Waiting staff,Rural,YouTube,84,15,16,7253,8,6,13,76,Evening,3,7,5,5,At home,Mobile Data,0.46153846153846156,557.9230769230769,5.6
+55,Female,Philippines,47606,False,False,Students,Rural,TikTok,290,10,25,45,3,9,9,82,Afternoon,3,7,5,5,At home,Mobile Data,1.0,5.0,29.0
+19,Male,India,67832,True,True,Students,Rural,YouTube,30,14,27,2057,6,1,49,51,Night,3,7,5,5,Commuting,Mobile Data,0.02040816326530612,41.97959183673469,2.142857142857143
+32,Female,India,48151,False,False,Driver,Rural,YouTube,180,6,5,663,6,12,20,43,Night,3,7,5,5,Commuting,Mobile Data,0.6,33.15,30.0
+28,Male,Indonesia,99303,True,True,Students,Rural,YouTube,24,14,25,4668,9,26,28,34,Evening,6,4,8,2,At school,Mobile Data,0.9285714285714286,166.71428571428572,1.7142857142857142
+25,Female,United States,31308,False,False,Waiting staff,Rural,YouTube,220,12,16,2029,9,14,44,97,Morning,8,2,8,2,At school,Mobile Data,0.3181818181818182,46.11363636363637,18.333333333333332
+43,Female,United States,82522,True,True,Students,Urban,YouTube,57,11,25,5717,4,6,37,49,Night,8,2,10,0,At home,Mobile Data,0.16216216216216217,154.51351351351352,5.181818181818182
+62,Female,Germany,65671,True,True,Students,Rural,TikTok,95,19,6,2696,9,1,24,18,Night,9,1,10,0,At home,Wi-Fi,0.041666666666666664,112.33333333333333,5.0
+61,Other,Indonesia,22204,False,True,Artist,Rural,YouTube,158,2,11,8831,6,22,44,61,Evening,3,7,5,5,At work,Mobile Data,0.5,200.70454545454547,79.0
+22,Female,Vietnam,51131,True,True,Driver,Rural,TikTok,197,1,17,2663,2,2,33,57,Night,8,2,10,0,At home,Mobile Data,0.06060606060606061,80.6969696969697,197.0
+23,Female,Germany,72428,True,False,Teacher,Urban,Facebook,160,8,26,2745,6,24,20,93,Night,6,4,8,2,At school,Mobile Data,1.2,137.25,20.0
+43,Female,Barzil,53870,True,True,Students,Rural,Instagram,150,14,23,5004,2,11,48,5,Night,6,4,8,2,At school,Wi-Fi,0.22916666666666666,104.25,10.714285714285714
+21,Male,Japan,69067,True,False,Engineer,Rural,YouTube,78,9,14,6321,8,3,30,89,Evening,8,2,10,0,At school,Mobile Data,0.1,210.7,8.666666666666666
+36,Male,Pakistan,78585,True,True,Students,Rural,Instagram,269,2,6,5125,4,10,44,24,Evening,3,7,5,5,At home,Mobile Data,0.22727272727272727,116.47727272727273,134.5
+37,Male,United States,41607,False,False,Driver,Rural,TikTok,18,5,25,4948,5,6,9,93,Evening,3,7,5,5,At home,Mobile Data,0.6666666666666666,549.7777777777778,3.6
+50,Female,Japan,44968,False,True,Waiting staff,Rural,Facebook,130,8,23,4402,8,6,45,64,Morning,8,2,10,0,Commuting,Wi-Fi,0.13333333333333333,97.82222222222222,16.25
+37,Female,United States,31908,False,False,Labor/Worker,Rural,Facebook,110,16,28,3427,8,20,49,59,Evening,3,7,5,5,At home,Mobile Data,0.40816326530612246,69.93877551020408,6.875
+29,Male,Philippines,46423,False,True,Driver,Rural,Facebook,158,16,11,5912,6,21,17,38,Evening,9,1,10,0,At school,Mobile Data,1.2352941176470589,347.7647058823529,9.875
+64,Female,Pakistan,94707,True,False,Labor/Worker,Rural,Instagram,155,13,12,394,4,2,36,33,Evening,8,2,10,0,At work,Mobile Data,0.05555555555555555,10.944444444444445,11.923076923076923
+18,Female,India,98257,True,True,Students,Urban,TikTok,252,15,13,3597,1,26,14,10,Afternoon,6,4,8,2,At home,Mobile Data,1.8571428571428572,256.92857142857144,16.8
+43,Female,India,81215,True,False,Labor/Worker,Rural,YouTube,250,1,4,329,7,26,19,37,Evening,6,4,8,2,At school,Wi-Fi,1.368421052631579,17.31578947368421,250.0
+31,Female,Philippines,75835,True,True,Students,Rural,YouTube,52,3,7,772,8,24,7,97,Night,6,4,8,2,At home,Wi-Fi,3.4285714285714284,110.28571428571429,17.333333333333332
+55,Female,Germany,69429,True,False,Students,Rural,TikTok,104,6,2,8135,9,10,3,87,Night,3,7,5,5,Commuting,Mobile Data,3.3333333333333335,2711.6666666666665,17.333333333333332
+54,Other,India,58458,True,True,Driver,Rural,Instagram,235,14,6,1645,2,23,33,11,Night,8,2,10,0,At work,Wi-Fi,0.696969696969697,49.84848484848485,16.785714285714285
+28,Female,Indonesia,66169,True,False,Artist,Urban,YouTube,15,4,6,9924,1,26,44,24,Evening,6,4,8,2,Commuting,Mobile Data,0.5909090909090909,225.54545454545453,3.75
+53,Male,Philippines,27659,False,True,Labor/Worker,Urban,TikTok,223,18,18,1787,4,6,32,88,Morning,6,4,8,2,At school,Mobile Data,0.1875,55.84375,12.38888888888889
+30,Male,Indonesia,80614,True,False,Labor/Worker,Rural,YouTube,215,15,20,9815,5,23,47,71,Evening,6,4,8,2,At work,Wi-Fi,0.48936170212765956,208.82978723404256,14.333333333333334
+60,Female,India,97240,True,True,Labor/Worker,Urban,Facebook,76,9,8,999,1,28,11,21,Afternoon,3,7,5,5,At home,Wi-Fi,2.5454545454545454,90.81818181818181,8.444444444444445
+20,Other,Germany,52793,True,True,Artist,Urban,YouTube,109,18,8,1848,5,17,42,20,Afternoon,8,2,10,0,Commuting,Mobile Data,0.40476190476190477,44.0,6.055555555555555
+50,Male,Philippines,66473,True,True,Teacher,Rural,Instagram,21,3,29,1561,6,14,2,10,Night,8,2,10,0,Commuting,Mobile Data,7.0,780.5,7.0
+23,Female,India,75751,True,True,Students,Urban,TikTok,246,10,8,773,3,5,26,89,Night,8,2,10,0,Commuting,Mobile Data,0.19230769230769232,29.73076923076923,24.6
+27,Male,United States,98915,True,False,Waiting staff,Urban,Instagram,267,17,8,7311,7,23,4,47,Night,8,2,10,0,Commuting,Mobile Data,5.75,1827.75,15.705882352941176
+22,Male,India,74254,True,True,Students,Rural,TikTok,144,7,1,5179,6,17,17,47,Afternoon,9,1,10,0,At work,Mobile Data,1.0,304.6470588235294,20.571428571428573
+40,Female,Pakistan,27006,False,False,Waiting staff,Urban,Facebook,231,15,2,1803,4,2,17,15,Night,8,2,10,0,At home,Mobile Data,0.11764705882352941,106.05882352941177,15.4
+27,Male,India,94218,True,True,Waiting staff,Rural,TikTok,165,1,12,9290,3,9,28,44,Night,9,1,10,0,Commuting,Mobile Data,0.32142857142857145,331.7857142857143,165.0
+61,Male,Pakistan,85344,True,False,Students,Urban,YouTube,151,11,15,2050,5,12,30,62,Night,3,7,5,5,At work,Wi-Fi,0.4,68.33333333333333,13.727272727272727
+19,Male,India,53840,True,True,Driver,Urban,YouTube,167,17,4,9790,3,19,40,6,Evening,6,4,8,2,At home,Mobile Data,0.475,244.75,9.823529411764707
